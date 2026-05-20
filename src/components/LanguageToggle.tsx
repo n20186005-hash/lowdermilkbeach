@@ -1,8 +1,7 @@
 'use client';
 
 import { useLocale } from 'next-intl';
-import { useRouter, usePathname } from 'next-intl/navigation';
-import { routing, type Locale } from '@/i18n/routing';
+import { routing, type Locale, useRouter, usePathname } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
 const labels: Record<string, string> = {
@@ -33,18 +32,8 @@ export default function LanguageToggle() {
     // 如果当前已经在目标语言，不执行任何操作
     if (next === locale) return;
 
-    const segments = pathname.split('/').filter(Boolean);
-    
-    // Remove current locale prefix if present
-    if (routing.locales.includes(segments[0] as Locale)) {
-      segments.shift();
-    }
-    
-    // Construct new path - always add locale prefix for mode: 'always'
-    const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '';
-    
-    // Navigate - always include locale prefix
-    router.push(`/${next}${pathWithoutLocale}`);
+    // Navigate using next-intl router
+    router.replace({ pathname }, { locale: next });
   }
 
   return (
