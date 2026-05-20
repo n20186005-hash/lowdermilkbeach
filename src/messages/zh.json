@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "title": "Lowdermilk Park 劳德米尔克公园｜那不勒斯海滨公园 - 必游景点",
+    "description": "探索佛罗里达州那不勒斯市 Lowdermilk Park 的完整指南。了解这座美丽海滨公园的设施、位置和游览信息。享受墨西哥湾的日出和日落美景。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Lowdermilk Park",
+    "subtitle": "那不勒斯海滨公园 - 享受墨西哥湾的日出与日落美景",
+    "rating": "4.7(6,073)",
+    "reviewCount": "6,073 条评价",
+    "type": "海滨公园 · 那不勒斯必游",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Lowdermilk Park",
+    "description": "Lowdermilk Park 是位于佛罗里达州那不勒斯市的一座美丽海滨公园。这座公园以其 pristine 沙滩、清澈的海水和完善的设施而闻名，是当地居民和游客最喜爱的休闲目的地之一。\n\n公园位于 Gulf Shore Boulevard North，拥有宽敞的草坪、野餐区、沙滩排球场和儿童游乐场。这里是观赏墨西哥湾日出和日落的绝佳地点，也是享受佛罗里达阳光的理想场所。\n\n无论是清晨散步、下午野餐，还是傍晚欣赏日落，Lowdermilk Park 都能为您提供完美的海滨体验。公园还设有休息室、淋浴设施和充足的停车位，让您的访问更加舒适便捷。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "公园免费开放，无需门票",
+        "建议清晨或傍晚前往，避开正午烈日和人群",
+        "携带防晒霜、毛巾和饮用水",
+        "周末和节假日人流较多，建议提前到达"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "公园特色",
+      "items": [
+        "那不勒斯市最受欢迎的海滨公园之一",
+        "拥有 pristine 沙滩和清澈的墨西哥湾海水",
+        "配备野餐区、游乐场、排球场和完善设施",
+        "观赏日出的绝佳地点，日落景色同样迷人"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于 Lowdermilk Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "公园历史",
+        "content": "Lowdermilk Park 是那不勒斯市最受欢迎的海滨公园之一。这座公园以 Lowdermilk 家族命名，该家族对那不勒斯市的发展做出了重要贡献。公园经过精心维护，为居民和游客提供了完美的海滨休闲空间。\n\n公园位于 Gulf Shore Boulevard North，面向墨西哥湾，拥有 pristine 沙滩和完善的设施。多年来，这里一直是那不勒斯社区的重要聚集场所。"
+      },
+      {
+        "id": "features",
+        "title": "公园设施",
+        "content": "Lowdermilk Park 配备了完善的休闲设施，包括：\n\n• 宽敞的草坪区域，适合野餐和休闲活动\n• 儿童游乐场，设有安全的游乐设施\n• 沙滩排球场，可以尽情享受海滩运动\n• 野餐亭和烧烤设施\n• 干净的休息室和淋浴设施\n• 充足的停车位\n• 直接通往 pristine 沙滩\n\n这些设施使 Lowdermilk Park 成为家庭出游、朋友聚会和独自休闲的理想选择。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置",
+        "content": "公园位于那不勒斯市中心的黄金位置，地址是 1301 Gulf Shore Blvd N, Naples, FL 34102。这个位置提供了无与伦比的墨西哥湾景色，是观赏日出和日落的绝佳地点。\n\n从公园可以轻松步行到达那不勒斯市的其他景点，包括那不勒斯码头（Naples Pier）和市中心购物区。公园的地理位置使其成为游客探索那不勒斯海滩的理想起点。"
+      },
+      {
+        "id": "wildlife",
+        "title": "野生动物与自然环境",
+        "content": "Lowdermilk Park 不仅是休闲场所，也是观察佛罗里达自然生态的好地方。在公园和海滩区域，您可能会看到：\n\n• 各种海鸟和候鸟\n• 海豚在远处的海面上嬉戏（尤其在清晨和傍晚）\n• 墨西哥湾美丽的日落景色\n• 佛罗里达特有的海岸植被\n\n请尊重当地生态环境，不要干扰野生动物，共同保护这片美丽的自然空间。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Lowdermilk Park（劳德米尔克公园）",
+    "type": "景点类型",
+    "typeValue": "海滨公园、那不勒斯必游、佛罗里达州景点",
+    "country": "国家",
+    "countryValue": "美国",
+    "city": "城市",
+    "cityValue": "那不勒斯，佛罗里达州",
+    "googleRating": "谷歌评分",
+    "phone": "电话",
+    "phoneValue": "+1 239-213-7120",
+    "address": "地址",
+    "addressValue": "1301 Gulf Shore Blvd N, Naples, FL 34102"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "公园开放",
+    "parkTime": "每日 8:00 - 23:00",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "早晨（7-9点）：观赏日出，气温凉爽宜人",
+    "bestTimeSummer": "傍晚（17-19点）：避开烈日，享受海风和日落",
+    "bestTimeAutumn": "全天皆宜：气温舒适，是游览的最佳季节",
+    "bestTimeWinter": "上午（9-11点）或下午（15-17点）：冬季温暖舒适",
+    "tip": "建议查看那不勒斯市官网获取最新开放信息"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "公园入园",
+    "parkPrice": "完全免费，无需门票",
+    "parking": "停车费用",
+    "parkingPrice": "那不勒斯市居民免费，非居民按小时收费"
+  },
+  "transport": {
+    "title": "交通方式",
+    "fromDowntown": "从那不勒斯市中心出发",
+    "fromDowntownDesc": "从那不勒斯市中心驾车约10分钟，沿 Gulf Shore Boulevard North 北行即可到达。公园位于海滩一侧。",
+    "fromAirport": "从西南佛罗里达国际机场出发",
+    "fromAirportDesc": "从机场驾车约40分钟，沿 I-75 S 转 I-75 S 至 Naples，然后沿 US-41 西行至 Gulf Shore Boulevard。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "那不勒斯市有公交车服务，但班次较少。建议使用出租车或网约车服务前往公园。",
+    "walking": "步行或骑行",
+    "walkingDesc": "如果您住在 Gulf Shore Boulevard 附近的酒店，可以步行或骑行前往公园。",
+    "driving": "自驾与停车",
+    "drivingDesc": "公园设有停车场，但周末和节假日可能车位紧张。建议早上9点前到达以确保有车位。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "Lowdermilk Park 非常适合半日或一日游。建议您在早晨到达，享受宁静的海滩时光，中午在草坪区野餐，傍晚欣赏壮丽的日落景色。整个游览约需3-4小时。",
+    "steps": [
+      "早晨到达公园，在沙滩上散步，感受墨西哥湾的清新海风",
+      "在草坪区找一处阴凉处，搭建遮阳伞或野餐垫",
+      "享受海滩活动——游泳、沙滩排球或 simply 放松",
+      "中午在野餐区享用午餐，使用公园的烧烤设施",
+      "下午带孩子去游乐场玩耍，或在沙滩上建造沙堡",
+      "参观公园附近的 Naples Pier（那不勒斯码头），步行约15分钟",
+      "傍晚返回公园，在沙滩上欣赏壮丽的墨西哥湾日落",
+      "日落後在草坪区休息，享受海风和美妙的自然声音",
+      "如果时间允许，可以步行到市中心的 Third Street South 购物区"
+    ]
+  },
+  "photoSpots": {
+    "title": "最佳拍照点",
+    "spots": [
+      {
+        "name": "沙滩日落",
+        "desc": "在沙滩上拍摄墨西哥湾的壮丽日落，金色阳光洒在海面上"
+      },
+      {
+        "name": "草坪野餐区",
+        "desc": "在棕榈树和草坪的背景下，拍摄温馨的野餐和家庭聚会照片"
+      },
+      {
+        "name": "码头远景",
+        "desc": "从公园拍摄远处的 Naples Pier（那不勒斯码头），海天一色的美景"
+      },
+      {
+        "name": "儿童游乐场",
+        "desc": "捕捉孩子在游乐场玩耍的快乐瞬间，背景是蓝天和大海"
+      },
+      {
+        "name": "海滩排球场",
+        "desc": "运动主题的拍摄，展示活力四射的海滩排球活动"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": [
+      {
+        "name": "那不勒斯丽思卡尔顿酒店（The Ritz-Carlton Naples）",
+        "desc": "豪华海滨酒店，直接通往海滩，步行10分钟到 Lowdermilk Park",
+        "price": "约$400-600/晚"
+      },
+      {
+        "name": "那不勒斯海滩度假村（Naples Beach Hotel & Golf Club）",
+        "desc": "经典海滨度假村，拥有高尔夫球场和私人海滩，步行5分钟到公园",
+        "price": "约$250-400/晚"
+      },
+      {
+        "name": " Hampton Inn Naples/Marco Island",
+        "desc": "经济实惠的选择，干净舒适，免费早餐，车程10分钟到公园",
+        "price": "约$150-250/晚"
+      },
+      {
+        "name": "那不勒斯市中心爱彼迎（Airbnb in Downtown Naples）",
+        "desc": "正宗的社区体验，可以步行或骑行到公园，感受当地生活",
+        "price": "约$100-200/晚"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Lowdermilk Park - 那不勒斯海滨公园",
+    "captions": [
+      "公园海滨景色 1",
+      "公园海滨景色 2",
+      "公园景色 3",
+      "公园景色 4",
+      "公园景色 5",
+      "公园景色 6",
+      "公园景色 7",
+      "公园景色 8",
+      "公园景色 9",
+      "公园景色 10",
+      "公园景色 11",
+      "公园景色 12",
+      "公园景色 13",
+      "公园景色 14",
+      "公园景色 15",
+      "公园景色 16",
+      "公园景色 17",
+      "公园景色 18"
+    ],
+    "viewAll": "在 Google Maps 查看位置",
+    "showAll": "查看全部照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "张明（Zhang Ming）",
+        "date": "2026年5月",
+        "rating": 5,
+        "text": "Lowdermilk Park 是我们那不勒斯之行的最爱！沙滩非常干净，海水清澈见底。日落景色美得令人窒息，绝对值得一来！"
+      },
+      {
+        "name": "李美玲（Li Meiling）",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "带孩子来玩非常合适。游乐设施很新，沙滩排球场也很有趣。草坪区很适合野餐，我们待了整整一天！"
+      },
+      {
+        "name": "王建国（Wang Jianguo）",
+        "date": "2026年3月",
+        "rating": 4,
+        "text": "公园设施很完善，有淋浴间和休息室，非常方便。唯一缺点是周末人比较多，建议平日或早上早点来。"
+      },
+      {
+        "name": "陈晓雯（Chen Xiaowen）",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "在那不勒斯众多海滩公园中，Lowdermilk Park 绝对是 top 3。位置便利，停车也相对容易。日出时分的景色特别美，推荐摄影爱好者来！"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "1301 Gulf Shore Blvd N, Naples, FL 34102",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 Lowdermilk Park 独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "naples": "那不勒斯市",
+      "naplesParks": "那不勒斯市公园与娱乐",
+      "collier": "科利尔县",
+      "florida": "佛罗里达州",
+      "floridaDEP": "佛罗里达州环保（DEP）"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 信息收集",
+        "content": "我们通常不会主动收集用户的个人可识别信息。您透过联系表单或电子邮件提供的任何信息将被严格保密。"
+      },
+      {
+        "heading": "2. 信息使用",
+        "content": "我们收集的信息仅用于提供、维护和改进我们的服务，以及与您沟通。我们不会将您的个人信息出售或分享给第三方用于营销目的。"
+      },
+      {
+        "heading": "3. Cookie 与追踪技术",
+        "content": "我们使用 Cookie 和类似的追踪技术来追踪我们网站上的活动并保存某些信息。您可以指示您的浏览器拒绝所有 Cookie 或在发送 Cookie 时进行提示。"
+      },
+      {
+        "heading": "4. 数据安全",
+        "content": "您数据的安全性对我们很重要。我们努力使用商业上可接受的方式来保护您的个人数据，但任何互联网传输方法都无法保证100%安全。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，则不得访问该服务。"
+      },
+      {
+        "heading": "2. 服务使用",
+        "content": "本网站是一个独立的第三方旅游资讯项目。提供的信息仅供一般参考。您同意负责任且合法地使用本网站。"
+      },
+      {
+        "heading": "3. 知识产权",
+        "content": "本网站上的所有内容（包括文本、图像和徽标）均为网站所有者的财产（另有说明的除外）。严禁未经授权的使用、复制或分发。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用或无法使用本网站或其中包含的信息而导致的任何直接、间接、附带或后果性损害，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好设置。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "网站基本功能所需。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析 Cookie",
+      "description": "帮助我们了解访客如何与网站互动。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "用于跨网站追踪访客。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于 Lowdermilk Park",
+    "text": "Lowdermilk Park 是位于佛罗里达州那不勒斯市的一座美丽的海滨公园，由那不勒斯市公园与娱乐部门管理。\n\n这座公园拥有 pristine 沙滩、完善的休闲设施和壮观的墨西哥湾景色，是当地居民和游客最喜爱的目的地之一。无论是日出漫步还是日落野餐，这里都能提供完美的海滨体验。"
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "title": "Lowdermilk Park Naples FL | Premier Beachfront Park - Must-Visit Attraction",
+    "description": "Complete guide to Lowdermilk Park in Naples, Florida. Learn about this beautiful beachfront park, its facilities, location, and visiting information. Enjoy stunning Gulf of Mexico sunrises and sunsets."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Lowdermilk Park",
+    "subtitle": "Naples Beachfront Park - Enjoy Spectacular Gulf Sunrises & Sunsets",
+    "rating": "4.7(6,073)",
+    "reviewCount": "6,073 reviews",
+    "type": "Beach Park · Naples Must-Visit",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Lowdermilk Park",
+    "description": "Lowdermilk Park is a beautiful beachfront park located in Naples, Florida. This park is renowned for its pristine sandy beach, crystal-clear waters, and excellent facilities, making it one of the most beloved recreational destinations for both locals and tourists.\n\nSituated on Gulf Shore Boulevard North, the park features spacious lawns, picnic areas, sand volleyball courts, and a children's playground. It's a perfect spot to watch the sunrise and sunset over the Gulf of Mexico, and an ideal place to enjoy the Florida sunshine.\n\nWhether you're taking a morning stroll, having an afternoon picnic, or enjoying the evening sunset, Lowdermilk Park offers you the perfect beachfront experience. The park also provides restrooms, shower facilities, and ample parking to make your visit more comfortable and convenient.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Park admission is free, no tickets required",
+        "Visit early morning or late afternoon to avoid midday heat and crowds",
+        "Bring sunscreen, towels, and drinking water",
+        "Weekends and holidays are busier - arrive early to secure parking"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Park Highlights",
+      "items": [
+        "One of Naples' most popular beachfront parks",
+        "Features pristine sandy beach and clear Gulf waters",
+        "Equipped with picnic areas, playground, volleyball court, and full facilities",
+        "Excellent spot for sunrise viewing, sunset views are equally magnificent"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Lowdermilk Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Park History",
+        "content": "Lowdermilk Park is one of Naples' most beloved beachfront parks. The park is named after the Lowdermilk family, who made significant contributions to the development of Naples. The park has been carefully maintained over the years, providing a perfect beachfront recreational space for residents and visitors.\n\nLocated on Gulf Shore Boulevard North facing the Gulf of Mexico, the park features pristine sandy beach and complete facilities. Over the decades, it has remained an important gathering place for the Naples community."
+      },
+      {
+        "id": "features",
+        "title": "Park Facilities",
+        "content": "Lowdermilk Park is equipped with excellent recreational facilities, including:\n\n• Spacious lawn areas, perfect for picnics and leisure activities\n• Children's playground with safe play equipment\n• Sand volleyball courts for beach sports\n• Picnic pavilions and BBQ facilities\n• Clean restrooms and shower facilities\n• Ample parking spaces\n• Direct access to pristine beach\n\nThese facilities make Lowdermilk Park an ideal choice for family outings, friends' gatherings, and solo relaxation."
+      },
+      {
+        "id": "location",
+        "title": "Location",
+        "content": "The park is located in a prime location in Naples at 1301 Gulf Shore Blvd N, Naples, FL 34102. This location offers unparalleled Gulf of Mexico views and is an excellent spot for watching both sunrises and sunsets.\n\nFrom the park, you can easily walk to other Naples attractions, including Naples Pier and the downtown shopping district. The park's location makes it an ideal starting point for visitors exploring Naples beaches."
+      },
+      {
+        "id": "wildlife",
+        "title": "Wildlife & Natural Environment",
+        "content": "Lowdermilk Park is not only a recreational area but also a great place to observe Florida's natural ecology. In and around the park and beach area, you might see:\n\n• Various seagulls and migratory birds\n• Dolphins playing in the distant waves (especially in early morning and evening)\n• Beautiful sunset views over the Gulf of Mexico\n• Coastal vegetation typical of Florida\n\nPlease respect the local ecological environment, do not disturb wildlife, and help preserve this beautiful natural space."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Lowdermilk Park",
+    "type": "Attraction Type",
+    "typeValue": "Beach Park, Naples Must-Visit, Florida Attraction",
+    "country": "Country",
+    "countryValue": "United States",
+    "city": "City",
+    "cityValue": "Naples, Florida",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "phoneValue": "+1 239-213-7120",
+    "address": "Address",
+    "addressValue": "1301 Gulf Shore Blvd N, Naples, FL 34102"
+  },
+  "hours": {
+    "title": "Park Hours",
+    "park": "Park Access",
+    "parkTime": "Daily 8:00 AM - 11:00 PM",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Morning (7-9 AM): Watch sunrise, cool and pleasant temperature",
+    "bestTimeSummer": "Evening (5-7 PM): Avoid harsh midday sun, enjoy sea breeze and sunset",
+    "bestTimeAutumn": "All day: Comfortable temperature, best season to visit",
+    "bestTimeWinter": "Morning (9-11 AM) or Afternoon (3-5 PM): Warm and comfortable in winter",
+    "tip": "Check Naples city website for latest park hours and information"
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Park Entry",
+    "parkPrice": "Completely free, no admission fee",
+    "parking": "Parking Fee",
+    "parkingPrice": "Free for Naples residents, hourly fee for non-residents"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromDowntown": "From Downtown Naples",
+    "fromDowntownDesc": "Drive about 10 minutes from downtown Naples. Head north on Gulf Shore Boulevard North and the park will be on your right side facing the beach.",
+    "fromAirport": "From Southwest Florida International Airport",
+    "fromAirportDesc": "About 40 minutes drive from the airport. Take I-75 S to Naples, then head west on US-41 to Gulf Shore Boulevard.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Naples has bus service, but routes are limited. Taxis or ride-sharing services are recommended to get to the park.",
+    "walking": "Walking or Biking",
+    "walkingDesc": "If you're staying at a hotel near Gulf Shore Boulevard, you can walk or bike to the park.",
+    "driving": "Driving & Parking",
+    "drivingDesc": "The park has parking lot, but spaces fill up quickly on weekends and holidays. Arrive before 9 AM to secure a spot."
+  },
+  "route": {
+    "title": "Recommended Visit Route",
+    "overview": "Lowdermilk Park is perfect for a half-day or full-day visit. We recommend arriving in the morning to enjoy the peaceful beach time, having a picnic on the lawn at noon, and enjoying the spectacular sunset in the evening. Plan about 3-4 hours for the entire visit.",
+    "steps": [
+      "Arrive at the park in the morning, take a walk on the beach, feel the fresh sea breeze from the Gulf of Mexico",
+      "Find a shady spot on the lawn area, set up your beach umbrella or picnic mat",
+      "Enjoy beach activities — swimming, volleyball, or simply relaxing",
+      "Have lunch at the picnic area, use the park's BBQ facilities",
+      "Take kids to the playground in the afternoon, or build sandcastles on the beach",
+      "Visit nearby Naples Pier (about 15 minutes walk from the park)",
+      "Return to the park in the evening, enjoy the spectacular Gulf of Mexico sunset on the beach",
+      "Relax on the lawn after sunset, enjoy the sea breeze and wonderful natural sounds",
+      "If time permits, walk to the Third Street South shopping district in downtown"
+    ]
+  },
+  "photoSpots": {
+    "title": "Best Photo Spots",
+    "spots": [
+      {
+        "name": "Beach Sunset",
+        "desc": "Capture the spectacular Gulf of Mexico sunset on the beach, golden sunlight on the water"
+      },
+      {
+        "name": "Lawn Picnic Area",
+        "desc": "Photograph warm picnic and family gathering moments with palm trees and lawn as background"
+      },
+      {
+        "name": "Pier Distant View",
+        "desc": "Photograph the distant Naples Pier from the park, beautiful sea and sky scenery"
+      },
+      {
+        "name": "Children's Playground",
+        "desc": "Capture joyful moments of children playing at the playground, with blue sky and sea as background"
+      },
+      {
+        "name": "Beach Volleyball Court",
+        "desc": "Sports-themed photography, showcasing energetic beach volleyball activities"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "The Ritz-Carlton Naples",
+        "desc": "Luxury beachfront hotel, direct beach access, 10 minutes walk to Lowdermilk Park",
+        "price": "~$400-600/night"
+      },
+      {
+        "name": "Naples Beach Hotel & Golf Club",
+        "desc": "Classic beach resort with golf course and private beach, 5 minutes walk to the park",
+        "price": "~$250-400/night"
+      },
+      {
+        "name": "Hampton Inn Naples/Marco Island",
+        "desc": "Budget-friendly option, clean and comfortable, free breakfast, 10 minutes drive to the park",
+        "price": "~$150-250/night"
+      },
+      {
+        "name": "Airbnb in Downtown Naples",
+        "desc": "Authentic neighborhood experience, walk or bike to the park, feel the local life",
+        "price": "~$100-200/night"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Lowdermilk Park - Naples Waterfront Park",
+    "captions": [
+      "Park Waterfront View 1",
+      "Park Waterfront View 2",
+      "Park View 3",
+      "Park View 4",
+      "Park View 5",
+      "Park View 6",
+      "Park View 7",
+      "Park View 8",
+      "Park View 9",
+      "Park View 10",
+      "Park View 11",
+      "Park View 12",
+      "Park View 13",
+      "Park View 14",
+      "Park View 15",
+      "Park View 16",
+      "Park View 17",
+      "Park View 18"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Lowdermilk Park was the highlight of our Naples trip! The beach is incredibly clean and the water is crystal clear. The sunset view was breathtaking - absolutely worth a visit!"
+      },
+      {
+        "name": "Li Meiling",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Perfect place to bring kids. The playground equipment is new, and the sand volleyball court is lots of fun. The lawn area is great for picnics - we spent a whole day here!"
+      },
+      {
+        "name": "Wang Jianguo",
+        "date": "March 2026",
+        "rating": 4,
+        "text": "The park facilities are excellent, with restrooms and shower areas that are very convenient. Only downside is it gets quite crowded on weekends - recommend coming on weekdays or arriving early in the morning."
+      },
+      {
+        "name": "Chen Xiaowen",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "Among all the beach parks in Naples, Lowdermilk Park is definitely top 3. Great location, relatively easy parking. The sunrise view is specatacular - highly recommend for photography enthusiasts!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "1301 Gulf Shore Blvd N, Naples, FL 34102",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Lowdermilk Park Independent Tourism Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "naples": "City of Naples",
+      "naplesParks": "Naples Parks & Recreation",
+      "collier": "Collier County",
+      "florida": "State of Florida",
+      "floridaDEP": "Florida DEP"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Lowdermilk Park",
+    "text": "Lowdermilk Park is a beautiful beachfront park located in Naples, Florida, managed by the Naples Parks & Recreation Department.\n\nThis park features pristine sandy beach, excellent recreational facilities, and spectacular Gulf of Mexico views. It is one of the most beloved destinations for both locals and visitors. Whether you're watching the sunrise or enjoying a sunset picnic, this park offers you the perfect beachfront experience."
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}
