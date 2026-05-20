@@ -97,10 +97,16 @@
     "park": "公园入园",
     "parkPrice": "完全免费，无需门票",
     "parking": "停车费用",
-    "parkingPrice": "那不勒斯市居民免费，非居民按小时收费"
+    "parkingPrice": "那不勒斯市居民免费，非居民按小时收费",
+    "guided": "导览服务",
+    "guidedPrice": "暂无官方导览，游客可自由探索"
   },
   "transport": {
     "title": "交通方式",
+    "fromCenter": "从市中心出发",
+    "fromCenterDesc": "从那不勒斯市中心驾车约10分钟，沿 Gulf Shore Boulevard North 北行即可到达。公园位于海滩一侧。",
+    "fromStation": "从火车站/长途车站出发",
+    "fromStationDesc": "附近暂无直达的火车或长途巴士站。建议先到达市中心，再转乘出租车或网约车前往。",
     "fromDowntown": "从那不勒斯市中心出发",
     "fromDowntownDesc": "从那不勒斯市中心驾车约10分钟，沿 Gulf Shore Boulevard North 北行即可到达。公园位于海滩一侧。",
     "fromAirport": "从西南佛罗里达国际机场出发",
@@ -153,27 +159,27 @@
     ]
   },
   "hotels": {
-    "title": "住宿建议",
+    "title": "周边住宿类型建议",
     "hotels": [
       {
-        "name": "那不勒斯丽思卡尔顿酒店（The Ritz-Carlton Naples）",
-        "desc": "豪华海滨酒店，直接通往海滩，步行10分钟到 Lowdermilk Park",
-        "price": "约$400-600/晚"
+        "name": "豪华海滨度假村",
+        "desc": "通常配备私人沙滩、高端餐饮和水疗服务，步行即可到达公园，适合追求极致体验的游客。",
+        "price": "旺季约 $400-800/晚"
       },
       {
-        "name": "那不勒斯海滩度假村（Naples Beach Hotel & Golf Club）",
-        "desc": "经典海滨度假村，拥有高尔夫球场和私人海滩，步行5分钟到公园",
-        "price": "约$250-400/晚"
+        "name": "精品连锁酒店",
+        "desc": "提供标准化的舒适服务，包含免费早餐和泳池，距离公园车程约 10 分钟，性价比高。",
+        "price": "旺季约 $150-300/晚"
       },
       {
-        "name": " Hampton Inn Naples/Marco Island",
-        "desc": "经济实惠的选择，干净舒适，免费早餐，车程10分钟到公园",
-        "price": "约$150-250/晚"
+        "name": "度假公寓 / 民宿",
+        "desc": "适合家庭或多人出行，配有全套厨房设备。部分位于那不勒斯市中心，可骑行或步行前往公园。",
+        "price": "旺季约 $150-350/晚"
       },
       {
-        "name": "那不勒斯市中心爱彼迎（Airbnb in Downtown Naples）",
-        "desc": "正宗的社区体验，可以步行或骑行到公园，感受当地生活",
-        "price": "约$100-200/晚"
+        "name": "汽车旅馆 / 经济型住宿",
+        "desc": "设施简单实用，适合预算有限且主要时间都在外游玩的旅客，距离公园通常在 15-20 分钟车程内。",
+        "price": "旺季约 $80-150/晚"
       }
     ]
   },

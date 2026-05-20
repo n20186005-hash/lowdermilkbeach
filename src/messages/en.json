@@ -97,10 +97,16 @@
     "park": "Park Entry",
     "parkPrice": "Completely free, no admission fee",
     "parking": "Parking Fee",
-    "parkingPrice": "Free for Naples residents, hourly fee for non-residents"
+    "parkingPrice": "Free for Naples residents, hourly fee for non-residents",
+    "guided": "Guided Tours",
+    "guidedPrice": "No official guided tours available, visitors can explore freely"
   },
   "transport": {
     "title": "How to Get Here",
+    "fromCenter": "From City Center",
+    "fromCenterDesc": "Drive about 10 minutes from downtown Naples. Head north on Gulf Shore Boulevard North and the park will be on your right side facing the beach.",
+    "fromStation": "From Train/Bus Station",
+    "fromStationDesc": "There are no direct train or long-distance bus stations nearby. It is recommended to arrive at the city center first and then take a taxi or ride-share to the park.",
     "fromDowntown": "From Downtown Naples",
     "fromDowntownDesc": "Drive about 10 minutes from downtown Naples. Head north on Gulf Shore Boulevard North and the park will be on your right side facing the beach.",
     "fromAirport": "From Southwest Florida International Airport",
@@ -153,27 +159,27 @@
     ]
   },
   "hotels": {
-    "title": "Accommodation",
+    "title": "Accommodation Types",
     "hotels": [
       {
-        "name": "The Ritz-Carlton Naples",
-        "desc": "Luxury beachfront hotel, direct beach access, 10 minutes walk to Lowdermilk Park",
-        "price": "~$400-600/night"
+        "name": "Luxury Beachfront Resorts",
+        "desc": "Usually equipped with private beaches, fine dining, and spa services. Walking distance to the park, perfect for those seeking premium experiences.",
+        "price": "Peak season ~$400-800/night"
       },
       {
-        "name": "Naples Beach Hotel & Golf Club",
-        "desc": "Classic beach resort with golf course and private beach, 5 minutes walk to the park",
-        "price": "~$250-400/night"
+        "name": "Boutique & Chain Hotels",
+        "desc": "Offer standardized comfort, often including free breakfast and pools. About a 10-minute drive to the park, great value for money.",
+        "price": "Peak season ~$150-300/night"
       },
       {
-        "name": "Hampton Inn Naples/Marco Island",
-        "desc": "Budget-friendly option, clean and comfortable, free breakfast, 10 minutes drive to the park",
-        "price": "~$150-250/night"
+        "name": "Vacation Rentals / Apartments",
+        "desc": "Ideal for families or groups, featuring full kitchens. Many are located in downtown Naples, allowing you to walk or bike to the park.",
+        "price": "Peak season ~$150-350/night"
       },
       {
-        "name": "Airbnb in Downtown Naples",
-        "desc": "Authentic neighborhood experience, walk or bike to the park, feel the local life",
-        "price": "~$100-200/night"
+        "name": "Motels / Budget Stays",
+        "desc": "Simple and practical facilities for budget-conscious travelers who spend most of their time outdoors. Usually within a 15-20 minute drive.",
+        "price": "Peak season ~$80-150/night"
       }
     ]
   },
