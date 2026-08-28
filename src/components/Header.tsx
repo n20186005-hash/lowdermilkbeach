@@ -16,7 +16,22 @@ export default function Header() {
   }, []);
 
   const locale = useLocale();
-  const logoHref = locale === 'en' ? '/' : `/${locale}`;
+  const basePath = locale === 'en' ? '/en' : '/';
+  const logoHref = basePath;
+
+  const navSections = [
+    'facts',
+    'history',
+    'ecology',
+    'lnt',
+    'photography',
+    'amenities',
+    'legend',
+    'gallery',
+    'reviews',
+    'map',
+    'reading',
+  ] as const;
 
   return (
     <header
@@ -32,12 +47,12 @@ export default function Header() {
           Lowdermilk Park
         </a>
 
-        <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+        <nav className="hidden md:flex items-center gap-5 lg:gap-6">
+          {navSections.map((section) => (
             <a
               key={section}
-              href={`/#${section}`}
-              className="text-sm font-medium transition-colors"
+              href={`${basePath}#${section}`}
+              className="text-sm font-medium transition-colors whitespace-nowrap"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
               {t(section)}

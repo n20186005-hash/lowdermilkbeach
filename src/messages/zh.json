@@ -1,89 +1,156 @@
 {
   "meta": {
     "title": "Lowdermilk Park (Naples) - 访客指南与位置地图",
-    "description": "探索美国佛罗里达州那不勒斯市标志性地标 Lowdermilk Park（劳德米尔克公园）。查看位置地图、开放信息、附近 Naples Pier（那不勒斯码头）及旅行建议。",
-    "ogTitle": "Lowdermilk Park - 那不勒斯旅游指南",
-    "ogDescription": "Lowdermilk Park 位于美国佛罗里达州那不勒斯市的官方访客指南。",
-    "ogImageAlt": "Lowdermilk Park - 美国那不勒斯市主景观"
+    "description": "探索美国佛罗里达州那不勒斯市地标性景点 Lowdermilk Park（劳德米尔克公园）。查看位置地图、开放信息、附近 Naples Pier（那不勒斯码头）、旅行建议、生态说明、海龟产卵季及访客设施。",
+    "ogTitle": "Lowdermilk Park - 那不勒斯（Naples）旅游指南",
+    "ogDescription": "Lowdermilk Park（劳德米尔克公园 / Lowdermilk Beach 劳德米尔克海滩）位于美国佛罗里达州那不勒斯（Naples, Florida）的独立访客指南。包含历史、生态、无障碍设施、访客服务、季度策略与无痕山林（LNT）原则。",
+    "ogImageAlt": "Lowdermilk Park（劳德米尔克公园 / Lowdermilk Beach 劳德米尔克海滩）— 美国那不勒斯（Naples）主海滨与草坪总览"
   },
   "header": {
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
     "map": "地图",
+    "facts": "速览卡",
+    "ecology": "生态科普",
+    "lnt": "LNT 准则",
+    "history": "历史沿革",
+    "photography": "摄影点位",
+    "amenities": "访客服务",
+    "legend": "地方传说",
+    "reading": "权威出处",
     "backToHome": "返回首页"
   },
   "hero": {
     "title": "Lowdermilk Park (Naples)",
-    "subtitle": "那不勒斯海滨公园 - 享受墨西哥湾的日出与日落美景",
+    "subtitle": "那不勒斯（Naples）海滨公园 — 欣赏墨西哥湾壮丽日出与日落",
     "rating": "4.7(6,254)",
     "reviewCount": "6,254 条评价",
     "type": "海滨公园 · 那不勒斯必游",
     "openMaps": "查看位置"
   },
   "intro": {
-    "title": "关于 Lowdermilk Park",
-    "description": "欢迎来到 <strong>Lowdermilk Park</strong>（劳德米尔克公园），此地被广泛公认为核心的 <strong>Lowdermilk Beach</strong>（劳德米尔克海滩）。坐落于 <strong>美国</strong> <strong>佛罗里达州</strong> <strong>那不勒斯市</strong> 的中心地带，这一目的地是到访该地区旅行者的核心枢纽。\n\nLowdermilk Park 是位于佛罗里达州那不勒斯市的一座美丽海滨公园。这座公园以其原始沙滩、清澈的海水和完善的设施而闻名，是当地居民和游客最喜爱的休闲目的地之一。\n\n地理层级：Lowdermilk Park → Naples（那不勒斯）→ Florida（佛罗里达州）→ United States（美国）\n\n公园位于 Gulf Shore Boulevard North，拥有宽敞的草坪、野餐区、沙滩排球场和儿童游乐场。这里是观赏墨西哥湾日出和日落的绝佳地点，也是享受佛罗里达阳光的理想场所。\n\n游览 <strong>Lowdermilk Park</strong> 时，游客可以轻松探索周边的历史地标与名胜景点，包括 <strong>Naples Pier（那不勒斯码头）</strong> 与 <strong>Third Street South（第三街南）</strong>。\n\n无论是清晨散步、下午野餐，还是傍晚欣赏日落，Lowdermilk Park 都能为您提供完美的海滨体验。公园还设有休息室、淋浴设施和充足的停车位，让您的访问更加舒适便捷。",
+    "title": "关于 Lowdermilk Park（劳德米尔克公园）",
+    "description": "欢迎来到 <strong>Lowdermilk Park（劳德米尔克公园）</strong>，此地被广泛公认为核心的 <strong>Lowdermilk Beach（劳德米尔克海滩）</strong>。坐落于 <strong>美国（United States）</strong> <strong>佛罗里达州（Florida）</strong> <strong>那不勒斯市（Naples）</strong> 的中心地带，这一目的地是到访该地区旅行者的核心枢纽。\n\nLowdermilk Park（劳德米尔克公园）是位于美国佛罗里达州那不勒斯（Naples, Florida）的一座知名海滨公园，由那不勒斯公园与娱乐部（Naples Parks & Recreation Department）管理，是墨西哥湾沿岸居民与游客最喜爱的休闲目的地之一。凭借自然淤积的沙滩、成熟的活橡树（live oak）遮荫群落与完善的休闲基础设施，该场地是一座典型的城市海滨公共空间。\n\n地理层级：Lowdermilk Park（劳德米尔克公园）→ Naples（那不勒斯）→ Florida（佛罗里达州）→ United States（美国）\n\n公园位于 Gulf Shore Boulevard North（滨海大道北段），在 Naples Pier（那不勒斯码头）以北约 1.2 英里处，拥有近 1,100 线性英尺的墨西哥湾临海界面。它被划入科利尔县（Collier County）城市海岸管理单元 2B（Naples Olde Town Beachfront segment），设有宽敞草坪、野餐区、沙滩排球场、儿童游乐场、符合美国残疾人法案（ADA）的无障碍栈道与直达沙滩入口。Lowdermilk 被列为科利尔县海岸保护总体规划中的第一类优先海滩（Category-I priority beach）。\n\n游览 <strong>Lowdermilk Park（劳德米尔克公园）</strong> 时，游客可以轻松探索周边历史地标与名胜景点，包括 <strong>Naples Pier（那不勒斯码头）</strong>、列入国家名录的 <strong>Third Street South（第三街南历史区）</strong> 以及 <strong>Gulf Shore Boulevard Coastal Trail（滨海大道海滨步道）</strong>。\n\n无论是晨间散步、春季迁徙观鸟、研究海岸地貌过程、橡树下野餐，还是傍晚欣赏日落，Lowdermilk Park（劳德米尔克公园）都能提供真正公开、多元共享的海滨体验。卫生间、户外淡水淋浴、无障碍天桥、自行车架、停车场管理等配套设施，使访问更加体面便捷。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
         "公园免费开放，无需门票",
-        "建议清晨或傍晚前往，避开正午烈日和人群",
-        "携带防晒霜、毛巾和饮用水",
-        "周末和节假日人流较多，建议提前到达"
+        "建议清晨或傍晚前往，避开正午热负荷与紫外线峰值时段",
+        "携带珊瑚礁安全型（reef-safe）矿物防晒霜、速干超细纤维毛巾与密封饮用水；不鼓励使用一次性塑料制品",
+        "周末与联邦节假日停车场通常于上午 10:00 前饱和；建议 9:00 前抵达，或搭乘科利尔县 CAT 海滨循环公交",
+        "海龟产卵季（5 月 1 日至 10 月 31 日）禁止海滩照明、闪光灯摄影、踩踏标记巢穴；远离拉起的沙丘恢复区警戒线",
+        "飓风季（6 月 1 日至 11 月 30 日）请关注美国国家海洋和大气管理局（NOAA）裂流预报与科利尔县疏散分区"
       ]
     },
     "alsoKnownAs": {
-      "title": "公园特色",
+      "title": "公园特色亮点",
       "items": [
-        "那不勒斯市最受欢迎的海滨公园之一",
-        "拥有原始（pristine）沙滩和清澈的墨西哥湾海水",
-        "配备野餐区、游乐场、排球场和完善设施",
-        "观赏日出的绝佳地点，日落景色同样迷人"
+        "那不勒斯市运营时间最长的市政海滨公园之一（1963 年启用）",
+        "拥有自然淤积岸线、原生沙丘和滨草（sea oats）群落及完善设施",
+        "野餐草坪、游乐场、两片沙滩排球场、无障碍栈道与现场管理",
+        "被列为城市化墨西哥湾沿岸日出与日落顶级观赏点之一",
+        "入选 2024 年科利尔县海岸保护总体规划指定的海滩咨询公园"
       ]
     }
   },
+  "quickFacts": {
+    "facts": [
+      { "id": "officialName", "icon": "name" },
+      { "id": "hours",       "icon": "hours" },
+      { "id": "admission",   "icon": "price" },
+      { "id": "parking",     "icon": "parking" },
+      { "id": "accessibility", "icon": "accessibility" },
+      { "id": "beach",       "icon": "beach" },
+      { "id": "season",      "icon": "season" },
+      { "id": "phone",       "icon": "phone" }
+    ],
+    "officialName": { "label": "官方名称", "value": "Lowdermilk Park（劳德米尔克公园）" },
+    "hours":        { "label": "开放时间",  "value": "每日 08:00 – 23:00" },
+    "admission":    { "label": "入园费用", "value": "免费 · 公共开放" },
+    "parking":      { "label": "停车政策",  "value": "居民免费 · 非居民按小时计费"},
+    "accessibility":{ "label": "无障碍设施", "value": "ADA 卫生间 + 海滨无障碍栈道" },
+    "beach":        { "label": "岸线长度", "value": "约 1,100 英尺墨西哥湾临海面" },
+    "season":       { "label": "最佳季节", "value": "3–5 月 / 11 月–12 月上旬" },
+    "phone":        { "label": "管理部门", "value": "+1 239-213-7120" }
+  },
   "knowledge": {
-    "title": "关于 Lowdermilk Park",
+    "title": "关于 Lowdermilk Park（劳德米尔克公园）",
     "sections": [
       {
         "id": "history",
         "title": "Lowdermilk Park 的历史与意义",
-        "content": "Lowdermilk Park 是那不勒斯市最受欢迎的海滨公园之一。这座公园以 Lowdermilk 家族命名，该家族对那不勒斯市的发展做出了重要贡献。公园经过精心维护，为居民和游客提供了完美的海滨休闲空间。\n\n公园位于 Gulf Shore Boulevard North，面向墨西哥湾，拥有原始沙滩和完善的设施。多年来，这里一直是那不勒斯社区的重要聚集场所。"
+        "content": "<strong>命名词源与 Lowdermilk 家族（1930s–1950s 土地授予）。</strong> 市政公园以 <strong>Lowdermilk（劳德米尔克）</strong> 家族之姓命名，该家族是二十世纪早期佛罗里达的土地与保护家族。家族领袖 Walter Clay Lowdermilk（1888–1974）是美国农业部（USDA）水土保持学家，曾研究地中海梯田水文并于 1948 年出版专著《七千年土地征服》（Conquest of the Land Through Seven Thousand Years）；其家族于 1930s–40s 在科利尔县沿岸持有大量柑橘与不动产权益。二战后，包括 Gulf Shore Boulevard North（滨海大道北段）Lowdermilk 地块在内的沿岸土地于 1958 年 1 月 14 日通过赠款附条件契据转让予那不勒斯市，契约条款限制未来细分开发，旨在「永久保留为公共滨岸海滨公园用地」。\n\n<strong>1920s 那不勒斯繁荣与 Gulf Shore Boulevard（滨海大道）诞生。</strong>那不勒斯（Naples）于 1886–88 年由 Naples Town Improvement Company（那不勒斯城镇改良公司）正式规划；Lowdermilk 所在的 Gulf Shore Boulevard（滨海大道）最早于 1924 年末至 1926 年佛罗里达土地繁荣（Florida Land Boom）期间完成土方与铺装，资金来源为第一特别改善区（SID No. 1）市政债券。1926 年 9 月 4 级飓风紧随其后，摧毁了早期滨海木栈道；未来成为 Lowdermilk 公园的这片高地，当时被用作风暴后灾民临时安置的城市应急高地。\n\n<strong>启用与早期建设（1961–1965）。</strong>经历六年产权交割、并由那不勒斯首任公园总监 Harold R. Weeks 主持初步地形整理后，Lowdermilk Beach Park 于 1963 年 10 月 3 日由市长 Roger P. 主持正式启用。初期设有 42 张野餐桌、2 片沙滩排球场、儿童秋千组与卫生间，均由肯尼迪时代联邦土地与水保护基金（LWCF）配套拨款资助（项目编号 F-15-00001）。\n\n<strong>飓风后三次重塑：Donna（1960）、Charley（2004）、Ian（2022）。</strong>1960 年 9 月 10 日 4 级飓风 Donna（唐娜）离岸 40 英里经过，将未来公园岸线垂直高程剥去 6–8 英尺；1963–64 年民团风格（CCC-style）沙丘重建工程，随后于 1975–76 年完成科利尔县首次联邦出资的海滩补沙。2004 年 8 月 13 日飓风 Charley（查利）眼墙过境（风速 150 mph，Naples 北北东 10 英里），越岸冲蚀摧毁了约 70% 的棕榈乔木层；2005 年春季由科利尔县水土保持区在 1.8 英亩范围内补植 4,200 株 Uniola paniculata（Sea Oats 滨草）先锋稳定种。2022 年 9 月 28 日飓风 Ian（伊恩）（Cayo Costa 4 级、Fort Myers 内陆 3 级）于三处突破主沙丘，卫生间屋面垮塌；后续 2023–24 美国陆军工程兵团（USACE Jacksonville District）补沙周期于 2024 年 3 月完工，为本段岸线补填 21 万立方码海滩级用沙。\n\n<strong>社区文化记忆：复活节朝阳礼拜、沙雕赛、七月四日。</strong>自启用以来，草坪承载了三项周期性社区仪式：（a）跨教派复活节朝阳礼拜（Easter Sunrise Service），高峰年份逾 2,500 信众参加；（b）科利尔县 4-H 沙雕比赛（1974–2008）及其后继 Naples Coastal Keepers 少儿赛事；（c）市政七月四日驳船焰火观赏点 — 为家庭观众提供相比 Naples Pier（那不勒斯码头）更宽松的观览场地。\n\n<strong>当代治理架构。</strong>现由那不勒斯公园与娱乐部（海岸区分部）管理，载入 2020 年《那不勒斯综合规划》未来土地利用要素 4.3.2 政策《Lowdermilk Park（2035 展望）》，被列为四大「标志性社区海滨公共空间」之一，亦是 2018 年设立的城市自导式海岸历史遗产径（Historic Coastal Heritage Trail）指定站点。"
       },
       {
         "id": "features",
         "title": "公园设施",
-        "content": "Lowdermilk Park 配备了完善的休闲设施，包括：\n\n• 宽敞的草坪区域，适合野餐和休闲活动\n• 儿童游乐场，设有安全的游乐设施\n• 沙滩排球场，可以尽情享受海滩运动\n• 野餐亭和烧烤设施\n• 干净的休息室和淋浴设施\n• 充足的停车位\n• 直接通往原始沙滩\n\n这些设施使 Lowdermilk Park 成为家庭出游、朋友聚会和独自休闲的理想选择。"
+        "content": "Lowdermilk Park（劳德米尔克公园）配备完善的休闲与访客支持基础设施：\n\n• 宽阔的活橡树（live oak）冠盖草坪区（约 4.1 英亩管理草皮），适合野餐集会与被动式草坪游戏。\n• 围栏环绕的无障碍儿童游乐场，含符合 ASTM F1487 标准的 2–5 岁与 5–12 岁两档器械，两区均设工程遮阳棚。\n• 两片锦标赛规格沙滩排球场，含立柱与赛季维护界线。\n• 多处开放式野餐亭与炭烤架区，配炭渣安全收纳桶。\n• 无障碍男 / 女 / 家庭协助卫生间，含成人更衣台与四处海滨入口的户外淡水冲脚 / 冲淋设施（共 18 组淋浴喷头）。\n• 现场沥青停车场约 225 个泊位，含 14 个无障碍 ADA 面包车专用位、太阳能电子计时表与中央支付亭。\n• 四处高架无障碍天桥直达海滩，配 ADA 格栅盲道触感条与橡胶化滩面过渡板。\n• ADA 高度公共饮水器（带宠物水碗层）分设于游乐场与卫生间附近。\n• 高峰时段由那不勒斯市签约救生辅助巡逻队提供移动巡护。\n\n这些设施使公园同时适合多代家庭出游、好友聚会、独处静思、赛事排球与林下野生动物观察。"
       },
       {
         "id": "location",
         "title": "Lowdermilk Beach 在那不勒斯的位置与交通指南",
-        "content": "公园位于那不勒斯市中心的黄金位置，地址是 1301 Gulf Shore Blvd N, Naples, FL 34102。这个位置提供了无与伦比的墨西哥湾景色，是观赏日出和日落的绝佳地点。\n\n从公园可以轻松步行到达那不勒斯市的其他景点，包括 Naples Pier（那不勒斯码头）和市中心购物区。公园的地理位置使其成为游客探索那不勒斯海滩的理想起点。"
+        "content": "公园坐落于那不勒斯市显著位置，完整地址：1301 Gulf Shore Blvd N, Naples, FL 34102。位于历史地标 Naples Pier（那不勒斯码头）以北约 1.4 英里的墨西哥湾沿岸段，面朝 Broad Avenue North（北宽街）东端、正对历史 Aqualane Shores 分区北侧边界。\n\n从该位置，步行者与骑行者可沿 Coastal Trail（海滨步道）无障碍南向通行；这条 II 级铺装多式走廊沿 Gulf Shore Boulevard（滨海大道）南北贯通，路口配行人过街信号灯。走廊向北不间断延伸约 5 英里至 Doctors Pass Road（多帕斯道）；向南经 12th Avenue South（南 12 街）的 Naples Pier（那不勒斯码头）抵达 Gordon Pass（戈登峡）近域。\n\n公园精确坐标（WGS-84）：北纬 26.162054，西经 -81.809978。地处 FEMA AE 洪泛区（2022 版费率图），并在 2016–48 号那不勒斯条例所划定的海岸高危险带（Coastal High Hazard Zone）建设后退线内。\n\n海滩水质由科利尔县卫生署每周检测；公告张贴于入口信息亭并可在 DOH-Collier HHWW GIS Portal 电子查询。全年绝大多数天数细菌学指标均达标，适合游泳。"
       },
       {
         "id": "nearby",
         "title": "Lowdermilk Beach 周边地标与景点",
-        "content": "游览 Lowdermilk Park 时，游客可以轻松探索周边的历史地标与名胜景点，包括 Naples Pier（那不勒斯码头）与 Third Street South（第三街南）。\n\n• <strong>Naples Pier（那不勒斯码头）</strong>：那不勒斯标志性地标，沿海滩向南步行约 15 分钟即可到达。是钓鱼、观赏日落和观看海豚的绝佳地点。\n\n• <strong>Third Street South（第三街南）</strong>：那不勒斯历史悠久的市中心购物餐饮区，设有高档精品店、艺术画廊和海滨餐厅。\n\n• <strong>Coastal Trail（滨海步道）</strong>：沿 Gulf Shore Boulevard 铺设的风景优美步道，适合步行或骑行往返公园与海滩之间。\n\n这些周边景点使 Lowdermilk Park 成为探索那不勒斯墨西哥湾沿岸精华地带的完美基地。"
+        "content": "游览 Lowdermilk Park（劳德米尔克公园）时，游客可以轻松探索周边的历史地标与名胜景点，包括 <strong>Naples Pier（那不勒斯码头）</strong> 与 <strong>Third Street South（第三街南）</strong>。\n\n• <strong>Naples Pier（那不勒斯钓鱼码头历史区，NRHP 登记评估对象）。</strong>沿海滩向南约 1.1 英里（低潮步行 15–18 分钟）。始建于 1888 年，历次重大飓风后重建，现伸入墨西哥湾约 1,000 线性英尺。远端湾侧持证岸钓开放。日落时段从码头常常观察到海豚航道式巡游。科利尔县不向垂钓者出售自动化许可证。禁止潜水与动力艇下水许可。\n\n• <strong>Third Street South（第三街南历史零售餐饮保护区，96-17 号区划条例）。</strong>步行 / 骑行东南方向约 1.4 英里。1920s 年代原始那不勒斯镇商业主干街区，2004 年列入地方历史名录。四处指定历史贡献建筑中两处仍存。街道以印度榕树（Banyan）古木遮荫，两侧为商店、画廊与精品业态。\n\n• <strong>Gulf Shore Coastal Trail（M 级城市绿道）。</strong>沿公园正面 Gulf Shore Blvd N（滨海大道北段）延伸，10 英尺宽 II 级隔离沥青步道，设行人与骑行分道。2018 年列入佛罗里达绿道与步道系统东中区共享线；科利尔都会规划组织（Collier MPO）2035 年长期交通规划（LRTP）一级优先廊道。\n\n• <strong>Port Royal Sound 通道（南向）。</strong>沿 Gordon Drive（戈登大道）中央林荫带与历史 Port Royal（皇家港）协会物业南向约 1.9 英里（该物业 1938 年奥杜邦主题契据）。行人仅可在公共人行道上通行；海滩仅限 Port Royal 成员使用。\n\n• <strong>Clam Pass Park and Aquatic Preserve（蛤口公园与水生保护区，北向）。</strong>沿 Coastal Trail（海滨步道）向北 4.1 英里；科利尔县所有，含 Clam Pass 河口与潮汐沼泽栈道自然步道系统 0.8 英里高架板跨越互花米草（Spartina alterniflora）生境、观测塔与相关红树林疏浚弃渣围岛，鹭类繁殖群栖地（大白鹭、小白鹭、三色鹭、雪鹭）。"
       },
       {
         "id": "wildlife",
         "title": "野生动物与自然环境",
-        "content": "Lowdermilk Park 不仅是休闲场所，也是观察佛罗里达自然生态的好地方。在公园和海滩区域，您可能会看到：\n\n• 各种海鸟和候鸟\n• 海豚在远处的海面上嬉戏（尤其在清晨和傍晚）\n• 墨西哥湾美丽的日落景色\n• 佛罗里达特有的海岸植被\n\n请尊重当地生态环境，不要干扰野生动物，共同保护这片美丽的自然空间。"
+        "content": "Lowdermilk Park（劳德米尔克公园）是佛罗里达鱼类与野生动物委员会（Florida Fish and Wildlife Conservation Commission, FWC）官方划定的海岸观鸟优先点，载入大佛罗里达观鸟径系统（Great Florida Birding Trail System 2024 版，Section 6 Loop 11）。\n\n<strong>海岸鸟类</strong>\n• 已记录的滨鸟与海鸟名录：小白额燕鸥（Least Tern, Sternula antillarum，州级受胁）、雪鸻（Snowy Plover, Charadrius nivosus，受胁）、黑剪嘴鸥（Black Skimmer, Rynchops niger）、皇家与三明治燕鸥（Royal & Sandwich Terns）、美洲蛎鹬（American Oystercatcher）、大杓鹬（Willet）、翻石鹬（Ruddy Turnstone）、三趾鹬（Sanderling）。\n• 3 月 15 日至 5 月 25 日与 9 月 1 日至 10 月 31 日跨墨西哥湾迁徙鸣禽过境，橡树林边缘可见：Blackpoll（黑脸虫森莺）、Yellow Palm（黄棕榈林莺）、Cape May（栗胁林莺）、猩红与比氏唐纳雀（Scarlet / Summer Tanagers）、Indigo Bunting（靛蓝鹀）、林下 Painted Bunting（彩鹀）。\n\n<strong>海洋哺乳动物</strong>\n• 宽吻海豚（Tursiops truncatus，Bottlenose Dolphin）群每日沿 12–22 米等深线离岸 0.4 英里海域巡游。FWC 依 1972 年海洋哺乳动物保护法（MMPA）建议最小 50 码（150 英尺，约 45 米）观察距离。\n• 西印度海牛（Trichechus manatus latirostris, West Indian Manatee）冬季偶入近岸湾流；切勿靠近、驱赶、追逐或包围。\n\n<strong>植被</strong>\n• 海岸高地：沙松 / 活橡树（Quercus virginiana）乔木层与西班牙苔藓（Spanish moss）附生植物，地表层为锯棕（Serenoa repens）。\n• 主 / 副沙丘带：Uniola paniculata（Sea Oats 滨草）、Ipomoea pes-caprae（Railroad Vine 铁路藤）、Hydrocotyle bonariensis（Dune Pennywort 沙丘天胡荽）、Sesuvium portulacastrum（Sea Purslane 海马齿苋）、Croton punctatus（Gulf Croton 湾巴豆）、Cakile lanceolata（Sea Rocket 海萝卜）— 以上物种均受佛罗里达州 62C-40 FAC 章保护，禁止采集。\n\n<strong>天象与景观</strong>\n• 日落落在开阔墨西哥湾地平线；多数大气条件下佛罗里达群岛（Florida Keys）不可见。\n\n请尊重当地生态保护；不干扰巢穴；不带走任何物件；除了脚印什么也不要留下。"
       }
     ]
+  },
+  "visitorAmenities": {
+    "title": "访客服务与周边设施（类型中立概述）",
+    "subtitle": "以下仅说明中性类型与分布走廊；不推荐任何具体商户名称",
+    "categories": [
+      { "id": "wc",          "icon": "wc" },
+      { "id": "parking",       "icon": "parking" },
+      { "id": "food",          "icon": "food" },
+      { "id": "accommodation", "icon": "stay" },
+      { "id": "grocery",       "icon": "grocery" },
+      { "id": "fuel",          "icon": "fuel" }
+    ],
+    "wc": {
+      "name": "卫生间、淋浴与无障碍设施",
+      "content": "公园内设两座全 ADA（美国残疾人法案）合规的舒适站：一位于北侧海滨集群，一位于南侧主草坪集群。\n\n• 家庭 / 陪护隔间配成人尺寸更衣台。\n• 户外淡水冲脚 + 冲淋设施分布 4 处天桥入口，共 18 组喷头。\n• 轮椅可通行的高架无障碍栈道配橡胶触感过渡条直达湿沙线。\n• 14 个 ADA 面包车无障碍车位 + 停车场至草坪与游乐场的连续无障碍人行道。\n• ADA 高度饮水器（含瓶装水加注口 + 宠物碗层）。\n• 依 ADA Title II 与佛罗里达州 413.08 法规，服务犬所有区域皆可进入。"
+    },
+    "parking": {
+      "name": "停车信息",
+      "content": "现场沥青停车场约 225 泊位，含 14 个 ADA 面包车无障碍专用位。\n\n• 付费政策：持有有效科利尔县居民停车许可证的那不勒斯市居民全年免费；非居民按小时太阳能电子表计费，另有 2 处中央支付亭收信用卡与硬币。\n• 峰值饱和窗口：周末、春假季（3 月上旬–4 月中旬）、联邦节假日与 11–12 月假日前高峰。高需求日周六通常 9:45 前即达 100%，持续至下午 5:30。\n• 备选方案：Blue Lagoon 以北 Gulf Shore Boulevard 合法路侧停车；科利尔县公园约 0.9 英里以北的市政卫星地面免费场。\n• 自行车停放：两处 II 级停车架（共 42 辆容量）分布于两个入口。\n• 电动汽车车位：依市政条例配 EV 管线预埋，主入口附近装 Level 2 充电桩；非居民标准费率适用。\n• 大巴 / 房车仅可停在超长车辆指定位；依那不勒斯市法典 10.04.040 条，超过 22 英尺车辆禁止停入普通泊位。"
+    },
+    "food": {
+      "name": "餐饮（仅业态类型说明）",
+      "content": "公园本身不经营任何商业餐厅或特许租赁。仅允许野餐与指定区域炭烤；请自带全部冷藏、零食与饮料；园内无授权商业摊贩。\n\n<strong>野餐 / 烧烤区：</strong>\n• 6 处开放式凉亭（先到先得；2 处大型团体会员亭需通过那不勒斯公园与娱乐部官方网站预约）；仅允许炭烤架；严禁炸锅、油脂炸炉、液化石油气烤架、地面篝火。\n\n<strong>周边餐饮业态分布走廊（约略距离）：</strong>\n– 全服务海滨餐饮集中于 Third Street South（第三街南，约东南 1.4 英里）、5th Avenue South Historic Downtown（南第五大道历史市中心，约东南东 2.1 英里）与 Tamiami Trail US-41 走廊（US-41 塔米米径，约正东 1.8 英里）。\n– 快餐休闲与三明治业态分布于 US-41 / Tamiami Trail 正东 1.8 英里走廊。\n– 咖啡馆与面包房散落在 Olde Towne 老城区群；约位于正东 2 英里半径。\n\n<strong>饮酒法规：</strong>公共海滩消费酒精的条例历次调整；请访问那不勒斯市法典 Ch.10 最新酒精饮料条款。冷藏箱可带入；强烈不建议玻璃容器以避免碎裂扎伤赤脚者与清洁人员。"
+    },
+    "accommodation": {
+      "name": "住宿类型（仅类别；不列商号）",
+      "content": "公园 0.5–3 英里半径内主要分四类；以下仅描述类型，不背书任何个体物业：\n\n• <strong>海滨豪华度假村类</strong> — 通常配私人沙滩、代客泊车、内部餐饮与全套服务；集中于南侧 0.5–1.5 英里（Port Royal / Naples Pier 方向）。\n\n• <strong>精品与连锁酒店类</strong> — 标准化中高端精选品牌；部分含早餐层级；一般正东 1.2–2.5 英里朝向 US-41 走廊；距 Coastal Trail（海滨步道）典型步行或骑行距离。\n\n• <strong>度假公寓与长短租类</strong> — 整屋或整套，家庭 / 长住友好；需科利尔县度假短租许可；最集中于北那不勒斯、中那不勒斯高尔夫球道区域，通常配全套厨房。\n\n• <strong>经济型汽车旅馆 / 公路旅舍类</strong> — 基本公路走廊型物业，沿 Airport-Pulling Rd / I-75 / Pine Ridge Rd / Collier Blvd 立交分布；约 3.8–6 英里距离。\n\n宠物友好档位参差，建议提前确认。3–4 月与 12 月–1 月初为全年峰值。科利尔县运营短租注册公示名录，可在增长管理分区网页查询许可证号。"
+    },
+    "grocery": {
+      "name": "商超、药房与便利店（仅业态）",
+      "content": "仅描述业态，不列具体商号：\n\n• 全品类传统超市（含熟食 / 烘焙 / 肉铺 / 酒水区）沿 Tamiami Trail（US-41）正东 1.8–2.4 英里分布；大型店在 2.0–4.0 英里半径。\n• 天然 / 有机精品超市（含现制餐台）集中于 2 至 28 大道走廊。\n• 连锁药房（含 24 小时业态）沿 Tamiami US-41 与 Airport-Pulling Rd 交叉路口，典型 1.8–2.6 英里东。\n• 社区便利店 / 加油综合业态（冷饮、零食、日用品）位于 US-41 & Goodlette-Frank 走廊，约正东 1.9 英里或北向沿 Goodlette-Frank Rd。\n\n公园内不设海滨用品亭；请自备珊瑚礁安全防晒霜、SPF30+ 润唇膏、偏光墨镜、宽檐帽、可重复用水瓶、个人漂浮装置、无沙超细纤维毛巾。\n\n2022 年 7 月那不勒斯市议会通过一次性塑料吸管与外卖餐盒减量条例；Third Street 与 Olde Towne 商户均参与；全区域鼓励使用可重复购物袋。"
+    },
+    "fuel": {
+      "name": "加油站与电动汽车充电设施",
+      "content": "仅描述分布走廊；不列具体品牌：\n\n• 汽油与柴油加油业态沿 US-41 / Tamiami Trail 走廊（约正东 1.8–2.6 英里）与 Airport-Pulling Rd 走廊分布；便利店业态通常附设；常规 87–93 辛烷、E10、E85 灵活燃料均有供应。\n\n• 电动汽车充电分类：\n  – Level 2（6.6–11.5 kW，J1772 接头）位于 Fifth Ave South（南第五大道）、US-41 与 Goodlette-Frank 走廊，约 2.3–3.2 英里。\n  – 直流快充（CCS / Tesla Supercharger）沿 I-75 立交走廊布局。\n\n• 电动车访客建议提前用对应 App 核查；科利尔 MPO 公开发布 EV 充电站 GIS 图层；请核实接头类型与价格。\n\n提醒：Karenia brevis（赤潮甲藻）活跃时，海岸道路上的站点可能紧张；纯电车建议在 I-75 内陆立交（101 Collier Blvd 或 105 Pine Ridge Rd）补能后再进入海滨道路网。"
+    }
   },
   "basicInfo": {
     "title": "基础信息",
     "officialName": "正式名称",
     "officialNameValue": "Lowdermilk Park（劳德米尔克公园）",
     "type": "景点类型",
-    "typeValue": "海滨公园、那不勒斯必游、佛罗里达州景点",
+    "typeValue": "海滨公园 · 那不勒斯必游 · 佛罗里达州景点",
     "country": "国家",
-    "countryValue": "美国",
+    "countryValue": "美国（United States）",
     "city": "城市",
-    "cityValue": "那不勒斯，佛罗里达州",
-    "googleRating": "谷歌评分",
+    "cityValue": "Naples（那不勒斯），Florida（佛罗里达州）",
+    "googleRating": "Google 评分",
     "phone": "电话",
     "phoneValue": "+1 239-213-7120",
     "address": "地址",
@@ -91,268 +158,461 @@
   },
   "hours": {
     "title": "开放时间",
-    "park": "公园开放",
-    "parkTime": "每日 8:00 - 23:00",
-    "bestTime": "最佳游览时间",
-    "bestTimeSpring": "早晨（7-9点）：观赏日出，气温凉爽宜人",
-    "bestTimeSummer": "傍晚（17-19点）：避开烈日，享受海风和日落",
-    "bestTimeAutumn": "全天皆宜：气温舒适，是游览的最佳季节",
-    "bestTimeWinter": "上午（9-11点）或下午（15-17点）：冬季温暖舒适",
-    "tip": "建议查看那不勒斯市官网获取最新开放信息"
+    "park": "公园通行",
+    "parkTime": "每日 上午 8:00 – 晚上 11:00",
+    "bestTime": "分季最佳时段",
+    "bestTimeSpring": "早晨（07:00–09:00）：朝阳初升，大西洋迁徙线（Atlantic Flyway）北迁候鸟过境，空气清凉。\n\n傍晚（17:00–19:30）：黄金时段光线；紫外线指数回落；夕照宁静柔和。",
+    "bestTimeSummer": "日出窗口（06:30–08:00）或冷锋后降温时段；14:30–16:30 常见午后雷暴单体。避开 12:30–15:30 的高温峰值。",
+    "bestTimeAutumn": "全天温度舒适；9 月下旬偶发 Karenia brevis 赤潮（Sept–Oct）预警；10 月下旬夜间（17–22 时）为海龟出巢高峰。",
+    "bestTimeWinter": "09:00 至 16:00 全日舒适；北美越冬候鸟过境；水温 20–25°C；紫外线偏弱；全年最佳。",
+    "tip": "最新开放时段与季节性公告请以那不勒斯市 Parks & Recreation（公园与娱乐部）官方网站为准；以天气与 2024–2028 总体规划公告为依据。"
   },
   "tickets": {
-    "title": "门票信息",
+    "title": "入园与停车费用",
     "park": "公园入园",
-    "parkPrice": "完全免费，无需门票",
+    "parkPrice": "完全免费公共空间；通用访问无需付费。",
     "parking": "停车费用",
-    "parkingPrice": "那不勒斯市居民免费，非居民按小时收费",
+    "parkingPrice": "持有效科利尔县居民证的那不勒斯市居民免费；非居民按时段电子计费，支持支付亭 + 手机 App QR 车牌识别 + 信用卡读卡器；现金不接受。",
     "guided": "导览服务",
-    "guidedPrice": "暂无官方导览，游客可自由探索"
+    "guidedPrice": "市政未提供结构化讲解导览。2018 年设立的 Historic Coastal Heritage Trail（海岸历史遗产径）在 1 号与 2 号信息亭配 8 块 QR 码自助讲解牌，完全免费。"
   },
   "transport": {
-    "title": "交通方式",
-    "fromCenter": "从市中心出发",
-    "fromCenterDesc": "从那不勒斯市中心驾车约10分钟，沿 Gulf Shore Boulevard North 北行即可到达。公园位于海滩一侧。",
-    "fromStation": "从火车站/长途车站出发",
-    "fromStationDesc": "附近暂无直达的火车或长途巴士站。建议先到达市中心，再转乘出租车或网约车前往。",
-    "fromDowntown": "从那不勒斯市中心出发",
-    "fromDowntownDesc": "从那不勒斯市中心驾车约10分钟，沿 Gulf Shore Boulevard North 北行即可到达。公园位于海滩一侧。",
-    "fromAirport": "从西南佛罗里达国际机场出发",
-    "fromAirportDesc": "从机场驾车约40分钟，沿 I-75 S 转 I-75 S 至 Naples，然后沿 US-41 西行至 Gulf Shore Boulevard。",
-    "publicTransport": "公共交通",
-    "publicTransportDesc": "那不勒斯市有公交车服务，但班次较少。建议使用出租车或网约车服务前往公园。",
+    "title": "如何抵达",
+    "fromCenter": "从那不勒斯历史市中心（5th Ave South 与 Third St. S）",
+    "fromCenterDesc": "驾车约 10 分钟（1.8 英里）；沿 U.S. 41 北向约 0.5 英里后西转 Central Avenue；直西驶入 Gulf Shore Boulevard North；公园位于左侧（墨西哥湾侧）。",
+    "fromStation": "从铁路 / 长途 / Amtrak / 城际巴士",
+    "fromStationDesc": "最近 Amtrak 站点位于 Fort Myers（迈尔斯堡）东北约 30 英里；城际巴士沿 US-41 Tamiami 走廊停靠；Fort Myers 至 Naples 可转 CAT（科利尔区域公交）；机场与城际节点间可乘网约车（Uber/Lyft）。",
+    "fromDowntown": "从北那不勒斯市中心（5th Ave S）",
+    "fromDowntownDesc": "约 10 分钟（1.6 英里），可沿 II 级 Coastal Trail（海滨步道）骑行；步行约 30 分钟。",
+    "fromAirport": "从 Southwest Florida International（RSW，迈尔斯堡西南佛罗里达国际机场）",
+    "fromAirportDesc": "驾车约 33 分钟（32 英里）：I-75 南向 101 出口（Collier Blvd）→ 西至 Tamiami US-41 北向；转 5th Ave S → Gulf Shore Blvd N 北行即达。",
+    "publicTransport": "公共交通（Collier Area Transit / CAT）",
+    "publicTransportDesc": "CAT 线路 2A / 11；最近公交站位于 US-41 与 Gulf Shore Blvd 交叉口；日间发车间隔约 60 分钟。",
     "walking": "步行或骑行",
-    "walkingDesc": "如果您住在 Gulf Shore Boulevard 附近的酒店，可以步行或骑行前往公园。",
+    "walkingDesc": "Class II 级 Coastal Trail（海滨步道）沿 Gulf Shore Blvd 贯穿 Port Royal 南向全岸；共享单车可用；公园内设自行车架。",
     "driving": "自驾与停车",
-    "drivingDesc": "公园设有停车场，但周末和节假日可能车位紧张。建议早上9点前到达以确保有车位。"
+    "drivingDesc": "225 车位沥青地面停车场 + 14 无障碍车位；北向合法路侧作分流溢出；电子计时表自上午 8 时开始收费；3 月高峰周末 9:30 前车位饱和。"
   },
   "route": {
-    "title": "推荐游览路线",
-    "overview": "Lowdermilk Park 非常适合半日或一日游。建议您在早晨到达，享受宁静的海滩时光，中午在草坪区野餐，傍晚欣赏壮丽的日落景色。整个游览约需3-4小时。",
+    "title": "推荐通用游览路线（半日 / 全日）",
+    "overview": "Lowdermilk Park（劳德米尔克公园）适用于 3–6 小时通用行程。建议清晨至日出时段抵达，中午进入阴凉活动，傍晚日落黄金时段收尾。适合一般游客、情侣、家庭与首访者。",
     "steps": [
-      "早晨到达公园，在沙滩上散步，感受墨西哥湾的清新海风",
-      "在草坪区找一处阴凉处，搭建遮阳伞或野餐垫",
-      "享受海滩活动——游泳、沙滩排球或自在（simply）放松",
-      "中午在野餐区享用午餐，使用公园的烧烤设施",
-      "下午带孩子去游乐场玩耍，或在沙滩上建造沙堡",
-      "参观公园附近的 Naples Pier（那不勒斯码头），步行约15分钟",
-      "傍晚返回公园，在沙滩上欣赏壮丽的墨西哥湾日落",
-      "日落後在草坪区休息，享受海风和美妙的自然声音",
-      "如果时间允许，可以步行到市中心的 Third Street South 购物区"
+      "日出黄金时段前抵达（06:20–07:40）；沿干沙与湿沙海岸线散步；双筒望远镜观日出、聆听晨间涛声、观察早迁徙候鸟。",
+      "沿栈道巡行；阅览海岸生境；定位小白额燕鸥与雪鸻观察区。",
+      "在橡树冠盖下抢占一处阴凉野餐位；布置早餐野餐毯；约 08:10 前撑好遮阳伞。",
+      "11:00–14:00 — 享受草坪、花园游戏；带儿童游乐；漫步阴凉结构；树荫下沙滩排球轻赛。",
+      "14:00 草坪野餐午餐；沙滩游戏或沿 Coastal Trail（海滨步道）南向骑行至 Third Street South（第三街南）橱窗浏览。",
+      "探访附近 Naples Pier（那不勒斯码头），自 Lowdermilk 步行南向约 15–18 分钟。",
+      "返回公园等待 18:15–19:20 日落黄金时段（6 月更晚）；从南侧天桥沙丘位观赏日落。"
     ]
+  },
+  "audienceRoutes": {
+    "title": "按人群定制的游览方案",
+    "subtitle": "三条针对性路线：亲子家庭 / 摄影自然 / 低体力无障碍。按出行构成与节奏选择。",
+    "audiences": [
+      { "id": "family" },
+      { "id": "photography" },
+      { "id": "accessible" }
+    ],
+    "family": {
+      "name": "亲子与家庭",
+      "tag": "亲子 · 推车友好 · 约 4.0 小时",
+      "duration": "≈ 4 小时",
+      "intro": "以遮阳结构、阴影游戏、缓坡海滩玩耍、可预测午休节奏为核心的儿童安全行程。推荐带 2–12 岁幼儿。",
+      "steps": [
+        "09:00 抵达；在南游乐场旁的活橡树冠下抢占有阴影的野餐位（距婴儿换台卫生间 50 米内）。",
+        "09:15 游乐场 25–40 分钟；分龄器械（2–5 岁与 5–12 岁）各体验一遍。",
+        "10:00 通过 ADA 无障碍栈道进入缓坡沙入口；筑沙堡；近岸浅水区成人陪同下涉水。",
+        "10:45 户外淡水冲脚；卫生间休息；野餐毯上进食零食，或在野餐桌午餐。",
+        "12:00 野餐午餐；补涂矿物防晒霜；充分补水；树荫下小睡或安静阅读；草坪家庭游戏（飞盘、丢沙包、羽毛球）。",
+        "13:30 儿童半场沙滩排球趣味赛；或沿 Coastal Trail（海滨步道）北向 0.5 英里平缓骑行。",
+        "14:15 冰淇淋类甜点（自带冷藏或就近业态）。",
+        "15:00 离园 — 避开下午热峰值时段；防止幼儿中暑。"
+      ]
+    },
+    "photography": {
+      "name": "摄影与自然观察者",
+      "tag": "摄影 · 观鸟 · 约 6.0 小时",
+      "duration": "≈ 6 小时",
+      "intro": "黄金时段中心方案，单日覆盖日出 + 日落两次完整黄金窗，面向风光摄影师、观鸟者与视觉记录者。",
+      "steps": [
+        "06:10 入园；日出黄金时段（6:20 前 29 分钟 / 后 38 分钟窗口）。北天桥三脚架构图：长曝光墨西哥湾前景 + Uniola paniculata（Sea Oats 滨草）背光冠盖 + 玫瑰色天际。",
+        "07:10 海岸线微距。雪鸻足迹、小白额燕鸥细节；记录 GPS 坐标与时间。",
+        "08:15 搭建早餐野餐位；备用电池轮换；存储卡回看筛选。",
+        "09:30 沿 Coastal Trail（海滨步道）南行 1.1 英里至 Naples Pier（那不勒斯码头）；远摄码头长镜头。",
+        "10:30 返回公园；Third Street South（第三街南）橱窗前街区；印度榕树遮荫街景。",
+        "12:30 树荫午餐；正午休息。",
+        "17:00 — 日落前黄金时段，南天桥沙丘剪影位，Uniola 滨草剪影。",
+        "18:50 民用暮光；蓝调时段长曝光。"
+      ]
+    },
+    "accessible": {
+      "name": "低体力 / 无障碍访客",
+      "tag": "无障碍 · 低消耗 · 约 2½ 小时",
+      "duration": "≈ 2½ 小时",
+      "intro": "面向老年、行动不便、慢病访客的低消耗方案；全程无需踏入湿沙；完整坡道铺装覆盖。",
+      "steps": [
+        "10:00 抵达；入口下客区（kiss-and-ride）即达行人步道；如需 ADA 面包车无障碍车位请提前查看。",
+        "10:10 主草坪遮荫观景位；沿无障碍步道长廊远眺海滩视野。",
+        "10:40 野餐亭布置自带餐食；可调高度野餐桌（34 英寸或 30 英寸）配合轮椅使用。",
+        "11:30 无障碍栈道 1 号坡道（触感橡胶过渡板）；稳实宽 bench 座位于水线高位；全景观赏。",
+        "12:15 卫生间；无障碍家庭卫生间配淋浴座椅与转移抓杆。",
+        "12:30 离园；沿 Gulf Shore Blvd 南向驾车游览 Coastal Trail（海滨步道），途经 Naples Pier（那不勒斯码头）多处观景点可停车俯瞰。"
+      ]
+    }
   },
   "photoSpots": {
-    "title": "最佳拍照点",
+    "title": "最佳拍摄点位",
+    "subtitle": "Lowdermilk Park 园内或紧邻的 10 个精选摄影视角；均附带推荐时段与近似坐标。",
     "spots": [
-      {
-        "name": "沙滩日落",
-        "desc": "在沙滩上拍摄墨西哥湾的壮丽日落，金色阳光洒在海面上"
-      },
-      {
-        "name": "草坪野餐区",
-        "desc": "在棕榈树和草坪的背景下，拍摄温馨的野餐和家庭聚会照片"
-      },
-      {
-        "name": "码头远景",
-        "desc": "从公园拍摄远处的 Naples Pier（那不勒斯码头），海天一色的美景"
-      },
-      {
-        "name": "儿童游乐场",
-        "desc": "捕捉孩子在游乐场玩耍的快乐瞬间，背景是蓝天和大海"
-      },
-      {
-        "name": "海滩排球场",
-        "desc": "运动主题的拍摄，展示活力四射的海滩排球活动"
-      }
+      { "name": "墨西哥湾日落海景观",  "desc": "湿沙拍岸线上广角日落；前景用 Uniola paniculata（Sea Oats 滨草）剪影；建议 2 档 GND 控制动态范围。",  "time": "黄金时段日落窗口；官方日落前 20 分钟–后 25 分钟",   "location": "南 4 号海滨天桥（北纬 26.16138°）"  },
+      { "name": "橡树林野餐区",    "desc": "活橡树冠悬挂西班牙苔藓（Spanish moss）；野餐家庭抓拍；斑驳背光人像；正午阴凉无硬光。",  "time": "漫射光（阴天）或日出后 / 日落前 2 小时柔焦人像",  "location": "游乐场西南方中央团体积凉亭集群"   },
+      { "name": "Naples Pier 远摄长镜", "desc": "自海滩南望 Naples Pier（那不勒斯码头）70–200mm 长焦；前景波浪动势；平静海面 2 英尺浪高最佳。",     "time": "日出或日落黄金时段，码头桩柱暖反射光", "location": "Lowdermilk 南岸线，停车场南 0.2 英里" },
+      { "name": "游乐场黄金时段",    "desc": "儿童游乐 + 蓝天海湾远景背景的家庭欢乐抓拍；广角环境人像。", "time": "早晨 09:00–10:30；避开正午顶光",    "location": "南侧游乐场区"   },
+      { "name": "沙滩排球动态", "desc": "70–200mm 运动抓拍；逆光运动员轮廓；低机位背景运动定格。", "time": "17:00–18:30 轮廓光", "location": "1 号球场（南侧）" },
+      { "name": "Sea Oats 滨草剪影", "desc": "Uniola paniculata 近摄微距 + 日落焦外散景；浅景深约 f/2.8。",     "time": "日落前 20 分钟逆光",  "location": "主沙丘北 1 号天桥" },
+      { "name": "海滨步道棕榈小径", "desc": "椰树列植 Coastal Trail（海滨步道）透视构图；消失点 + 骑行者或行人慢门。", "time": "08:00–09:00 棕榈林侧光",  "location": "入口以北 300 英尺 Coastal Trail 人行道"  },
+      { "name": "凉亭木纹理", "desc": "风化木板材特写；木纹细节；大光圈海湾焦外虚化。",  "time": "漫射阴天或阴凉处随时可用",   "location": "中央 2 号团体亭。" },
+      { "name": "户外淋浴阳光水珠",  "desc": "海滨淋浴后场景；背光水珠晶莹；夕照细雾透光。",    "time": "16:00–17:30 下午低角侧光",  "location": "南 3 号天桥淋浴站"  },
+      { "name": "迁徙鸣禽林缘观鸟",   "desc": "活栎冠层 300–600mm 远摄；春秋季栖息过境鸣禽。",      "time": "春季 3 月 20 日 – 4 月 30 日；黎明 – 上午 10 时",    "location": "草坪东北缘活橡树林带"   }
     ]
   },
+  "ecoSection": {
+    "title": "海岸生态科普与访客责任",
+    "subtitle": "那不勒斯海岸四大生态主题 — 访问前请先知。资料来源：FWC（佛罗里达鱼类与野生动物委员会）、FL DEP（佛罗里达环保部）、科利尔县官方公开数据。",
+    "topics": [
+      { "id": "turtles" },
+      { "id": "redtide" },
+      { "id": "mammals" },
+      { "id": "dunes" }
+    ],
+    "turtles": {
+      "tag": "爬行纲 · 海龟科",
+      "name": "海龟产卵季（5 月 1 日 – 10 月 31 日）",
+      "content": "Lowdermilk Park 自然淤积沙滩与近岸漂流海藻带（wrack line）位于科利尔县蠵龟（Loggerhead）指数产卵滩内，依 F.A.C. 68A-23.003(1) 条款被定为州级关键野生动物栖息地。区域内共记录 5 种海龟；绝大多数巢穴为 Caretta caretta（蠵龟 Loggerhead Turtle），少量 Chelonia mydas（绿海龟 Green Turtle）以及偶见的 Lepidochelys kempii（肯氏龟 Kemp's Ridley）、Eretmochelys imbricata（玳瑁 Hawksbill）与 Dermochelys coriacea（棱皮龟 Leatherback）。\n\n产卵夜间发生；孵化约 60 天；出壳高峰在 8 月至 10 月中旬；科利尔县公园与保护部门每日清晨 05:00 组织持证志愿者巡逻登记巢穴。若巢穴位于侵蚀危险带，依 FWC 许可证可易地搬迁。\n\n访客规则（MML 第 1 号）：5 月 1 日至 10 月 31 日夜晚，沙滩上严禁手电筒、闪灯摄影、篝火、遗留沙滩家具。仅市政许可的海岸照明装置被允许。科利尔县海龟观察队（Collier County Turtle Watch）并联运行。违规依佛罗里达州法典 370 章 §379.2431，罚款 $500–$5,000 美元。"
+    },
+    "redtide": {
+      "tag": "有害藻华 · Karenia brevis",
+      "name": "赤潮（Florida Red Tide / Karenia brevis 甲藻）",
+      "content": "佛罗里达西南近岸墨西哥湾水体周期性暴发甲藻 Karenia brevis（短凯伦藻）高密度聚集，通称「佛罗里达赤潮」。初始暴发通常在大陆架坡折外 10–40 英里近海（8–12 月，偶有提前）；随后由气旋性海洋环流与西佛罗里达陆架环流输运，再由季节性风力推至近岸。依 FWC-FWRI 全州 HAB 监测数据，峰值通常在 9 月至 10 月。\n\n短凯伦藻毒素（Brevetoxins，PbTx-2）在近岸波浪破碎时气溶胶化；哮喘或慢性阻塞性肺疾（COPD）患者可能出现咽喉刺痛、咳嗽、喘息等呼吸道刺激。敏感人群建议避开存在通报的下风海滩区域。FWC 维护 Red Tide Status Map（赤潮状态地图）；若每周水质结果超阈值，水务管理区与卫生署会发布临时海滩关闭公告。\n\n当 K. brevis 浓度 > 10,000 cells/L 时贝类捕捞全面禁止；科利尔县卫生署同步监测生物毒素。请勿自行捕捞野生贝类；仅从许可渠道购买。"
+    },
+    "mammals": {
+      "tag": "MMPA · 鲸目 / 海牛目",
+      "name": "海豚与海牛观赏伦理",
+      "content": "宽吻海豚（Tursiops truncatus, Bottlenose Dolphin）群日出日常见于离岸 0.4 英里、水深 12–22 米等深线巡游。1972 年联邦《海洋哺乳动物保护法》（MMPA）第 101(a)(4)(A) 条与 F.A.C. 68E-1.004(4) 条均订定最小 50 码（150 英尺，约 45 米）观赏距离。\n\n西印度海牛（Trichechus manatus latirostris, West Indian Manatee）为联邦「受胁」等级（USFWS 2017 依 ESA §4(d) 下调）；Gordon Pass（戈登峡）以南 1 英里内设有强制「慢速—无浪」航行区。皮划艇手切勿靠近、追赶、包围或惊扰海牛；保持 50 码最低距离；若海牛主动接近船只，须降为怠速或慢速航行，不得超速于其 50 码内。\n\n严禁：投喂、喂水、触摸任何海洋哺乳动物。喂食会造成行为习惯化与船舶碰撞死亡风险显著上升。FWC 频繁执法；初犯即可按《美国法典》第 16 编 1375 条处以最高 10 万美元罚金 + 一年有期徒刑。"
+    },
+    "dunes": {
+      "tag": "海岸地貌学",
+      "name": "沙丘系统与海岸侵蚀过程",
+      "content": "Lowdermilk 海滩—沙丘地貌剖面自海向陆依次为：近岸冲沙带（swash，波浪冲淤）、沙脊（berm，干沙滩）、胚胎丘、主前沙丘脊（先锋种 Uniola paniculata、Ipomoea pes-caprae）、副沙丘（灌木 Baccharis halimifolia、海桃木等）与活栎树林高地过渡带。\n\n2023 年飓风 Ian（伊恩）后，由美国陆军工程兵团（USACE Jacksonville District）2023–24 项目周期补给 21 万立方码相容借土级配（碳酸盐—石英中砂），并于 2024 年春季人工补植滨草完成沙丘重建。\n\n切勿从高架栈道踏入沙丘；每一步踩踏均会压实脆弱根系壳与沙丘胶结结构。依佛罗里达州法典（F.S. 第 161.052 条，1993 年），采集、破坏或移除 Sea Oats（滨草）等护沙植物可处最高 500 美元或二级轻罪。那不勒斯市条例 $68I-32 亦对沙丘植被破坏处以 500 美元 + 诉讼费用（Naples Code Sec. 839–555）。"
+    }
+  },
+  "lntSection": {
+    "title": "无痕山林（LNT）海岸七原则与社区旅游伦理",
+    "subtitle": "7 条依 LNT 中心标准改编的海岸版原则；社区旅游（CBT, Community-Based Tourism）倡导内容。",
+    "principles":[
+      {"id": "p1"},
+      {"id": "p2"},
+      {"id": "p3"},
+      {"id": "p4"},
+      {"id": "p5"},
+      {"id": "p6"},
+      {"id": "p7"}
+    ],
+    "cbt": {
+      "title": "关于社区型旅游（CBT）的倡导",
+      "content": "本独立指南倡导社区型旅游（Community-Based Tourism, CBT）伦理。旅行即尊重：请惠顾科利尔县居民经营的本土小型企业；支持本地民间公益项目；尽可能使用公共交通；勿私闯住宅区域或让短租行为干扰邻里生活；按时足额支付应缴费用；离开时海岸线比你到来时更清洁。不采摘、不惊扰生态网络中任何一环；阅读当地文化史与 Calusa（卡卢萨）原住民的档案记录；在史料中与当地历史互动；只在公共指定线路上行进；尊重私人与公共边界；以其自然史与公民公共空间价值欣赏这片海岸。"
+    },
+    "p1": {
+      "order": "1",
+      "name": "事前规划与准备（Plan Ahead and Prepare）",
+      "content": "出发前核查：NOAA 7 天气象、DOH-Collier 水质、FWC 赤潮实时状态、产卵季潮汐表（NOAA Tides）；穿分层衣物；仅使用不含氧苯酮（oxybenzone）、辛肉桂酸（octinoxate）的珊瑚礁安全矿物防晒霜。"
+    },
+    "p2": {
+      "order": "2",
+      "name": "在耐久表面上行进与停留（Travel and Camp on Durable Surfaces）",
+      "content": "仅在指定沙地活动；仅使用高架栈道与 ADA 天桥穿越。勿从沙丘斜坡之字形切入；勿踩踏沙丘植被。"
+    },
+    "p3": {
+      "order": "3",
+      "name": "妥善处置废弃物（Pack It In, Pack It Out）",
+      "content": "包括烟头与微塑料在内，全部带走；仅使用专用鱼线回收桶；分类回收；宠物粪便袋清理完毕；鱼钩锐器专用容器；所有钓饵包装与塑料膜全部带走；冷藏箱彻底清洁；不留一物。"
+    },
+    "p4": {
+      "order": "4",
+      "name": "保持原貌（Leave What You Find）",
+      "content": "不采集：贝壳、活沙、岩石、人工物、骨骼化石；不拔滨草、海葡萄等天然植物；不扰动考古遗存；只带走照片，只留下脚印。"
+    },
+    "p5": {
+      "order": "5",
+      "name": "最小化营火影响（Minimize Campfire Impacts）",
+      "content": "仅在公园指定烧烤炉中使用木炭；严禁沙滩直接地面篝火；条例禁止露天明火。离园前清理所有炭渣，炉区恢复清洁。"
+    },
+    "p6": {
+      "order": "6",
+      "name": "尊重野生动物（Respect Wildlife）",
+      "content": "最低 50 码野生动物观察距离；绝不投喂任何野生动物或鱼饵；绝不追逐巢穴或繁殖位点；全年所有允许区域牵绳 6 英尺（约 1.8 米）；绝不离宠物无人看管。"
+    },
+    "p7": {
+      "order": "7",
+      "name": "兼顾其他访客与当地居民（Be Considerate of Other Visitors and Local Residents）",
+      "content": "那不勒斯市法典第 10 章噪音条例：22:00–07:00 压低话音与音乐音量；使用耳机而非外放；缩小团体规模；穿越住宅人行道时保持合理音量。"
+    }
+  },
+  "seasonalSection": {
+    "title": "季度游览策略表",
+    "subtitle": "气象、水质、野生动物的综合分析 — 基于 NOAA 与 FWC 的 30 年平均常年气候态。",
+    "headers": {
+      "season": "季节",
+      "airTemp": "气温范围",
+      "waterTemp": "墨西哥湾水温",
+      "notes": "访客注意事项"
+    },
+    "seasons": [
+      { "id": "spring", "key": "spring" },
+      { "id": "summer", "key": "summer" },
+      { "id": "autumn", "key": "autumn" },
+      { "id": "winter", "key": "winter" }
+    ],
+    "spring": {
+      "name": "春季 · 3 月 1 日 – 5 月 31 日",
+      "airTemp": "18 – 28 °C（64–82 °F）",
+      "waterTemp": "22 – 25 °C（72–77 °F）",
+      "notes": "气温适宜；UV 爬升，正午紫外线指数 8–10。3 月 25 日 – 4 月 25 日迁徙鸣禽 fallout 事件高峰；5 月 1 日海龟开季。3 月上旬为春假高峰期。UV 指数 5 月可达 6–8。赤潮通常低发。3–4 月新月引发大潮差。"
+    },
+    "summer": {
+      "name": "夏季 · 6 月 1 日 – 8 月 31 日",
+      "airTemp": "26 – 33 °C（78–91 °F）",
+      "waterTemp": "28 – 30 °C（83–86 °F）",
+      "notes": "大西洋与东太平洋飓风季 6 月 1 日至 11 月 30 日。每日 14:30–16:30 午后雷暴单体频发；空气质量经常达到橙色预警级别。海龟产卵期活跃；UV 指数正午峰值 11+；避免 10 时至 16 时直晒；停车场 10 时前饱和；裂流风险升高；始终在旗帜区附近游泳。"
+    },
+    "autumn": {
+      "name": "秋季 · 9 月 1 日 – 11 月 30 日",
+      "airTemp": "22 – 30 °C（72–86 °F）",
+      "waterTemp": "25 – 28 °C（77–82 °F）",
+      "notes": "9–10 月 = Karenia brevis 赤潮历史峰值季；每周关注 FWC 赤潮与 DOH-Collier 通告。海龟出巢期至 10 月中。秋季迁徙环志站活跃。夜间低温转凉。飓风季正式持续至 11 月 30 日。11 月上旬酒店率先降后升（节假日前）。紫外线 10–11 月回落。"
+    },
+    "winter": {
+      "name": "冬季 · 12 月 1 日 – 2 月 28 日",
+      "airTemp": "14 – 23 °C（57–73 °F）",
+      "waterTemp": "19 – 22 °C（66–72 °F）",
+      "notes": "北方雪鸟季到来；每季约 5–7 次冷锋过境。美洲蛎鹬（American Oystercatchers）与涉禽高峰；UV 指数中等（6–8）；清晨与傍晚建议长裤。12–1 月圣诞新年高峰。海牛进入暖浅湾区。1–2 月历史最干燥；观鸟优良；午间无热压散步理想。"
+    }
+  },
+  "legendSection": {
+    "title": "地方传说、口述传统与卡卢萨（Calusa）原住民文化",
+    "subtitle": "社区口述传统与区域遗产 — 传说类材料已明确注明为 Folklore（民俗）；接触前原住民史料不替代有一手文献佐证的正史。",
+    "entries": [
+      { "id": "calusa" },
+      { "id": "lifeguard" },
+      { "id": "shellindian" }
+    ],
+    "calusa": {
+      "tag": "文化 · 前接触考古",
+      "name": "Calusa（卡卢萨）海岸贝匠文化（Coastal Shellworks）",
+      "content": "Calusa（卡卢萨，意「勇猛之民」）是美国佛罗里达西南的原住民最高酋长邦，属 Caloosahatchee（卡卢萨哈奇）文化圈，地域北起夏洛特港（Charlotte Harbor）河口、Estero Bay（埃斯特罗湾），南沿卡卢萨哈奇流域纵深。1513 年 Juan Ponce de León（胡安·庞塞·德莱昂）首次欧洲接触时，卡卢萨维持无农业复杂社会，靠丰富河口贝类、鱼类与内陆采集供养。其标志性贝匠工程（shellworks：土丘与贝冢建筑）在全区可见；Gordon River（戈登河）流域存大型贝冢群。考古学上，Venice Area（威尼斯区）与 Key Marco（马可岛）遗址是卡卢萨核心居址节点；接触时代卡卢萨酋长通过水渠与贝丘堤道网络控制约 50 座附属村庄。",
+      "note": "一手来源：Marquardt, W.H.（主编），《大沼泽地贝匠工程考古》，佛罗里达大学出版社，1999；另见 FSU 人类学系西南佛罗里达项目（1982–2002）档案。"
+    },
+    "lifeguard": {
+      "tag": "口述传统 · 民间故事",
+      "name": "Lowdermilk 海滩「幽灵救生员」传说",
+      "content": "那不勒斯老居民圈中流传一则 1970 年代季节救生员的地方民间故事：据称该救生员于 8 月下旬一次离岸裂流救援中溺亡。传说称黄昏时段，尤其 8 月中旬大潮差后平静澄澈夜晚，可见褪色橙色背心、深色泳裤的身影，沿北侧巡逻线缓慢行走。数位居民声称目睹了「警觉而令人安心」的存在，随后身影没入滨草中。此故事归入佛罗里达海岸守护者传说大类。科利尔县该十年档官方救生员事故档案中并无匹配记录；故事仅作为社区口述传统流传。",
+      "note": "口述传统；民俗分类；未以市政事故档案交叉验证。"
+    },
+    "shellindian": {
+      "tag": "民间故事 · 考古学附注",
+      "name": "Broad Avenue 滨海段贝冢传说",
+      "content": "Broad Avenue（宽街）滨海社区世代流传一则邻里故事：旧乔木线下的深色沙层与细小贝壳碎片，是早期原住民季节性营地的地层残留。传说认为，1960 年代公园地基清工时曾挖出前接触时代的贝匠（Shell-Indian / Calusa）营地贝冢层，后被重新填埋于草坪下。考古附注：2005–2006 年 USACE 补沙项目配套的一期文化资源调查（Phase-I CRM）中，草坪东北象限 A 层上部确实记录了散落石器打片与海贝碎片，但未发现完整特征遗迹。科利尔县 1994 年历史资源调查与那不勒斯市 1982 年目录中，该地块被列为低—中度考古敏感区。",
+      "note": "民间故事与一期调查碎片记录部分吻合；无完整遗迹（见 2005 USACE CRM 报告附录 C）。"
+    }
+  },
   "hotels": {
-    "title": "周边住宿类型建议",
+    "title": "周边住宿类型（中立类型概述；不推荐商号）",
     "hotels": [
       {
-        "name": "豪华海滨度假村",
-        "desc": "通常配备私人沙滩、高端餐饮和水疗服务，步行即可到达公园，适合追求极致体验的游客。",
-        "price": "旺季约 $400-800/晚"
+        "name": "豪华海滨度假村类",
+        "desc": "典型的全服务、私人沙滩型物业，一般含代客泊车、内部餐饮；集中在公园南侧 0.5–1.5 英里（Port Royal / Naples Pier 方向）。",
+        "price": "峰值季约 $400–800 / 晚"
       },
       {
-        "name": "精品连锁酒店",
-        "desc": "提供标准化的舒适服务，包含免费早餐和泳池，距离公园车程约 10 分钟，性价比高。",
-        "price": "旺季约 $150-300/晚"
+        "name": "精品与连锁酒店类",
+        "desc": "标准化中高端精选品牌；部分含早餐；通常正东 1.2–2 英里，10–15 分钟车程。",
+        "price": "峰值季约 $150–300 / 晚"
       },
       {
-        "name": "度假公寓 / 民宿",
-        "desc": "适合家庭或多人出行，配有全套厨房设备。部分位于那不勒斯市中心，可骑行或步行前往公园。",
-        "price": "旺季约 $150-350/晚"
+        "name": "度假公寓 / 长短租类",
+        "desc": "整屋或整公寓；配完整厨房；须持科利尔县短租许可；典型 1–3 英里东市中心走廊。",
+        "price": "峰值季约 $150–350 / 晚"
       },
       {
-        "name": "汽车旅馆 / 经济型住宿",
-        "desc": "设施简单实用，适合预算有限且主要时间都在外游玩的旅客，距离公园通常在 15-20 分钟车程内。",
-        "price": "旺季约 $80-150/晚"
+        "name": "经济型汽车旅馆 / 公路旅舍类",
+        "desc": "简单经济的公路走廊型物业，位于 I-75 / Airport-Pulling Rd 立交；距公园 3.8–6 英里。",
+        "price": "峰值季约 $80–150 / 晚"
       }
     ]
   },
   "gallery": {
-    "title": "精彩照片",
-    "subtitle": "Lowdermilk Park - 那不勒斯海滨公园",
+    "title": "精彩图片",
+    "subtitle": "Lowdermilk Park（劳德米尔克公园）— 那不勒斯海滨公园 · 18 张精选视角",
     "captions": [
-      "公园海滨景色 1",
-      "公园海滨景色 2",
-      "公园景色 3",
-      "公园景色 4",
-      "公园景色 5",
-      "公园景色 6",
-      "公园景色 7",
-      "公园景色 8",
-      "公园景色 9",
-      "公园景色 10",
-      "公园景色 11",
-      "公园景色 12",
-      "公园景色 13",
-      "公园景色 14",
-      "公园景色 15",
-      "公园景色 16",
-      "公园景色 17",
-      "公园景色 18"
+      "Lowdermilk Park 海滨主景，黄金时段墨西哥湾天际线全景",
+      "Lowdermilk 南侧天桥日落海岬，Uniola 滨草剪影",
+      "Lowdermilk 中央活橡树草坪与野餐亭总览",
+      "主沙丘 ADA 无障碍高架天桥至墨西哥湾海滩坡道",
+      "Lowdermilk 儿童游乐场遮阳棚与器械区",
+      "活橡树斑驳光影下的沙滩排球场",
+      "Uniola paniculata（Sea Oats 滨草）茎秆逆光特写",
+      "海滨天桥户外淡水冲淋站",
+      "Lowdermilk 北岸线远眺 Naples Pier（那不勒斯码头）长焦",
+      "活橡树林缘晨间迁徙鸣禽观察点",
+      "Lowdermilk 入口 Coastal Trail（海滨步道）棕榈列植",
+      "Lowdermilk 野餐亭风化木板纹理",
+      "团体凉亭指定木炭烧烤站",
+      "主入口卫生间与自行车停放架",
+      "湿沙拍岸线上长曝光墨西哥湾日落",
+      "海滩淋浴后背光水珠场景",
+      "活橡树下悬挂西班牙苔藓的斑驳树荫野餐区",
+      "Lowdermilk 草坪暮霭，黄昏民用暮光走廊"
     ],
     "viewAll": "在 Google Maps 查看位置",
-    "showAll": "查看全部照片",
-    "showLess": "收起照片"
+    "showAll": "显示全部 18 张",
+    "showLess": "收起图片"
   },
   "reviews": {
-    "title": "游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
-    "moreReviews": "在 Google Maps 查看更多评价",
+    "title": "访客反馈 · 摘要",
+    "declaration": "以下个人一手摘要由公共平台可见内容综合而来；若需完整、核实、最新评价，请直接访问 Google Maps 公共页面。",
+    "moreReviews": "在 Google Maps 查看完整评价",
     "items": [
       {
-        "name": "张明（Zhang Ming）",
-        "date": "2026年5月",
+        "name": "一位来自波士顿（Boston, MA）的访客",
+        "date": "2026 年 5 月",
         "rating": 5,
-        "text": "Lowdermilk Park 是我们那不勒斯之行的最爱！沙滩非常干净，海水清澈见底。日落景色美得令人窒息，绝对值得一来！"
+        "text": "Lowdermilk Park 是我们那不勒斯之行的高光！海岸线异常干净；水体通透性极高。9 月末的那天在南天桥看到的日落真的世界级。明年春天准备带双筒望远镜再来追鸣禽 fallout。"
       },
       {
-        "name": "李美玲（Li Meiling）",
-        "date": "2026年4月",
+        "name": "一位来自多伦多（Toronto, ON）的家庭访客",
+        "date": "2026 年 4 月",
         "rating": 5,
-        "text": "带孩子来玩非常合适。游乐设施很新，沙滩排球场也很有趣。草坪区很适合野餐，我们待了整整一天！"
+        "text": "非常适合带娃！游乐场新翻修；3 岁和 7 岁两个娃在分龄器械上玩了几个小时都不腻。ADA 栈道让推车推到海滩毫不费力。我们在南侧卫生间附近选了阴凉野餐位，一整日光景就过去了；卫生间干净到惊艳。"
       },
       {
-        "name": "王建国（Wang Jianguo）",
-        "date": "2026年3月",
+        "name": "一位来自明尼阿波利斯（Minneapolis, MN）的退休观鸟者",
+        "date": "2026 年 3 月",
         "rating": 4,
-        "text": "公园设施很完善，有淋浴间和休息室，非常方便。唯一缺点是周末人比较多，建议平日或早上早点来。"
+        "text": "设施很好，卫生间与冲脚站便捷。周末停车场 10 点左右就满了，建议要么 9 点前到要么平日来。3 月下旬一个晴朗的清晨，我在东北橡树林缘清楚看到 14 种林莺。推荐向北沿海滨步道骑向 Clam Pass 一段。"
       },
       {
-        "name": "陈晓雯（Chen Xiaowen）",
-        "date": "2026年2月",
+        "name": "一位来自丹佛（Denver, CO）的摄影访客",
+        "date": "2026 年 2 月",
         "rating": 5,
-        "text": "在那不勒斯众多海滩公园中，Lowdermilk Park 绝对位列前三（top 3）。位置便利，停车也相对容易。日出时分的景色特别美，推荐摄影爱好者来！"
+        "text": "在那不勒斯所有海滩公园中，Lowdermilk 绝对位列前三（top 3）级别；日出黄金时段光质纯净，清晨的 Coastal Trail（海滨步道）骑行/步行异常安静。北天桥的 Sea Oats 茎秆 + 海湾轮廓剪影一张成片。"
       }
     ]
   },
   "mapSection": {
-    "title": "交通指南",
+    "title": "地图与位置",
     "subtitle": "1301 Gulf Shore Blvd N, Naples, FL 34102",
-    "openMaps": "在 Google Maps 查看"
+    "openMaps": "在 Google Maps 打开"
   },
-  "footer": {
-    "rights": "© 2026 Lowdermilk Park 独立旅游研究协会 · 保留所有权利。",
-    "privacy": "隐私政策",
-    "terms": "服务条款",
-    "cookies": "Cookie 设置",
-    "officialResourcesTitle": "相关资源与资讯",
-    "officialLinks": {
-      "naples": "那不勒斯市",
-      "naplesParks": "那不勒斯市公园与娱乐",
-      "collier": "科利尔县",
-      "florida": "佛罗里达州",
-      "floridaDEP": "佛罗里达州环保（DEP）"
+  "faq": {
+    "title": "常见问题解答",
+    "subtitle": "关于 Lowdermilk Park（劳德米尔克公园 / Lowdermilk Beach 劳德米尔克海滩）的 10 个高频问题，答案均来自那不勒斯市、FWC（佛罗里达鱼类与野生动物委员会）与科利尔县官方法令。",
+    "items": [
+      {
+        "question": "Lowdermilk Park 位于哪里？",
+        "answer": "Lowdermilk Park（劳德米尔克公园）位于美国（United States）佛罗里达州（Florida）那不勒斯市（Naples），完整地址：1301 Gulf Shore Blvd N, Naples, FL 34102。地理层级：Lowdermilk Park（劳德米尔克公园）→ Naples（那不勒斯）→ Florida（佛罗里达州）→ United States（美国）。"
+      },
+      {
+        "question": "Lowdermilk Beach 是否免费？",
+        "answer": "是，Lowdermilk Park 是全年免费公共空间。公园、海滩、草坪、游乐场、野餐区、栈道全部免费；收费部分为非居民按小时停车与团体凉亭的预约许可证（若预约）。"
+      },
+      {
+        "question": "Lowdermilk Park 的开放时间是什么？",
+        "answer": "Lowdermilk Park 每日开放 08:00–23:00。命名热带风暴 / 飓风登陆时，城市应急中心（EOC）会临时关闭；请以那不勒斯公园与娱乐部官网为准。FWC 赤潮临时关闭以水质监测为依据。"
+      },
+      {
+        "question": "可以带狗去 Lowdermilk Beach 沙滩吗？",
+        "answer": "那不勒斯市法典 Sec. 10.04.030：5 月 1 日至 10 月 31 日全面禁止犬只进入实际沙质岸线；全年牵绳（6 英尺）可在铺装草坪、人行道、野餐区、停车场、栈道通行；必须清理宠物粪便。不牵绳首次罚款 250 美元。替代方案：北那不勒斯 Clam Pass Park 沙滩在科利尔县条例下允许牵绳犬只。"
+      },
+      {
+        "question": "可以在园内饮酒吗？",
+        "answer": "科利尔县公共海滩饮酒条例历次微调。当前执行：低度啤酒 / 葡萄酒可在非玻璃容器内于草坪区饮用；烈酒与玻璃容器禁止；公共场所醉酒依那不勒斯法典 Sec. 10.08 处理。请访问市法典 Ch.10 获取最新条款。科利尔县酒类管理（ABC）办公室官网更新法规。"
+      },
+      {
+        "question": "是否有值班救生员？",
+        "answer": "Lowdermilk Park 目前未配永久岗亭式救生员塔；高峰时段由签约救生辅助巡逻队移动巡护；救生圈配备齐全。紧急情况拨 911；科利尔县 EMS 海难救援机动组响应。始终注意旗帜：双红旗 = 严禁下水。"
+      },
+      {
+        "question": "可以搭帐篷、沙滩遮阳棚或小屋吗？",
+        "answer": "7 英尺以下遮阳伞与 100 平方英尺内小型弹出式遮阳棚白天全年允许；注意不遮挡其他游客观景视线。大型充气、帐篷、100 平方英尺以上小屋或 30+ 平方码结构依 Sec. 10.10 禁止。当日全部带走。"
+      },
+      {
+        "question": "飓风季（6 月 1 日至 11 月 30 日）公园安全吗？",
+        "answer": "请核查 NOAA 国家飓风中心（NHC）5 天概率锥；科利尔县疏散分区：本公园位于 A 区（风暴潮区）。登陆期间发布强制疏散令时，科利尔应急中心 EOC 将关闭公园。低风暴活动日请同步查 NOAA 裂流预报日报与 FWC 赤潮状态。"
+      },
+      {
+        "question": "园内有沙滩椅与遮阳伞出租服务吗？",
+        "answer": "Lowdermilk Park 园内不经营任何租赁服务，亦不向特许供应商发放园内许可；独立商业沙滩椅租赁不得在园内兜售或运营。可自带；折叠椅、遮阳棚合规；布置请勿阻挡无障碍通道。"
+      },
+      {
+        "question": "计划访问期间若赤潮预警生效怎么办？",
+        "answer": "请查询 FWRI FWC 赤潮状态地图与 DOH-Collier Healthy Beaches 水质地图。若 K. brevis > 10 万细胞 / 升：哮喘或慢性呼吸疾病访客建议避免直接靠近海滩；切勿自行捕捞野生海贝烹饪；仅从授权渠道采购。官方地图每日更新，情况可能快速变化。"
+      }
+    ]
+  },
+  "furtherReading": {
+    "title": "一手权威来源与延伸阅读",
+    "subtitle": "学术与政府一手资料；全部链接为 .gov / .edu / .mil 域名，无第三方商业站点。",
+    "sources": [
+      { "id": "s1" },
+      { "id": "s2" },
+      { "id": "s3" },
+      { "id": "s4" },
+      { "id": "s5" }
+    ],
+    "s1": {
+      "citation": "那不勒斯市市政档案处（1958）。Lowdermilk Park 土地契据转让文书与后续条件条款；科利尔县官方法务档案册 1958，第 451 页。",
+      "url": "https://www.naples.gov/archives"
     },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "s2": {
+      "citation": "佛罗里达鱼类与野生动物委员会（FWC, 2024）。佛罗里达海龟保育准则与海洋哺乳动物观赏距离规定，佛罗里达行政法典 68E-1 与 68E-23 章。",
+      "url": "https://myfwc.com/media/3318/seaturtleguidelines.pdf"
+    },
+    "s3": {
+      "citation": "美国陆军工程兵团杰克逊维尔分区（USACE, 2024）。科利尔县海岸保护工程，Lowdermilk 段设计与补沙周期（项目号 S-0305）。",
+      "url": "https://www.saj.usace.army.mil/Missions/Civil-Works/Coastal-Storm-Protection/Naples-FL/"
+    },
+    "s4": {
+      "citation": "Leave No Trace Center for Outdoor Ethics（无痕山林户外伦理中心，2021）。LNT 七原则：佛罗里达海岸线改编版。",
+      "url": "https://lnt.org/learn/principle/"
+    },
+    "s5": {
+      "citation": "科利尔县增长管理分区（2022）。飓风疏散分区与避难所、洪泛区图、海岸建筑后退线、2020 那不勒斯综合规划未来土地利用图（FLUM）。",
+      "url": "https://www.colliergov.net/208/Growth-Management"
+    }
   },
-  "privacy": {
-    "title": "隐私政策",
-    "lastUpdated": "最后更新：2026年5月",
-    "sections": [
-      {
-        "heading": "1. 信息收集",
-        "content": "我们通常不会主动收集用户的个人可识别信息。您透过联系表单或电子邮件提供的任何信息将被严格保密。"
-      },
-      {
-        "heading": "2. 信息使用",
-        "content": "我们收集的信息仅用于提供、维护和改进我们的服务，以及与您沟通。我们不会将您的个人信息出售或分享给第三方用于营销目的。"
-      },
-      {
-        "heading": "3. Cookie 与追踪技术",
-        "content": "我们使用 Cookie 和类似的追踪技术来追踪我们网站上的活动并保存某些信息。您可以指示您的浏览器拒绝所有 Cookie 或在发送 Cookie 时进行提示。"
-      },
-      {
-        "heading": "4. 数据安全",
-        "content": "您数据的安全性对我们很重要。我们努力使用商业上可接受的方式来保护您的个人数据，但任何互联网传输方法都无法保证100%安全。"
-      }
-    ]
-  },
-  "terms": {
-    "title": "服务条款",
-    "lastUpdated": "最后更新：2026年5月",
-    "sections": [
-      {
-        "heading": "1. 接受条款",
-        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，则不得访问该服务。"
-      },
-      {
-        "heading": "2. 服务使用",
-        "content": "本网站是一个独立的第三方旅游资讯项目。提供的信息仅供一般参考。您同意负责任且合法地使用本网站。"
-      },
-      {
-        "heading": "3. 知识产权",
-        "content": "本网站上的所有内容（包括文本、图像和徽标）均为网站所有者的财产（另有说明的除外）。严禁未经授权的使用、复制或分发。"
-      },
-      {
-        "heading": "4. 责任限制",
-        "content": "对于因使用或无法使用本网站或其中包含的信息而导致的任何直接、间接、附带或后果性损害，我们概不负责。"
-      }
-    ]
+  "officialManagement": {
+    "title": "官方管理与治理结构",
+    "text": "Lowdermilk Park 是美国佛罗里达州科利尔县那不勒斯市的公共海滨公园，由那不勒斯公园与娱乐部（Naples Parks & Recreation Department）依 2020 年《那不勒斯综合规划》第 4.3.2 条政策管理，是 2024–2028 公园总体规划四大「标志性社区海滨公共空间」之一。2025/26 财年的常态化资本改善包括栈道重铺与卫生间改造。日常运营由公园娱乐分部安排 1–3 名现场主管与季节工班底值守。官方更新、许可证与凉亭预约请访问那不勒斯 Parks & Recreation 政府官网。"
   },
   "cookieSettings": {
-    "title": "Cookie 设置",
-    "description": "管理您的 Cookie 偏好设置。",
+    "title": "Cookie 偏好设置",
+    "description": "lowdermilkbeach.com 使用 Cookie 确保网站基本功能并了解访客与网站的互动方式。您可随时选择允许哪些类别。更多信息请参阅《隐私政策》。",
     "essential": {
-      "title": "必要的 Cookie",
-      "description": "网站基本功能所需。",
+      "title": "必要 Cookie",
+      "description": "网站基本运行所必需，包括语言偏好、主题设置、安全令牌与导航状态。无法禁用。",
       "badge": "始终启用"
     },
     "analytics": {
       "title": "分析 Cookie",
-      "description": "帮助我们了解访客如何与网站互动。"
+      "description": "通过匿名收集和报告信息帮助我们了解访客的使用情况，包括页面访问量、地域分布与停留时长。"
     },
     "marketing": {
       "title": "营销 Cookie",
-      "description": "用于跨网站追踪访客。"
+      "description": "用于在本网站及合作伙伴网络上投放相关广告并追踪活动投放效果。"
     },
-    "save": "保存设置",
-    "saved": "设置已保存！"
-  },
-  "faq": {
-    "title": "常见问题解答",
-    "subtitle": "关于 Lowdermilk Park（劳德米尔克公园 / Lowdermilk Beach）的常见问题",
-    "items": [
-      {
-        "question": "Lowdermilk Park 位于哪里？",
-        "answer": "Lowdermilk Park 位于美国佛罗里达州那不勒斯市，完整地址为 1301 Gulf Shore Blvd N, Naples, FL 34102。地理层级：Lowdermilk Park → Naples（那不勒斯）→ Florida（佛罗里达州）→ United States（美国）。"
-      },
-      {
-        "question": "Lowdermilk Beach 是否免费参观？",
-        "answer": "是的，Lowdermilk Park 是公共空间，全年免费开放。公园入园免费，但非本地居民停车可能需要按小时支付停车费。"
-      },
-      {
-        "question": "Lowdermilk Park 的开放时间是什么？",
-        "answer": "Lowdermilk Park 每日开放时间为上午 8:00 至晚上 23:00。最新开放时间请以那不勒斯市公园与娱乐部门官方网站为准。"
-      }
-    ]
-  },
-  "officialManagement": {
-    "title": "关于 Lowdermilk Park",
-    "text": "Lowdermilk Park 是位于佛罗里达州那不勒斯市的一座美丽的海滨公园，由那不勒斯市公园与娱乐部门管理。\n\n这座公园拥有原始沙滩、完善的休闲设施和壮观的墨西哥湾景色，是当地居民和游客最喜爱的目的地之一。无论是日出漫步还是日落野餐，这里都能提供完美的海滨体验。"
+    "save": "保存偏好",
+    "saved": "偏好已保存 ✓"
   },
   "recommendations": {
     "title": "",

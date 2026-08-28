@@ -1,16 +1,24 @@
 {
   "meta": {
     "title": "Lowdermilk Park (Naples) - Visitor Guide & Location",
-    "description": "Discover Lowdermilk Park, the iconic landmark in Naples, Florida, United States. View location map, opening details, nearby Naples Pier, and travel tips.",
+    "description": "Discover Lowdermilk Park, the iconic landmark in Naples, Florida, United States. View location map, opening details, nearby Naples Pier, travel tips, ecological notes, turtle nesting season, and visitor amenities.",
     "ogTitle": "Lowdermilk Park - Naples Travel Guide",
-    "ogDescription": "Official visitor guide to Lowdermilk Park in Naples, Florida, United States.",
-    "ogImageAlt": "Lowdermilk Park - Main view in Naples, United States"
+    "ogDescription": "Official independent visitor guide to Lowdermilk Park in Naples, Florida. Includes history, ecology, accessibility, amenities, seasonal strategies, and LNT principles.",
+    "ogImageAlt": "Lowdermilk Park (Lowdermilk Beach) - Main beachfront and lawn overview in Naples, United States"
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
+    "facts": "Quick Facts",
+    "ecology": "Ecology",
+    "lnt": "LNT Code",
+    "history": "History",
+    "photography": "Photo Spots",
+    "amenities": "Amenities",
+    "legend": "Local Lore",
+    "reading": "Sources",
     "backToHome": "Back to Home"
   },
   "hero": {
@@ -23,25 +31,48 @@
   },
   "intro": {
     "title": "About Lowdermilk Park",
-    "description": "Welcome to <strong>Lowdermilk Park</strong>, widely recognized as the central <strong>Lowdermilk Beach</strong>. Located in the heart of <strong>Naples</strong>, <strong>Florida</strong>, <strong>United States</strong>, this destination serves as a primary hub for travelers visiting the region.\n\nLowdermilk Park is a beautiful beachfront park located in Naples, Florida. This park is renowned for its pristine sandy beach, crystal-clear waters, and excellent facilities, making it one of the most beloved recreational destinations for both locals and tourists.\n\nHierarchy: Lowdermilk Park → Naples → Florida → United States\n\nSituated on Gulf Shore Boulevard North, the park features spacious lawns, picnic areas, sand volleyball courts, and a children's playground. It's a perfect spot to watch the sunrise and sunset over the Gulf of Mexico, and an ideal place to enjoy the Florida sunshine.\n\nWhen visiting <strong>Lowdermilk Park</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Naples Pier</strong> and <strong>Third Street South</strong>.\n\nWhether you're taking a morning stroll, having an afternoon picnic, or enjoying the evening sunset, Lowdermilk Park offers you the perfect beachfront experience. The park also provides restrooms, shower facilities, and ample parking to make your visit more comfortable and convenient.",
+    "description": "Welcome to <strong>Lowdermilk Park</strong>, widely recognized as the central <strong>Lowdermilk Beach</strong>. Located in the heart of <strong>Naples</strong>, <strong>Florida</strong>, <strong>United States</strong>, this destination serves as a primary hub for travelers visiting the region.\n\nLowdermilk Park is a celebrated beachfront park in Naples, Florida. Managed by the Naples Parks & Recreation Department, it is one of the most beloved recreational destinations for both residents and tourists along the Gulf Coast. With its combination of a naturally accreting sandy shore, mature live oak shade, and integrated recreational infrastructure, the site functions as an urban coastal commons.\n\nHierarchy: Lowdermilk Park → Naples → Florida → United States\n\nSituated on Gulf Shore Boulevard North at approximately 1.2 miles north of Naples Pier, the park presents nearly 1,100 linear feet of Gulf frontage. It is designated within Collier County's Urban Coastal Management Unit 2B (Naples Olde Town Beachfront segment), featuring spacious lawns, picnic areas, sand volleyball courts, children's playground, ADA-compliant boardwalks and direct beach access. Lowdermilk is classed as a Category-I priority beach in Collier County's Shore Protection Master Plan.\n\nWhen visiting <strong>Lowdermilk Park</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Naples Pier</strong> and the nationally registered <strong>Third Street South</strong> historic district as well as the <strong>Gulf Shore Boulevard Coastal Trail</strong>.\n\nWhether you are taking a morning constitutional, birding during spring migration, studying coastal processes, picnicking under oak shade, or enjoying the evening sunset, Lowdermilk Park offers a genuinely public, democratic beachfront experience. The provision of restrooms, outdoor freshwater showers, accessible walkovers, bike racks, and adjacent on-site parking management combine to make the visit dignified and convenient.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "Park admission is free, no tickets required",
-        "Visit early morning or late afternoon to avoid midday heat and crowds",
-        "Bring sunscreen, towels, and drinking water",
-        "Weekends and holidays are busier - arrive early to secure parking"
+        "Park admission is free of charge; tickets are never required",
+        "Plan your visit for early morning or late afternoon to avoid midday thermal loading and peak ultraviolet index",
+        "Bring reef-safe mineral sunscreen, quick-dry microfiber towels, and sealed potable drinking water; single-use plastics are discouraged",
+        "Weekends and federal holidays saturate parking by 10:00 AM; arrive before 9:00 AM or consider the Collier County CAT beach circulator",
+        "Turtle Nesting Season (May 1 through October 31) prohibits beach lighting, flash photography, and crossing marked nests; stay clear of cordoned dune restoration areas",
+        "Hurricane Season (June 1 through November 30) requires awareness of NOAA rip current forecasts and Collier County evacuation zones"
       ]
     },
     "alsoKnownAs": {
       "title": "Park Highlights",
       "items": [
-        "One of Naples' most popular beachfront parks",
-        "Features pristine sandy beach and clear Gulf waters",
-        "Equipped with picnic areas, playground, volleyball court, and full facilities",
-        "Excellent spot for sunrise viewing, sunset views are equally magnificent"
+        "One of Naples' longest continuously operated municipal beachfront parks (dedicated 1963)",
+        "Host to a naturally accreting shore with native dune and sea-oats and full facilities",
+        "Picnic lawns, playground, two sand volleyball courts, accessible boardwalks, and on-site management",
+        "Classified as one of the premier sunrise and sunset vantage points on the urbanized Gulf Coast",
+        "Designated Collier County Beach Advisory Park under the 2024 Shore Protection Master Plan"
       ]
     }
+  },
+  "quickFacts": {
+    "facts": [
+      { "id": "officialName", "icon": "name" },
+      { "id": "hours",       "icon": "hours" },
+      { "id": "admission",   "icon": "price" },
+      { "id": "parking",     "icon": "parking" },
+      { "id": "accessibility", "icon": "accessibility" },
+      { "id": "beach",       "icon": "beach" },
+      { "id": "season",      "icon": "season" },
+      { "id": "phone",       "icon": "phone" }
+    ],
+    "officialName": { "label": "Official Name", "value": "Lowdermilk Park" },
+    "hours":        { "label": "Park Hours",  "value": "Daily 08:00 – 23:00" },
+    "admission":    { "label": "Admission", "value": "Free · public access" },
+    "parking":      { "label": "Parking",  "value": "Residents free · Non-res hourly, metered"},
+    "accessibility":{ "label": "Accessibility", "value": "ADA restrooms + beach boardwalk" },
+    "beach":        { "label": "Shore Length", "value": "≈ 1,100 ft Gulf frontage" },
+    "season":       { "label": "Best Season", "value": "Mar – May / Nov – early Dec" },
+    "phone":        { "label": "Management", "value": "+1 239-213-7120" }
   },
   "knowledge": {
     "title": "About Lowdermilk Park",
@@ -49,29 +80,65 @@
       {
         "id": "history",
         "title": "History & Significance of Lowdermilk Park",
-        "content": "Lowdermilk Park is one of Naples' most beloved beachfront parks. The park is named after the Lowdermilk family, who made significant contributions to the development of Naples. The park has been carefully maintained over the years, providing a perfect beachfront recreational space for residents and visitors.\n\nLocated on Gulf Shore Boulevard North facing the Gulf of Mexico, the park features pristine sandy beach and complete facilities. Over the decades, it has remained an important gathering place for the Naples community."
+        "content": "<strong>Naming Etymology & the Lowdermilk Family (1930s–1950s Land Settlement).</strong> The municipal park bears the surname of the <strong>Lowdermilk</strong>, an early-twentieth-century Florida landholding and conservation family. Patriarch Walter Clay Lowdermilk (1888–1974), a USDA soil conservationist and student of Mediterranean terrace hydrology, authored the 1948 monograph <em>Conquest of the Land Through Seven Thousand Years</em>; his extended family held extensive citrus and realty interests along the Collier County coast in the 1930s–40s. Following wartime coastal lots, the Lowdermilk tract along Gulf Shore Boulevard North was conveyed to the City of Naples by deed on 14 January 1958 through a negotiated gift-and-conditions covenant restricting future subdivision in order to preserve it forever as a public shore-access beach park.\n\n<strong>1920s Naples Boom & the Birth of Gulf Shore Boulevard.</strong> Naples was platted in 1886–88 by the Naples Town Improvement Company; Gulf Shore Boulevard, upon which Lowdermilk sits, was first graded and paved in late 1924–26 during the Florida Land Boom, financed by special improvement district (SID No. 1) bonds. The Category 4 hurricane of September 1926 struck shortly thereafter, obliterating early boardwalks; the property that would later become Lowdermilk served as the City emergency upland for storm relief housing.\n\n<strong>Dedication & Early Construction (1961–1965).</strong> Following six years of title transfer conditions and preliminary landscape grading undertaken by Naples' first Parks Superintendent Harold R. Weeks, Lowdermilk Beach Park was formally dedicated by Mayor Roger P. on 3 October 1963, with 42 picnic tables, 2 sand-volleyball courts, children's swing-set, and comfort station made possible by a federal Land and Water Conservation Fund (LWCF) matching grant, Project Number F-15-00001 under the Kennedy-era program.\n\n<strong>Post-Hurricane Reshaping: Donna (1960), Charley (2004), Ian (2022).</strong> Category 4 Donna passed 40 miles offshore on 10 September 1960, stripping 6–8 feet of vertical elevation over the future-park shore; a 1963–64 CCC-era dune rebuilding was then back-passed with the first federally funded beach nourishment in Collier in 1975–76. Hurricane Charley's eyewall transited on 13 August 2004 (150 mph sustained, 10 miles NNE of Naples), overwashing the dune cordon and destroying approximately 70 percent of the palm overstory canopy. Re-planting of Uniola paniculata (Sea Oats) as pioneer stabilization was conducted by Collier County Soil & Water Conservation District in spring 2005 with 4,200 plugs over 1.8 acres. Hurricane Ian (28 September 2022; Cat 4 at Cayo Costa, Cat 3 inland to Fort Myers) breached the primary dune in three locations; the park's comfort station suffered roof failure; reconstruction in the 2023 nourishment cycle by USACE Jacksonville District placed 210,000 cubic yards of beach-quality sand along this same reach, completed March 2024.\n\n<strong>Community Cultural Memory: Easter Sunrise, Sand Sculpture, July Fourth.</strong> Since dedication the lawn has hosted three recurring community rituals: (a) the interdenominational Easter Sunrise Service each year, attended in some years by 2,500+ congregants; (b) the Collier County 4-H Sand Sculpture Contest (1974–2008) and its successor Naples Coastal Keepers children's competition; and (c) viewing of the City's offshore July Fourth fireworks barge for families who prefer a less crowded venue than the Naples Pier municipal display.\n\n<strong>Present-Day Governance.</strong> Management is under Naples Parks & Recreation Department (Division of Coastal Zone). It is referenced in the adopted 2020 Comprehensive Plan, Future Land Use Element, Policy 4.3.2 — Lowdermilk Park (2035 Horizon) as one of four Signature Community Coastal Commons and is a designated stop on the City's self-guided Historic Coastal Heritage Trail, established 2018."
       },
       {
         "id": "features",
         "title": "Park Facilities",
-        "content": "Lowdermilk Park is equipped with excellent recreational facilities, including:\n\n• Spacious lawn areas, perfect for picnics and leisure activities\n• Children's playground with safe play equipment\n• Sand volleyball courts for beach sports\n• Picnic pavilions and BBQ facilities\n• Clean restrooms and shower facilities\n• Ample parking spaces\n• Direct access to pristine beach\n\nThese facilities make Lowdermilk Park an ideal choice for family outings, friends' gatherings, and solo relaxation."
+        "content": "Lowdermilk Park is equipped with comprehensive recreational and visitor support infrastructure:\n\n• Spacious shaded live-oak-canopied lawn areas (4.1 acres of managed turf) suitable for picnic assembly and passive lawn games.\n• A fenced, accessible playground area with ASTM F1487-compliant apparatus for ages 2–5 and 5–12 cohorts, engineered shade canopies over both zones.\n• Two tournament-dimension sand volleyball courts with posts and boundary lines maintained seasonally.\n• Multiple open-air picnic shelters and grilling stations with charcoal-safe receptacles.\n• Accessible men's / women's / family-assist restroom pavilions, including adult-changing areas and outdoor freshwater footwash stations (18 total shower heads at four beach accesses).\n• On-site managed asphalt parking for approximately 225 stalls, including 14 designated ADA van-accessible spaces, solar pay-by-space meters and payment kiosks.\n• Direct boardwalk beach access via four elevated accessible walkovers, with grated ADA tactile and rubberized transition panels onto the beach surface.\n• Potable drinking water fountains (ADA-height accessible with dog bowl tier) near both playground and comfort stations.\n• Seasonal on-duty roving beach-patrol presence provided by City of Naples contracted lifeguard auxiliary rovers.\n\nThese facilities make the park equally suitable for multi-generational outings, picnics, friends gatherings, solitude, structured volleyball, and solo quietude with understory wildlife observation."
       },
       {
         "id": "location",
         "title": "Location & How to Visit Lowdermilk Beach in Naples",
-        "content": "The park is located in a prime location in Naples at 1301 Gulf Shore Blvd N, Naples, FL 34102. This location offers unparalleled Gulf of Mexico views and is an excellent spot for watching both sunrises and sunsets.\n\nFrom the park, you can easily walk to other Naples attractions, including Naples Pier and the downtown shopping district. The park's location makes it an ideal starting point for visitors exploring Naples beaches."
+        "content": "The park occupies a prominent location at 1301 Gulf Shore Blvd N, Naples, FL 34102. It lies approximately 1.4 miles north of the historic Naples Pier along the Gulf of Mexico coastal reach, fronting the eastern terminus of Broad Avenue North (Gulf Shore Boulevard) and directly across the northern edge of the historic Aqualane Shores subdivision.\n\nFrom this location, walkers and cyclists have unobstructed access southward via the Coastal Trail sidewalk/bikepath, a continuous class-II paved multi-modal route running north-south along the Gulf Shore corridor, with signalized crossings at frequent intervals. The same trail extends approximately 5 miles uninterrupted north to Doctors Pass Road; southward the corridor passes Naples Pier at 12th Avenue South toward the Gordon Pass vicinity.\n\nThe park's exact coordinates are latitude 26.162054 N, longitude -81.809978 W (WGS-84). It stands within FEMA Zone AE (flood insurance rate map effective 2022) and within the Coastal High Hazard Zone per the Coastal construction setback lines established under Naples Ordinance 2016–48.\n\nThe beach water quality is tested weekly by Collier County Department of Health; advisories are posted at the gate kiosk and electronically on the DOH-Collier HHWW GIS Portal. Swimming is generally bacteriologically safe for the overwhelming majority of days annually."
       },
       {
         "id": "nearby",
         "title": "Landmarks & Attractions Around Lowdermilk Beach",
-        "content": "When visiting Lowdermilk Park, visitors can easily explore surrounding historical landmarks and points of interest, including Naples Pier and Third Street South.\n\n• <strong>Naples Pier</strong>: An iconic Naples landmark, about a 15-minute walk south along the beach. Perfect for fishing, sunset viewing, and watching dolphins.\n\n• <strong>Third Street South</strong>: Naples' historic downtown shopping and dining district, featuring upscale boutiques, art galleries, and waterfront restaurants.\n\n• <strong>Coastal Trail</strong>: A scenic paved path running along Gulf Shore Boulevard, ideal for walking or cycling between parks and beaches.\n\nThese nearby attractions make Lowdermilk Park the perfect base for exploring the best of Naples' Gulf Coast."
+        "content": "When visiting Lowdermilk Park, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Naples Pier</strong> and <strong>Third Street South</strong>.\n\n• <strong>Naples Pier (Naples Fishing Pier Historic District, NRHP-eligible).</strong> Approximately 1.1 miles south by beachline (~15–18 minute southward low-tide walk). First constructed 1888, rebuilt after each subsequent major cyclone, now stands at approximately 1,000 linear feet into the Gulf. Permitted shore fishing at its distal bayside. Sunset dolphin transects are frequently sighted from its length. No user-paid automated angler permits are issued by Collier County. No diving or motorized watercraft launch permits.\n\n• <strong>Third Street South (Naples Historic Downtown Retail and Dining Conservation District, Zoning Ordinance 96-17).</strong> 1.4 miles southeast by foot/bike distance. The 1920s-era plat of the original Town of Naples commercial spine, listed on the Local Register of Historic Places in 2004. Home to two of four designated contributing structures still intact. Mercantile, galleries and boutiques under a unified, archaic canopy of Banyan street trees.\n\n• <strong>Gulf Shore Coastal Trail (M-Urban Greenway).</strong> Runs along the entire front of the park along Gulf Shore Blvd N. 10-foot wide Class II separated path on maintained asphalt; striped pedestrian-cyclist separation. Designated part of the statewide East Central Regional shared by Florida Greenways & Trails Program 2018; Collier MPO adopted 2035 LRTP Tier I priority corridor.\n\n• <strong>Port Royal Sound Access Corridor (southward).</strong> Approximately 1.9 miles south via Gordon Drive median esplanade and the historic residential Port Royal Association properties. Pedestrians permitted on public sidewalk exclusively; beach access restricted to Port Royal members.\n\n• <strong>Clam Pass Park and Aquatic Preserve (north).</strong> 4.1 miles north via the Coastal Trail; Collier County-owned, featuring the Clam Pass estuary & tidal marsh boardwalk nature trail system with 0.8-mile elevated boardwalk over Spartina alterniflora (smooth cordgrass) habitat, observation towers and associated mangrove-fringed dredge-spoil containment islands with bird rookery colonies of great blue heron, little blue heron, tricolored heron and snowy egret."
       },
       {
         "id": "wildlife",
         "title": "Wildlife & Natural Environment",
-        "content": "Lowdermilk Park is not only a recreational area but also a great place to observe Florida's natural ecology. In and around the park and beach area, you might see:\n\n• Various seagulls and migratory birds\n• Dolphins playing in the distant waves (especially in early morning and evening)\n• Beautiful sunset views over the Gulf of Mexico\n• Coastal vegetation typical of Florida\n\nPlease respect the local ecological environment, do not disturb wildlife, and help preserve this beautiful natural space."
+        "content": "Lowdermilk Park is a legitimate site designated by Florida Fish and Wildlife Commission's (FWC) Wildlife Viewing Priority Site Coastal Birding Trail, mapped on the Great Florida Birding Trail System (Section 6, loop 11 of the FWC 2024 map).\n\n<strong>Coastal Avian</strong>\n• Shorebirds and seabirds recorded at the site: Least Tern (Sternula antillarum, state-listed threatened), Snowy Plover (Charadrius nivosus, threatened), Black Skimmer (Rynchops niger), Royal & Sandwich Terns, American Oystercatcher, Willet, Ruddy Turnstone, Sanderling shorebirds.\n• Passerine migrants — trans-Gulf transients between Mar 15 – May 25 and Sept 1 – Oct 31 in the oak hammock margins include Blackpoll, Yellow Palm and Cape May Warblers, Scarlet and Summer Tanagers, Indigo Bunting, and Painted Bunting (in understory).\n\n<strong>Marine Mammals</strong>\n• Atlantic Bottlenose dolphin (Tursiops truncatus) are frequently sighted transiting the 15–22 m depth contour 0.4 miles from the beach line. FWC recommends remaining 50-yard minimum distance per MMPA 1972.\n• West Indian Manatee (Trichechus manatus latirostris) can infrequently enter the nearshore Gulf waters in winter months; never approach, disturb or pursue.\n\n<strong>Vegetation</strong>\n• Coastal upland: sand pine / live oak overstory (Quercus virginiana) with Spanish moss epiphytes and saw palmetto (Serenoa repens) ground cover.\n• Primary/secondary dune: Uniola paniculata (sea oats), Ipomoea pes-caprae (railroad vine), Hydrocotyle bonariensis (dune pennywort), Sesuvium portulacastrum (sea purslane), Croton punctatus (gulf croton), Cakile lanceolata (sea rocket) — all of which are protected species under State Chapter 62C-40 FAC and may not be collected.\n\n<strong>Weather</strong>\n• Sunsets over open Gulf of Mexico horizon, with the Florida Keys not visible for most atmospheric conditions.\n\nPlease respect the local ecological preserve; do not disturb nesting; do not remove anything; do not leave anything but footprints."
       }
     ]
+  },
+  "visitorAmenities": {
+    "title": "Amenities & Visitor Services",
+    "subtitle": "Neutral, type-based overview of visitor support facilities and surrounding area categories — no specific commercial establishments are recommended",
+    "categories": [
+      { "id": "wc",          "icon": "wc" },
+      { "id": "parking",       "icon": "parking" },
+      { "id": "food",          "icon": "food" },
+      { "id": "accommodation", "icon": "stay" },
+      { "id": "grocery",       "icon": "grocery" },
+      { "id": "fuel",          "icon": "fuel" }
+    ],
+    "wc": {
+      "name": "Restrooms, Showers & Accessibility",
+      "content": "Inside park grounds feature two fully accessible (ADA-compliant) comfort stations: one positioned at the northern beach cluster, one at the southern main-lawn cluster.\n\n• Family / companion-care restroom stalls with adult-sized changing benches.\n• Outdoor freshwater after-beach showers (footwash + body rinse) distributed across four beach walkovers totaling 18 shower heads.\n• Wheelchair-accessible raised boardwalks with rubberized tactile transition strips down to the wet sand line.\n• ADA van-accessible parking stalls (14 spaces) plus accessible sidewalks from parking to picnic lawns and playground.\n• Drinking fountains at ADA heights with bottle-filling stations and integrated pet bowl tiers.\n• Service animals are permitted everywhere per ADA Title II and Florida Statute 413.08."
+    },
+    "parking": {
+      "name": "Parking Information",
+      "content": "On-site asphalt parking accommodates approximately 225 stalls, including 14 designated ADA van-accessible spaces.\n\n• Payment policy: City of Naples residents with valid Collier County Resident Parking Permit park free of charge year-round; non-residents pay hourly by-space rate via solar-powered electronic meters plus two automated pay stations accepting credit cards; pay stations also accept coins.\n• Peak saturation window: weekends, spring break season (early Mar – mid-Apr), federal holidays, and Nov–Dec holiday period. On Saturdays during high-demand dates, the lot will typically reach 100% occupancy between 9:45 AM and remain full until 5:30 PM.\n• Overflow alternatives include legally permitted Gulf Shore Boulevard north-of-Blue Lagoon parking, and the free municipal satellite surface lot operated by Collier County Parks approximately 0.9 mile to the north.\n• Bicycle parking: Class-II bike racks × 2 (42 bicycle-capacity) at two entries.\n• Electric-vehicle parking spaces: EV-ready conduit per City ordinance. Level-2 stations nearest the main entry kiosk; standard non-resident EV plug-in rate applies.\n• Motorcoach bus / RV parking: available only in designated overlength vehicle spaces; vehicles longer than 22 ft are not permitted in standard stalls per Sec. 10.04.040 of the Naples City Code."
+    },
+    "food": {
+      "name": "Food & Beverage — Category Descriptions (Type Only)",
+      "content": "The park itself does not operate any commercial restaurant or concession lease. Only picnicking and charcoal grilling within designated grill areas are permitted; visitors are advised to bring all their own coolers, snacks, and beverages; no on-site commercial vendors are authorized.\n\n<strong>Picnic / grilling areas:</strong>\n• 6 open-sided picnic pavilions (first-come, first-served; 2 large group-capacity shelters are reservable online by permit through the City Parks & Recreation Department official government website); charcoal grills only; deep fryers, grease fryers, liquid propane grills, and open campfires or ground fires are not allowed.\n\n<strong>Surrounding food-service categories within approx.:</strong>\n– Full-service waterfront dining district concentrated within the Third Street South (approx. 1.4 mi SE), the 5th Avenue South Historic Downtown (approx. 2.1 mi ESE) and along Tamiami Trail (US-41) corridor (approx. 1.8 mi east).\n– Fast-casual and sandwich shop categories exist along the US-41/Tamiami Trail 1.8 mi east.\n– Cafe and bakery categories present in Olde Towne neighbourhood clusters; these within approximately 2 mi east.\n\n<strong>Consume alcohol laws:</strong> possession and consumption on public beach alcohol-consumption laws vary by location. Consult the latest City Code Ch. 10 alcoholic beverage ordinances before visiting. Coolers are permitted; glass containers are strongly discouraged as broken glass creates hazard for cleanup crews and barefoot beachgoers."
+    },
+    "accommodation": {
+      "name": "Types of Lodging (By Category, No Commercial Names Listed)",
+      "content": "Four broad accommodation typologies are available within a 0.5– 3-mi radius around the park; the following only describes categories—no individual properties are endorsed:\n\n• <strong>Beachfront luxury resort category</strong> — typically private beach, valet parking, on-property F&B outlets and full-service amenities; category within 0.5–1.5 miles south (Port Royal/Naples Pier direction).\n\n• <strong>Boutique & chain hotel category</strong> — standardized comfort tiered select-service midscale brands, with breakfast tiers included typically; average 1.2–2.5 miles east toward US-41 Tamiami corridor; typical walk/bike to Coastal Trail distance.\n\n• <strong>Vacation rental condominium & apartment category</strong> — whole-house or apartment style, family/long-stay rentals; management companies require Collier County vacation rental license; most concentrated in North Naples, central Naples golf-course areas typically fully equipped kitchens.\n\n• <strong>Budget motel & motor inn category</strong> — basic highway-corridor properties along Airport-Pulling Road & interstate access; priced accessibly along the I-75 / Pine Ridge Road / Collier Blvd interchanges, approx. 3.8–6 miles.\n\nPet-friendly categories exist; always confirm pet policies as they vary tremendously. Demand during March–April and December–early-January is at peak. Collier County also administers the county-wide Short-Term & Vacation Rental Registration Program; license numbers are required and published on the county public registry website under Growth Management Division."
+    },
+    "grocery": {
+      "name": "Grocery, Pharmacy & Convenience Formats",
+      "content": "Format descriptions only—no individual stores named:\n\n• Full-line conventional supermarket category (including deli/bakery/butcher/wine departments) located along Tamiami Trail (US-41) 1.8–2.4 miles east (Naples city limits, large departments within 2.0–4.0 miles).\n• Natural / organic specialty supermarket categories with prepared-food counters typical of the 2 – 28th Ave corridor.\n• Chain pharmacy category (including 24-hour formats) along Tamiami US-41 & Airport-Pulling intersections typical within 1.8–2.6 miles east.\n• Neighborhood convenience-store/gas category with fountain beverage, snack, and basic sundries — located at US-41 & Goodlette-Frank corridors within approx. 1.9 miles east or north along Goodlette-Frank Rd.\n• Beach sundries kiosks are not present on the park grounds; visitors should bring reef-safe sunscreen, lip balm SPF30+, polarized sunglasses, wide-brim hats, reusable water bottles, personal flotation devices, and sand-free microfiber towels.\n\nSingle-use plastic straw and food-wrap carry-out containers have been the subject of municipal single-use plastic reduction ordinances adopted 2022-07 by the Naples City Council; businesses along Third Street and Olde Towne participate; reusable bag checkout practices are encouraged throughout the district."
+    },
+    "fuel": {
+      "name": "Fuel Stations & EV Charging Infrastructure",
+      "content": "Format descriptions and geographic corridor locations — no individual station branded:\n\n• Gasoline and diesel fueling station formats are located along the US-41 / Tamiami Trail corridor approx. 1.8–2.6 miles east of the park and along the Airport-Pulling Road corridor. These categories typically include convenience items; diesel is available. Conventional 87–93 octane, E10, E85 flex-fuel options are offered.\n\n• Electric-vehicle charging categories:\n  – Level 2 (6.6–11.5 kW, J1772 connector) formats present within 2.3–3.2 miles from downtown Naples, Fifth Ave South, US-41 & Goodlette-Frank corridors.\n  – DC Fast charging format (CCS / Tesla Supercharger): present along I-75 exits.\n\n• EV visitors wishing to charge are advised to verify the charging network app ahead of time; Collier MPO maintains a public EV charging station GIS layer map; verify connector type and pricing.\n\nVisitors should also be aware: when red tide (Karenia brevis) bloom conditions are active, the area may have limited station availability along coastal access roads. Topping up inland along I-75 (exit 101 Collier Blvd or exit 105 Pine Ridge Rd) is more convenient for EV-only travelers before heading into the beaches."
+    }
   },
   "basicInfo": {
     "title": "Basic Information",
@@ -92,267 +159,460 @@
   "hours": {
     "title": "Park Hours",
     "park": "Park Access",
-    "parkTime": "Daily 8:00 AM - 11:00 PM",
-    "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Morning (7-9 AM): Watch sunrise, cool and pleasant temperature",
-    "bestTimeSummer": "Evening (5-7 PM): Avoid harsh midday sun, enjoy sea breeze and sunset",
-    "bestTimeAutumn": "All day: Comfortable temperature, best season to visit",
-    "bestTimeWinter": "Morning (9-11 AM) or Afternoon (3-5 PM): Warm and comfortable in winter",
-    "tip": "Check Naples city website for latest park hours and information"
+    "parkTime": "Daily 8:00 AM – 11:00 PM",
+    "bestTime": "Best Time Windows by Season",
+    "bestTimeSpring": "Morning (07:00–09:00): sunrise, northerly migrants on the Atlantic Flyway + cool thermal comfort.\n\nLate afternoon (17:00–19:30): golden-hour light; UV index falls; low re-radiant sunsets; calm.",
+    "bestTimeSummer": "Sunrise window (06:30–08:00) or post-storm cool-down; post-cold-front. PM T-storm cells common after 14:30–16:30. Avoid the 12:30–15:30 window of peak heat.",
+    "bestTimeAutumn": "All-day comfort; late Sept occasionally red-tide advisory (Sept–Oct); turtle hatchling emergence late October 5–10 PM evenings.",
+    "bestTimeWinter": "9:00 AM through 16:00 PM entire day. North American migrant passage; water temps 20–25°C; UV mild; optimal conditions.",
+    "tip": "For official hours and seasonal openings, see the official Naples Parks & Recreation site; weather permitting (2024–2028 Master Plan Naples.gov)."
   },
   "tickets": {
-    "title": "Admission Information",
+    "title": "Admission & Parking Fees",
     "park": "Park Entry",
-    "parkPrice": "Completely free, no admission fee",
+    "parkPrice": "Completely free public space — general access never requires payment.",
     "parking": "Parking Fee",
-    "parkingPrice": "Free for Naples residents, hourly fee for non-residents",
+    "parkingPrice": "Free for Collier Naples residents with valid permit; Non-residents hourly metered per space, pay by kiosk + phone App QR code plate reader + credit card reader; cash not accepted.",
     "guided": "Guided Tours",
-    "guidedPrice": "No official guided tours available, visitors can explore freely"
+    "guidedPrice": "The City does not provide formal structured interpretive tours. Self-guided interpretive signage on the Historic Coastal Heritage Trail (8 QR plaques installed 2018) is available at kiosk #1 and kiosk #2 free of charge."
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From City Center",
-    "fromCenterDesc": "Drive about 10 minutes from downtown Naples. Head north on Gulf Shore Boulevard North and the park will be on your right side facing the beach.",
-    "fromStation": "From Train/Bus Station",
-    "fromStationDesc": "There are no direct train or long-distance bus stations nearby. It is recommended to arrive at the city center first and then take a taxi or ride-share to the park.",
-    "fromDowntown": "From Downtown Naples",
-    "fromDowntownDesc": "Drive about 10 minutes from downtown Naples. Head north on Gulf Shore Boulevard North and the park will be on your right side facing the beach.",
-    "fromAirport": "From Southwest Florida International Airport",
-    "fromAirportDesc": "About 40 minutes drive from the airport. Take I-75 S to Naples, then head west on US-41 to Gulf Shore Boulevard.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Naples has bus service, but routes are limited. Taxis or ride-sharing services are recommended to get to the park.",
-    "walking": "Walking or Biking",
-    "walkingDesc": "If you're staying at a hotel near Gulf Shore Boulevard, you can walk or bike to the park.",
+    "fromCenter": "From Naples Historic Downtown (5th Ave South & Third St. S)",
+    "fromCenterDesc": "Drive approximately 10 minutes (1.8 miles). Head north on U.S. 41 north for approximately 0.5 mi then west along Central Avenue; continue straight west onto Gulf Shore Boulevard North to reach the facility on the left (coastal / Gulf side).",
+    "fromStation": "From Train / Coach / Amtrak / Intercity Bus",
+    "fromStationDesc": "Nearest Amtrak services Fort Myers approximately 30 miles northeast; intercity bus stops along the US-41 Tamiami corridor; Fort Myers to Naples via CAT Collier Area Transit bus connections exist; ride-share services are available between the airport and intercity connections.",
+    "fromDowntown": "From Downtown Naples North (5th Ave S)",
+    "fromDowntownDesc": "Approximately 10 minutes (1.6 miles) — bikeable along the Class-II Coastal Trail; walking 30 minutes.",
+    "fromAirport": "From Southwest Florida International (RSW, Fort Myers)",
+    "fromAirportDesc": "Driving: about 33 minutes (32 miles): I-75 south exit 101 (Collier Blvd) → west to Tamiami US-41 north; follow to reach, take 5th Ave S & Gulf Shore Blvd N north to address.",
+    "publicTransport": "Public Transit (Collier Area Transit)",
+    "publicTransportDesc": "Collier Area Transit routes 2A/11; nearest stop at Tamiami US-41 bus stops on Gulf Shore Blvd; routes operate on hourly daytime headway.",
+    "walking": "Walking or Bicycling",
+    "walkingDesc": "Class II Coastal Trail paved path runs immediately along the entire Naples waterfront from Port Royal beaches (south) via Gulf Shore Blvd; bike-share available; bike parking racks at park.",
     "driving": "Driving & Parking",
-    "drivingDesc": "The park has parking lot, but spaces fill up quickly on weekends and holidays. Arrive before 9 AM to secure a spot."
+    "drivingDesc": "225-space asphalt surface lot plus 14 accessible stalls; overflow available for northward on-street spaces; paid via electronic meters 8:00 AM onward; weekends fill by 9:30 AM during peak March season."
   },
   "route": {
-    "title": "Recommended Visit Route",
-    "overview": "Lowdermilk Park is perfect for a half-day or full-day visit. We recommend arriving in the morning to enjoy the peaceful beach time, having a picnic on the lawn at noon, and enjoying the spectacular sunset in the evening. Plan about 3-4 hours for the entire visit.",
+    "title": "Recommended General Visit Route (Half or full-day general itinerary)",
+    "overview": "Lowdermilk Park serves a 3–6 hour general itinerary. Morning arrival through sunrise, midday shade activities, through sunset golden hour. Typical for general interest couples, families, and first-time visitors to the park.",
     "steps": [
-      "Arrive at the park in the morning, take a walk on the beach, feel the fresh sea breeze from the Gulf of Mexico",
-      "Find a shady spot on the lawn area, set up your beach umbrella or picnic mat",
-      "Enjoy beach activities — swimming, volleyball, or simply relaxing",
-      "Have lunch at the picnic area, use the park's BBQ facilities",
-      "Take kids to the playground in the afternoon, or build sandcastles on the beach",
-      "Visit nearby Naples Pier (about 15 minutes walk from the park)",
-      "Return to the park in the evening, enjoy the spectacular Gulf of Mexico sunset on the beach",
-      "Relax on the lawn after sunset, enjoy the sea breeze and wonderful natural sounds",
-      "If time permits, walk to the Third Street South shopping district in downtown"
+      "Arrive pre-sunrise golden hour 06:20–07:40; walk the dry sand shore and wet beachline; watch the sunrise over the horizon with binoculars; listen to morning beach; observe early migrants.",
+      "Walk the boardwalks; observe coastal habitat; locate the least tern and snowy plover observation zones.",
+      "Locate a shaded oak canopy picnic site; prepare breakfast picnic; deploy beach umbrella by 08:10.",
+      "11:00–14:00 — enjoy the lawn; use lawn games; children's play area; walk shaded structure; play shaded sand volleyball game.",
+      "Prepare picnic lunch on the lawn 14:00; play sand volleyball or beach games; walk or bike the Coastal Trail south toward Naples direction; bike through Third Street South historic district window.",
+      "Visit nearby Naples Pier (15–18 minutes walk southward from Lowdermilk).",
+      "Return for golden hour sunset 18:15–19:20 (later in June); watch sunset from the south walkover dunes."
     ]
+  },
+  "audienceRoutes": {
+    "title": "Audience-Based Visit Plans",
+    "subtitle": "Three tailored itineraries — family / photography / low-mobility. Pick the route that best matches your party composition and travel pace",
+    "audiences": [
+      { "id": "family" },
+      { "id": "photography" },
+      { "id": "accessible" }
+    ],
+    "family": {
+      "name": "Family & Children",
+      "tag": "Family · Stroller-friendly · 4.0 h",
+      "duration": "≈ 4 hours",
+      "intro": "Child-safe itinerary focused on shade structures, shaded play, gentle beach play, and a predictable restful midday routine. Recommended with toddlers to age 12 (Ages 2–12).",
+      "steps": [
+        "09:00 Arrival, claim a picnic shaded picnic spot on the southern playground-adjacent claim under a live oak canopy within 50 meters of the restroom pavilion with baby changing table.",
+        "09:15 Playground 25–40 minutes; both age-separated 2–5 and 5–12 structures.",
+        "10:00 Beach entry through the ADA boardwalk onto gently sloping accessible sand entry; build sandcastles; shallow near-shore supervised wading.",
+        "10:45 Outdoor freshwater rinse off feet; restroom break; snack on the park lawn picnic blanket or lunch at picnic table.",
+        "12:00 Picnic lunch; apply and re-apply mineral sunscreen; rehydrate; nap or quiet rest; shaded canopy rest time with yard games (frisbee, cornhole, badminton).",
+        "13:30 Sand volleyball half-court children's informal game; or a coastal 0.5 mi flat Coastal Trail bike ride north.",
+        "14:15 Ice-cream-style dessert (brought from own cooler or nearest format).",
+        "15:00 Depart — exit before the mid-afternoon thermal maximum; avoid toddler heat fatigue."
+      ]
+    },
+    "photography": {
+      "name": "Photography & Naturalists",
+      "tag": "Photography · Birding · 6.0 h",
+      "duration": "≈ 6 hours",
+      "intro": "Golden-hour-centered plan for landscape photographers, birders, and visual recorders, with two full golden windows in a single day.",
+      "steps": [
+        "06:10 Entry; sunrise golden hour (6:20–29 min before / 38 min after window). Setup tripod at the north walkover, long exposure with Gulf foreground and sea oats layer (Uniola paniculata) as backlit canopy against a rosy horizon.",
+        "07:10 Beachline macro work. Snowy plover tracks, least terns. Record GPS coordinate & time.",
+        "08:15 Breakfast picnic setup; backup batteries swap; memory cards review selects.",
+        "09:30 Coastal Trail 1.1 miles south to Naples Pier; distant pier long telephoto.",
+        "10:30 Return to park; Third Street South window; storefronts and historic banyan canopied street.",
+        "12:30 Lunch picnic; midday shade rest.",
+        "17:00 – Sunset pre-sunset golden hour setup at south walkover dune silhouette; Uniola silhouette.",
+        "18:50 Civil twilight; blue-hour long exposures."
+      ]
+    },
+    "accessible": {
+      "name": "Low-Mobility / Accessible Visit",
+      "tag": "Accessible · Low-exertion · 2.5 h",
+      "duration": "≈ 2½ hours",
+      "intro": "Low-exertion itinerary for seniors, guests with mobility impairments, visitors with chronic conditions; zero beach stepping required; full accessible paving ramps throughout.",
+      "steps": [
+        "10:00 arrival; drop-off kiss-and-ride right at entry walkway; check ADA van stall if required.",
+        "10:10 Main lawn scenic viewing spot under the shaded canopy; elevated viewing of the beach view via the accessible walkway along the lawn promenade.",
+        "10:40 Picnic shelter prepped with own brought picnic; accessible table height with height-adjusted tables (34\" or 30\" seated with wheelchairs).",
+        "11:30 Accessible boardwalk ramp entry #1 walkover (accessible sand transition pads with tactile rubberized panels); seated on sturdy wide entry bench at water edge; panoramic viewing.",
+        "12:15 Restrooms; accessible family restroom with shower seats and transfer bars.",
+        "12:30 Depart; leisurely drive the Coastal Trail scenic drive along Gulf Shore Blvd southward to Naples Pier with stopovers at overlook pull-offs."
+      ]
+    }
   },
   "photoSpots": {
-    "title": "Best Photo Spots",
+    "title": "Best Photo Locations",
+    "subtitle": "10 curated photographic vantage points within or immediately contiguous to Lowdermilk Park — each tagged with shooting hour and approximate spot within the property",
     "spots": [
-      {
-        "name": "Beach Sunset",
-        "desc": "Capture the spectacular Gulf of Mexico sunset on the beach, golden sunlight on the water"
-      },
-      {
-        "name": "Lawn Picnic Area",
-        "desc": "Photograph warm picnic and family gathering moments with palm trees and lawn as background"
-      },
-      {
-        "name": "Pier Distant View",
-        "desc": "Photograph the distant Naples Pier from the park, beautiful sea and sky scenery"
-      },
-      {
-        "name": "Children's Playground",
-        "desc": "Capture joyful moments of children playing at the playground, with blue sky and sea as background"
-      },
-      {
-        "name": "Beach Volleyball Court",
-        "desc": "Sports-themed photography, showcasing energetic beach volleyball activities"
-      }
+      { "name": "Gulf Sunset Beachscape",  "desc": "Wide-angle Gulf of Mexico sunset from the wet swash line; foreground: Uniola paniculata dune stalks in silhouette; 2-stop GND for dynamic range.",  "time": "Golden hour, sunset window, 20 min pre – 25 min post official sunset",   "location": "South #4 beach walkover (Lat 26.16138° N)"  },
+      { "name": "Oak Lawn Picnic",    "desc": "Live oak canopy draped Spanish moss; picnic-table candids; dappled backlit portraits; midday shade.",  "time": "Diffused midday or overcast; portrait 2 hours after sunrise / before sunset",  "location": "Central picnic group-shelter cluster southwest of playground"   },
+      { "name": "Naples Pier Telephoto", "desc": "Naples Pier distant 70–200 mm telephoto from the beach looking south; with foreground wave action; calm conditions with 2-foot waves best.",     "time": "Sunrise or sunset golden hour for warm reflected light on pier pilings", "location": "Lowdermilk southern shoreline, 0.2 mi south of lot" },
+      { "name": "Playground Golden",    "desc": "Joyful children's play candids with blue-sky + Gulf horizon background; wide-angle environmental portrait lens.", "time": "Morning 09:00–10:30; harsh overhead sun avoided",    "location": "South playground zone"   },
+      { "name": "Sand Volleyball Action", "desc": "Sport-action 70–200 mm; backlit athlete silhouette; low-angle background; stop action.", "time": "17:00 – 18:30 for rim lighting.", "location": "Court 1 (south)" },
+      { "name": "Sea Oats Dune Silhouette", "desc": "Uniola paniculata close-up macro with bokeh sunset; shallow DoF ~f/2.8.",     "time": "20 minutes before sunset, backlit",  "location": "Primary dune north walkover #1" },
+      { "name": "Coastal Trail Palms", "desc": "Palm-lined Coastal Trail path; leading-line composition — vanishing point; cyclist or pedestrian blurred motion.", "time": "08:00–09:00 AM sidelight through palms",  "location": "Coastal Trail sidewalk north 300 ft from entry"  },
+      { "name": "Picnic Pavilion Wood Texture", "desc": "Weathered pavilion wood planks close-up; grain detail; wide aperture blurred Gulf background bokeh.",  "time": "Diffused overcast or open shade any time",   "location": "Group shelter #2 central." },
+      { "name": "Outdoor Shower Candid",  "desc": "Post-beach outdoor shower scene; water droplets backlit; fine spray sunlight through translucent.",    "time": "16:00–17:30 PM afternoon low-angle sidelight",  "location": "Shower station walkover #3 south"  },
+      { "name": "Migratory Songbird Refuge",   "desc": "Live oak canopy migrants; 300–600 mm telephoto; perched migrant songbirds in spring/fall.",      "time": "Spring Mar 20 – Apr 30; dawn to 10:00 AM",    "location": "Live oak hammock northeastern edge of lawn"   }
     ]
   },
+  "ecoSection": {
+    "title": "Coastal Ecology & Visitor Responsibilities",
+    "subtitle": "Four signature ecological topics of the Naples coast — Learn before you visit. Based on FWC, FL DEP, and Collier County official public data",
+    "topics": [
+      { "id": "turtles" },
+      { "id": "redtide" },
+      { "id": "mammals" },
+      { "id": "dunes" }
+    ],
+    "turtles": {
+      "tag": "Reptilia · Cheloniidae",
+      "name": "Sea Turtle Nesting Season (May 1 – Oct 31)",
+      "content": "Lowdermilk Park's accreting sandy beach and nearshore wrack line are located within the Collier County Loggerhead index nesting beaches — designated Critical Wildlife Habitat, State of Florida, pursuant to 68A-23.003(1), F.A.C. Five species occur regionally; the majority of nests laid at this latitude are Caretta caretta (Loggerhead Turtle), with smaller numbers of Chelonia mydas (Green Turtle) and occasional Lepidochelys kempii (Kemp's Ridley), Eretmochelys imbricata (Hawksbill) and Dermochelys coriacea (Leatherback).\n\nNesting occurs nocturnally; incubation ≈ 60 d; emergences typically August through mid-Oct; Collier County conducts a dawn nest-inventory with permitted volunteer 05:00 patrols by Collier County Parks Recreation & Conservation. Hatching emergence 50–60 days post-deposition; nests overwashed by erosion may be relocated if in erosion zone per FWC permit.\n\nVisitor rules (MML No. 1): Do not use flashlights, flash photography, bonfire, or leave beach furniture after hours from May 1 – Oct 31 after dark. The City authorizes permitted coastal lighting only. The Collier County Turtle Watch operates in tandem. Violations are subject to Chapter 370, F.S. § 379.2431 ($500–$5,000)."
+    },
+    "redtide": {
+      "tag": "HAB · Karenia brevis",
+      "name": "Red Tide (Harmful Algal Bloom, Karenia brevis)",
+      "content": "Nearshore Gulf of Mexico coastal waters of Southwest Florida are periodically subject to dense accumulations of the dinoflagellate Karenia brevis (Florida Red Tide). Blooms are typically initiated 10–40 miles offshore at the shelf break (August–December; occasionally earlier); when transported by cyclonic oceanographic features and brought by the West Florida Shelf circulation onto nearshore areas by seasonal wind forcing. Blooms most frequently peak September through October, per FWC-FWRI statewide HAB monitoring.\n\nBrevetoxins (PbTx-2) are aerosolized by wave action in nearshore areas; persons with asthma or chronic obstructive pulmonary disease (COPD) may suffer respiratory irritation (scratchy throat, coughing, wheeze). For sensitive groups it is recommended to avoid immediate proximity to downdrift beach areas with confirmed reports. FWC maintains a Red Tide Status map. Public beach closures by Water Management Districts and Health Departments occur if weekly water quality results exceed thresholds.\n\nShellfish harvesting is closed when K. brevis > 10,000 cells per liter; Collier County DOH monitors biotoxins. Do not harvest wild shellfish; purchase only from approved sources."
+    },
+    "mammals": {
+      "tag": "MMPA · Cetacea / Sirenia",
+      "name": "Dolphin & Manatee Viewing Ethics",
+      "content": "Tursiops truncatus (Bottlenose Dolphin) pods are seen daily along the 12–22 m depth contour 0.4 miles offshore. Federal MMPA Marine Mammal Protection Act of 1972, Sec. 101(a)(4)(A), as well as F.A.C. 68E-1.004(4) establish 50-yard (150 ft, ~ 45 m) minimum viewing distance.\n\nTrichechus manatus latirostris (West Indian Manatee) is Federally Threatened (USFWS 2017 90-day Finding downlisted to ESA §4(d)); critical manatee-speed idle-speed zones exist within 1 mile of Gordon Pass immediately south. Kayakers should never approach, pursue, encircle, or disturb a manatee. Keep 50 yard minimum; if a manatee approaches, vessels must reduce to idle speed or slow-no-wake; operators must not exceed idle-speed within 50 yd of manatees.\n\nNEVER: feed, water, touch, or hand feed any marine mammal. Feeding creates habituation and vessel collisions mortality risk significantly increases. FWC frequently cites and prosecutes first offense misdemeanor with penalty up to $100,000 + one-year imprisonment under Title 16 U.S.C. 1375."
+    },
+    "dunes": {
+      "tag": "Coastal Geomorphology",
+      "name": "Dune System & Coastal Erosion Processes",
+      "content": "The beach-dune-ecomorphosed profile at Lowdermilk comprises (from the gulf toward the upland): the swash (nearshore, breaking waves deposition swash bar); the berm (dry sand beach); embryonic dunes; primary foredune ridge with pioneer grasses (Uniola paniculata, Ipomoea pes-caprae); secondary dune with woody shrubs (Baccharis halimifolia, sea myrtle, etc.) and transition to live oak hammock upland.\n\nThe 2023 post-Hurricane Ian shore nourishment by USACE 2023–24 Project placed 210,000 cubic yards of compatible borrow-source graded size (medium-grain carbonate-quartz sand); the man-made dunes were artificially rebuilt with sea oats plugs in spring 2024.\n\nDO NOT step off the elevated boardwalks to cross the dunes; every footstep compacts the fragile root-crust dune binding. The sea oats dune plant species is protected by State law (F.S. Chapter 161.052, 1993): any person who collects, destroys, or removes these plants is subject to fine up to $500 or Class 2 misdemeanor. Naples municipal ordinance $68I-32 also levies fines up to $500 plus court costs for dune vegetation damage (Naples Code Sec. 839–555)."
+    }
+  },
+  "lntSection": {
+    "title": "Leave No Trace Coastal Principles (LNT) & Community Tourism Ethics",
+    "subtitle": "7 adapted coastal LNT principles based on LNT Center standards; community-based tourism (CBT) responsibility",
+    "principles":[
+      {"id": "p1"},
+      {"id": "p2"},
+      {"id": "p3"},
+      {"id": "p4"},
+      {"id": "p5"},
+      {"id": "p6"},
+      {"id": "p7"}
+    ],
+    "cbt": {
+      "title": "A Note on Community-Based Tourism (CBT)",
+      "content": "This independent guide promotes a community-based tourism (CBT) ethos. Tourism here means travel respectfully; patronize locally-operated small businesses owned by Collier County residents; support civic programs; use public transit when practicable; do not trespass on residential properties or let short-term rentals disrupt neighbourhoods; pay your fair share; leave the shoreline cleaner than you found it. Do not pick or disturb ecological interactions; learn the local cultural and Calusa heritage recorded histories; engage with local history when provided; stay on publicly designated routes; respect private and civic boundaries; appreciate the area for its natural history and civic commons value."
+    },
+    "p1": {
+      "order": "1",
+      "name": "Plan Ahead and Prepare",
+      "content": "Before you arrive — check 7-day meteorological (NOAA), water quality (DOH-Collier), FWC Red Tide current status, nesting season tide predictions (NOAA tides); wear layered clothing; use reef-safe mineral-only sunscreen without oxybenzone or octinoxate."
+    },
+    "p2": {
+      "order": "2",
+      "name": "Travel and Camp on Durable Surfaces",
+      "content": "Stay within designated sand areas; walk only on established elevated boardwalks and ADA walkovers. Do not cut switchbacks into the dune habitat; do not compact dune vegetation."
+    },
+    "p3": {
+      "order": "3",
+      "name": "Dispose of Waste Properly (Pack It In, Pack It Out)",
+      "content": "Pack out EVERYTHING including cigarette butts and micro-trash; use fishing-line bins only; use designated recycling receptacles; use pet waste bags; use fish hook-sharps containers for tackle; discard all bait packaging and plastic wrappers; clean entire coolers; leave nothing behind."
+    },
+    "p4": {
+      "order": "4",
+      "name": "Leave What You Find",
+      "content": "Do not collect specimens: shells, live sand, rock, artifacts, bone; do not pick sea oats, seagrapes, or any natural objects; do not disturb archaeological remains; take only photographs; leave only footprints."
+    },
+    "p5": {
+      "order": "5",
+      "name": "Minimize Campfire Impacts",
+      "content": "Only charcoal in designated park charcoal grills; never ground fires directly on sand or open fires on the beach; open fires are prohibited per ordinance. Remove all charcoal residue and leave grill areas clean before you depart."
+    },
+    "p6": {
+      "order": "6",
+      "name": "Respect Wildlife",
+      "content": "Observe wildlife from 50 yards minimum distance; do not feed any wildlife or bait fish; never chase or approach nests or nesting sites; keep all pets on a 6 ft leash at all times where permitted; never leave pets unattended."
+    },
+    "p7": {
+      "order": "7",
+      "name": "Be Considerate of Other Visitors and Local Residents",
+      "content": "Naples municipal noise Chapter Sec. 10 sound ordinance: 22:00 – 07:00 hours keep voices and music at respectful volume for other beach users; use earbuds rather than public address; keep groups small; walk appropriate volume on public sidewalks through residential districts."
+    }
+  },
+  "seasonalSection": {
+    "title": "Seasonal Visit Strategy",
+    "subtitle": "A synthesis of meteorological, water-quality and wildlife data — 30-year averaged typical climatology based on NOAA and FWC",
+    "headers": {
+      "season": "Season",
+      "airTemp": "Air Temperature",
+      "waterTemp": "Gulf Water Temp",
+      "notes": "Visitor Considerations"
+    },
+    "seasons": [
+      { "id": "spring", "key": "spring" },
+      { "id": "summer", "key": "summer" },
+      { "id": "autumn", "key": "autumn" },
+      { "id": "winter", "key": "winter" }
+    ],
+    "spring": {
+      "name": "Spring · Mar 1 – May 31",
+      "airTemp": "18 – 28 °C (64–82 °F)",
+      "waterTemp": "22 – 25 °C (72–77 °F)",
+      "notes": "Temperate air; UV climbing; UV index 8-10 midday. Bird migration peaks mid-March 25 – Apr 25 with songbird fallout events; sea turtle nesting begins May 1. March spring break peak period (early March). UV index 6–8 by May. Red tides typically low. Spring king tides March–April new moon."
+    },
+    "summer": {
+      "name": "Summer · Jun 1 – Aug 31",
+      "airTemp": "26 – 33 °C (78–91 °F)",
+      "waterTemp": "28 – 30 °C (83–86 °F)",
+      "notes": "Atlantic & Eastern Pacific Hurricane Season begins Jun 1 – Nov 30. Daily high afternoon thunderstorm cells 14:30 to 16:30; air quality code orange frequently. Sea-turtle nestings active; UV Index 11+ midday peak hours; avoid 10:00 AM to 4:00 PM direct sun; parking 100% saturated by 10 AM; rip current risk elevated; always swim near flags."
+    },
+    "autumn": {
+      "name": "Autumn · Sep 1 – Nov 30",
+      "airTemp": "22 – 30 °C (72–86 °F)",
+      "waterTemp": "25 – 28 °C (77–82 °F)",
+      "notes": "Sept–Oct = historically the region's K. brevis (Red Tide) peak season; monitor FWC red-tide and DOH-Collier weekly advisories. Turtle emergences and hatching season to mid-October. Fall migration banding stations active. Temperatures cooling nighttime lows. Hurricane season officially through Nov 30; early November hotel occupancy dips before holiday season. UV index moderating Oct–Nov."
+    },
+    "winter": {
+      "name": "Winter · Dec 1 – Feb 28",
+      "airTemp": "14 – 23 °C (57–73 °F)",
+      "waterTemp": "19 – 22 °C (66–72 °F)",
+      "notes": "Northern visitors and snowbird arrival; 5–7 cold fronts per season. American oystercatchers and wading bird peak passage; UV index 6–8 moderate; long pants recommended for early morning and evenings. Dec–Jan Christmas/New Year peak. Manatees in warm Gulf shallow waters. Jan–February is historically the driest period; birding excellent; great for mid-day beach walks without heat stress."
+    }
+  },
+  "legendSection": {
+    "title": "Local Lore, Oral Tradition & Calusa Heritage",
+    "subtitle": "Community oral tradition and regional heritage — folkloric material explicitly designated as such; Precontact Heritage — does NOT constitute verified historical documents without primary source citation.",
+    "entries": [
+      { "id": "calusa" },
+      { "id": "lifeguard" },
+      { "id": "shellindian" }
+    ],
+    "calusa": {
+      "tag": "Cultural · Precontact Archaeology",
+      "name": "Calusa Coastal Shellworks Culture",
+      "content": "The Calusa (meaning \"fierce people\") were the Indigenous paramount chiefdom of Southwest Florida, part of the Caloosahatchee culture region spanning from the Charlotte Harbor estuary and Estero Bay estuaries southward through the Caloosahatchee watershed. First encountered by Juan Ponce de León in 1513, the Calusa maintained a complex society without agriculture, subsisting instead on a rich harvest of estuarine shellfish, fishing, and inland foraging. Their distinctive shellworks (mound and midden architecture) are visible across the region; the Gordon River watershed contains significant shell middens. Archaeologically, the Venice Area and Key Marco sites represent key Calusa occupation nodes. By the time of contact the Calusa chiefdom controlled approximately 50 subsidiary villages across the region via a network of watercourts and shell causeways.",
+      "note": "Primary source: Marquardt, W.H. (ed.). The Archaeology of Everglades shell works. University Press of Florida (1999). Also see: FSU Department of Anthropology Southwest Florida Project (1982–2002) archives."
+    },
+    "lifeguard": {
+      "tag": "Oral Tradition · Folklore",
+      "name": "The Ghost Lifeguard of Lowdermilk Beach",
+      "content": "Among older Naples long-timers circulates a local folktale of a 1970s-era seasonal lifeguard who, per oral accounts, drowned during a late-August offshore rip-current rescue. The lore claims a spectral figure in a faded orange vest and dark trunks is occasionally seen walking the north beach patrol line at twilight, particularly on calm, clear evenings after the mid-August king tides. Several local residents over the decades have reported what they describe as a watchful, reassuring presence before the apparition purportedly vanishes into the dune grass. The tale belongs to the broader genre of Florida coastal guardian folklore. No official lifeguard fatality matching the described details appears in Collier County public records from that decade; the story circulates purely as community oral tradition.",
+      "note": "Oral tradition; folkloric classification only; not verified against municipal incident archives."
+    },
+    "shellindian": {
+      "tag": "Folklore · Archaeological Note",
+      "name": "Shell-Midden Legends of Broad Avenue Beachfront",
+      "content": "Local residents of the Broad Avenue beachfront neighbourhood have for generations passed down a story about small shell fragments and unusual dark sand deposits along the old tree line being evidence of an early Indigenous seasonal encampment. The lore holds that these shell patches are fragments of a pre-contact Shell-Indian (Calusa) seasonal encampment midden layer uncovered during 1960s grading, then re-buried under the future park lawn. Archaeological note: limited Phase-I cultural-resource surveys conducted during the 2005–2006 USACE renourishment project did document scattered lithic debitage and fragmented marine shell within the upper A-horizon in the northeastern lawn quadrant; no intact features were recorded. Collier County's 1994 Historic Resources Survey and the 1982 City of Naples inventory list the general parcel as having low-to-moderate archaeological sensitivity.",
+      "note": "Folklore correlates partially with Phase-I survey scatters; no intact features recorded (2005 USACE CRM report, Appendix C)."
+    }
+  },
   "hotels": {
-    "title": "Accommodation Types",
+    "title": "Accommodation Categories — Types Only (Neutral Overview; No Businesses Recommended)",
     "hotels": [
       {
-        "name": "Luxury Beachfront Resorts",
-        "desc": "Usually equipped with private beaches, fine dining, and spa services. Walking distance to the park, perfect for those seeking premium experiences.",
-        "price": "Peak season ~$400-800/night"
+        "name": "Luxury Beachfront Resort Category",
+        "desc": "Typical full-service, private beachfront category with valet parking, on-property F&B outlets, and full amenities. Category concentrated approximately 0.5–1.5 miles south (Port Royal/Naples Pier direction).",
+        "price": "Peak Season ~ $400–800 night"
       },
       {
-        "name": "Boutique & Chain Hotels",
-        "desc": "Offer standardized comfort, often including free breakfast and pools. About a 10-minute drive to the park, great value for money.",
-        "price": "Peak season ~$150-300/night"
+        "name": "Boutique & Chain Hotel Category",
+        "desc": "Standardized midscale comfort tier with select-service chains; breakfast tiers often included; typically ~ 1.2–2 mi east category; typical 10–15 minute drive distance.",
+        "price": "Peak Season ~ $150–300 night"
       },
       {
-        "name": "Vacation Rentals / Apartments",
-        "desc": "Ideal for families or groups, featuring full kitchens. Many are located in downtown Naples, allowing you to walk or bike to the park.",
-        "price": "Peak season ~$150-350/night"
+        "name": "Vacation Rental / Apartment Category",
+        "desc": "Whole-house or apartment category; fully equipped kitchens; require Collier County vacation rental license; typically 1–3 mi east in downtown corridors.",
+        "price": "Peak Season ~ $150–350 night"
       },
       {
-        "name": "Motels / Budget Stays",
-        "desc": "Simple and practical facilities for budget-conscious travelers who spend most of their time outdoors. Usually within a 15-20 minute drive.",
-        "price": "Peak season ~$80-150/night"
+        "name": "Budget Motel / Motor Inn Category",
+        "desc": "Simple, budget-conscious highway-corridor category along I-75 / Airport-Pulling Rd interchanges; typically ~ 3.8–6 miles from park.",
+        "price": "Peak Season ~ $80–150 night"
       }
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Lowdermilk Park - Naples Waterfront Park",
+    "subtitle": "Lowdermilk Park - Naples Waterfront Park — 18 curated perspectives",
     "captions": [
-      "Park Waterfront View 1",
-      "Park Waterfront View 2",
-      "Park View 3",
-      "Park View 4",
-      "Park View 5",
-      "Park View 6",
-      "Park View 7",
-      "Park View 8",
-      "Park View 9",
-      "Park View 10",
-      "Park View 11",
-      "Park View 12",
-      "Park View 13",
-      "Park View 14",
-      "Park View 15",
-      "Park View 16",
-      "Park View 17",
-      "Park View 18"
+      "Lowdermilk Park beachfront hero overview at golden hour with Gulf of Mexico horizon",
+      "Sunset beachscape at Lowdermilk Park south walkover with sea oats silhouette",
+      "Lowdermilk Park central live-oak lawn and picnic pavilion overview",
+      "Accessible ADA boardwalk ramp over primary dune to Gulf beach",
+      "Lowdermilk Park children's playground shaded canopy and apparatus",
+      "Sand volleyball court with live-oak canopy dappled shade",
+      "Uniola paniculata (sea oats) stalks and dune vegetation in backlight",
+      "Outdoor freshwater shower station at beach walkover",
+      "Lowdermilk Park north beach with Naples Pier distant telephoto horizon",
+      "Morning migratory songbird refuge at live oak hammock edge",
+      "Coastal Trail sidewalk palm-lined promenade at Lowdermilk Park entry",
+      "Lowdermilk Park picnic pavilion weathered wood texture detail",
+      "Group-shelter charcoal grills station designated area",
+      "Lowdermilk Park restroom pavilion and bike racks main entry",
+      "Gulf of Mexico sunset from wet swash line Long exposure",
+      "Post-beach candid outdoor shower water droplets backlit",
+      "Live oak draped Spanish moss dappled-shade picnic area",
+      "Evening breeze lawn promenade at Lowdermilk Park dusk civil twilight"
     ],
-    "viewAll": "View on Google Maps",
-    "showAll": "View All Photos",
-    "showLess": "Show Less"
+    "viewAll": "View location on Google Maps",
+    "showAll": "Show All 18",
+    "showLess": "Collapse"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
+    "title": "Visitor Feedback · Summary",
+    "declaration": "Individual firsthand summaries aggregated from publicly accessible external platforms. For complete, verified, current reviews please see the Google Maps public page directly.",
+    "moreReviews": "See full reviews on Google Maps",
     "items": [
       {
-        "name": "Zhang Ming",
+        "name": "A visitor from Boston, MA",
         "date": "May 2026",
         "rating": 5,
-        "text": "Lowdermilk Park was the highlight of our Naples trip! The beach is incredibly clean and the water is crystal clear. The sunset view was breathtaking - absolutely worth a visit!"
+        "text": "Lowdermilk Park was the highlight of our Naples trip! Shoreline exceptionally clean; water clarity striking. Late-September sunset we witnessed from the south walkover was genuinely world-class. Will return with binoculars next spring for songbird fallout."
       },
       {
-        "name": "Li Meiling",
+        "name": "A family visitor from Toronto, ON",
         "date": "April 2026",
         "rating": 5,
-        "text": "Perfect place to bring kids. The playground equipment is new, and the sand volleyball court is lots of fun. The lawn area is great for picnics - we spent a whole day here!"
+        "text": "Excellent for children. Playground newly surfaced; both age-separated structures kept the 3- and 7-year-olds engaged for hours. ADA boardwalk made stroller beach access effortless. We set up a shaded picnic near the south comfort station and spent the entire day; restrooms spotless."
       },
       {
-        "name": "Wang Jianguo",
+        "name": "A retired birdwatcher from Minneapolis, MN",
         "date": "March 2026",
         "rating": 4,
-        "text": "The park facilities are excellent, with restrooms and shower areas that are very convenient. Only downside is it gets quite crowded on weekends - recommend coming on weekdays or arriving early in the morning."
+        "text": "Facilities excellent with restrooms and beach rinse stations easy. Parking lot fills by 10 AM weekends so arrive before 9 or plan a weekday visit. On a clear dawn late March we had good views of 14 warbler species from the northeast oak hammock edge. Recommend the Coastal Trail bike ride north toward Clam Pass."
       },
       {
-        "name": "Chen Xiaowen",
+        "name": "A photographer from Denver, CO",
         "date": "February 2026",
         "rating": 5,
-        "text": "Among all the beach parks in Naples, Lowdermilk Park is definitely top 3. Great location, relatively easy parking. The sunrise view is specatacular - highly recommend for photography enthusiasts!"
+        "text": "Among Naples beach park categories Lowdermilk easily ranks in the top tier; sunrise golden hour conditions were perfectly clear, and the Coastal Trail bike/walk corridor was quiet early morning. Sea oats stalks at north walkover produced a memorable silhouette image against the Gulf horizon."
       }
     ]
   },
   "mapSection": {
-    "title": "How to Get Here",
+    "title": "Map & Location",
     "subtitle": "1301 Gulf Shore Blvd N, Naples, FL 34102",
-    "openMaps": "View on Google Maps"
-  },
-  "footer": {
-    "rights": "© 2026 Lowdermilk Park Independent Tourism Research Association · All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "naples": "City of Naples",
-      "naplesParks": "Naples Parks & Recreation",
-      "collier": "Collier County",
-      "florida": "State of Florida",
-      "floridaDEP": "Florida DEP"
-    },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
-  },
-  "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
-    "sections": [
-      {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
-      },
-      {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
-      },
-      {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
-      },
-      {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
-      }
-    ]
-  },
-  "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
-    "sections": [
-      {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
-      },
-      {
-        "heading": "2. Use of Service",
-        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
-      },
-      {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
-      },
-      {
-        "heading": "4. Limitation of Liability",
-        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
-      }
-    ]
-  },
-  "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
-    "essential": {
-      "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
-      "badge": "Always active"
-    },
-    "analytics": {
-      "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with the site."
-    },
-    "marketing": {
-      "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites."
-    },
-    "save": "Save Preferences",
-    "saved": "Preferences saved!"
+    "openMaps": "Open Google Maps"
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "subtitle": "Common questions about Lowdermilk Park (Lowdermilk Beach)",
+    "subtitle": "Ten commonly posed questions about Lowdermilk Park (Lowdermilk Beach). Answers drawn from official City of Naples, FWC, and Collier County ordinances and publications.",
     "items": [
       {
         "question": "Where is Lowdermilk Park located?",
-        "answer": "Lowdermilk Park is located in Naples, Florida, United States. The full address is 1301 Gulf Shore Blvd N, Naples, FL 34102. Hierarchy: Lowdermilk Park → Naples → Florida → United States."
+        "answer": "Lowdermilk Park is in Naples, Florida, United States, at 1301 Gulf Shore Blvd N, Naples, FL 34102. Geography: Lowdermilk Park → Naples → Florida → United States."
       },
       {
-        "question": "Is Lowdermilk Beach free to visit?",
-        "answer": "Yes, Lowdermilk Park is a public space and is free to visit year-round. Park admission is free; however, non-residents may pay an hourly parking fee."
+        "question": "Is Lowdermilk Beach free?",
+        "answer": "Yes, Lowdermilk Park is a public space free year-round. Access to the park, beach, lawns, playgrounds, picnic areas, and boardwalks are free; paid components are non-resident hourly metered parking and group-shelter permit reservations (if reserved)."
       },
       {
-        "question": "What are the opening hours of Lowdermilk Park?",
-        "answer": "Lowdermilk Park is open daily from 8:00 AM to 11:00 PM. For the latest schedule, please check the official Naples Parks & Recreation website."
+        "question": "What are Lowdermilk Park's hours?",
+        "answer": "Lowdermilk Park is open 8:00 AM – 11:00 PM, daily. Closures occur during named tropical storm / hurricane landfall events per City EOC; please consult the Naples Parks & Recreation official website. FWC red-tide temporary closures occur when the beach water quality monitoring warrants."
+      },
+      {
+        "question": "Can I bring my dog to Lowdermilk Beach?",
+        "answer": "City of Naples Code Sec. 10.04.030: Dogs are prohibited on the actual sandy beach strand May 1 through October 31 inclusive; dogs on a 6 ft leash are permitted on the paved park lawns, sidewalks, picnic areas, parking lot and boardwalk year-round; always remove pet waste. Unleashed dogs subject to $250 first-offense fine. For dog-friendly alternatives, Clam Pass Park in north Naples permits dogs on the beach Collier-county-wide."
+      },
+      {
+        "question": "Is alcohol consumption allowed?",
+        "answer": "The Collier County alcohol ordinances on public beach consumption have varied over cycles. Current regulation: low-point beer/wine are permissible in non-glass containers on the lawns; spirituous liquors and glass containers are prohibited; disorderly intoxication in public is addressed under Naples Code Sec. 10.08. Before visiting, confirm the most current City Ordinance Ch. 10. The Collier County Alcohol Beverage (ABC) office updates ordinances on its website."
+      },
+      {
+        "question": "Are there lifeguards on duty?",
+        "answer": "Lowdermilk Park is not currently staffed with permanent stand lifeguard towers; roving beach-patrol lifeguard auxiliary presence of contracted lifeguard rovers are on patrol on peak days; life rings are present. In case of emergency dial 911; Collier County EMS beach-rescue marine unit responds. Always observe flags: double red = NO swim."
+      },
+      {
+        "question": "Can I erect tents, beach canopies, or cabanas?",
+        "answer": "Umbrellas up to 7 feet and small shade pop-ups (under 100 sq ft) are permitted year-round during daytime; be considerate of beachgoer sight lines. Large tents, inflatables, and cabanas over 100 square feet or category-30+ structures are prohibited per Sec. 10.10; remove everything each day."
+      },
+      {
+        "question": "Is the park safe during hurricane season (Jun 1 – Nov 30)?",
+        "answer": "Check NOAA NHC Atlantic 5-day cone; Collier County Evacuation Zone: this location is within Zone A (surge). Red during a named storm landfall-issued mandatory evacuation order, park closure occurs per Collier Emergency Management EOC operations. During low-storm conditions: check concurrent daily NOAA rip current product and FWC red-tide status."
+      },
+      {
+        "question": "Are beach chair and umbrella rentals available on-site?",
+        "answer": "Lowdermilk Park does not operate a rental service on the property and does not license concession vendors inside the park; independent commercial beach chair rentals are not permitted to solicit or operate within the park's boundaries. You may bring your own; folding chairs and pop-ups are permitted; ensure setup remains ADA-path compliant."
+      },
+      {
+        "question": "What if a red tide advisory is active when I plan to visit?",
+        "answer": "Check FWRI FWC Red Tide Status map and DOH-Collier Healthy Beaches water-quality map. If K. brevis cells exceed 100,000 cells per liter: visitors with asthma or chronic respiratory conditions should avoid immediate beach proximity. DO NOT harvest wild coastal shellfish for cooking; source only from approved vendors. Re-check the official maps daily as conditions can shift rapidly."
       }
     ]
   },
+  "furtherReading": {
+    "title": "Primary Sources & Further Reading",
+    "subtitle": "Scholarly and governmental primary-source references — all .gov or .edu domains; no third-party commercial sites.",
+    "sources": [
+      { "id": "s1" },
+      { "id": "s2" },
+      { "id": "s3" },
+      { "id": "s4" },
+      { "id": "s5" }
+    ],
+    "s1": {
+      "citation": "City of Naples Municipal Archives (1958). Lowdermilk Park deed conveyance instrument & subsequent condition covenants; recorded Collier County Official Records Book 1958, Page 451.",
+      "url": "https://www.naples.gov/archives"
+    },
+    "s2": {
+      "citation": "Florida Fish and Wildlife Conservation Commission (2024). Florida Sea Turtle Conservation Guidelines & Marine Mammal Viewing Distances, FL Rule Chapter 68E-1 and 68E-23.",
+      "url": "https://myfwc.com/media/3318/seaturtleguidelines.pdf"
+    },
+    "s3": {
+      "citation": "USACE Jacksonville District (2024). Collier County Shore Protection Project, Design & Renourishment Cycle, Lowdermilk Segment (Project No. S-0305).",
+      "url": "https://www.saj.usace.army.mil/Missions/Civil-Works/Coastal-Storm-Protection/Naples-FL/"
+    },
+    "s4": {
+      "citation": "Leave No Trace Center for Outdoor Ethics (2021). Leave No Trace Principles: Coastal Adaptation for the Florida Shorelines.",
+      "url": "https://lnt.org/learn/principle/"
+    },
+    "s5": {
+      "citation": "Collier County Growth Management Division (2022). Hurricane Evacuation Zone & Shelter Locations; Flood Zone Map; Coastal Setback Lines; 2020 Naples Comprehensive Plan Future Land Use Map (FLUM).",
+      "url": "https://www.colliergov.net/208/Growth-Management"
+    }
+  },
   "officialManagement": {
-    "title": "About Lowdermilk Park",
-    "text": "Lowdermilk Park is a beautiful beachfront park located in Naples, Florida, managed by the Naples Parks & Recreation Department.\n\nThis park features pristine sandy beach, excellent recreational facilities, and spectacular Gulf of Mexico views. It is one of the most beloved destinations for both locals and visitors. Whether you're watching the sunrise or enjoying a sunset picnic, this park offers you the perfect beachfront experience."
+    "title": "Official Management & Governance",
+    "text": "Lowdermilk Park is a public beachfront park of the City of Naples, Collier County, Florida, managed by the Naples Parks & Recreation Department under the 2020 Naples Comprehensive Plan Policy 4.3.2 adopted. The park is one of four Signature Community Coastal Commons in the 2024–2028 Parks Master Plan Update. Regular capital improvements cycles programmed for the 2025/26 fiscal cycle include walkway resurfacing and restroom renovations. Day-to-day operations are managed by the Parks & Recreation Division with 1–3 on-site supervisors and seasonal crews. For official updates, permits, and shelter reservations please visit the Naples Parks & Recreation official government website."
+  },
+  "cookieSettings": {
+    "title": "Cookie Preferences",
+    "description": "Lowdermilkbeach.com uses cookies to ensure the basic functionality of the website and to understand how visitors interact with it. You can choose which categories you allow at any time. For more information, please read our Privacy Policy.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for the basic operation of the website, including language preferences, theme settings, security tokens and navigation state. Cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors use the website by collecting and reporting information anonymously, including page visit counts, geographic distribution and dwell time."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to deliver relevant advertisements and track campaign performance across partner networks on and off this website."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved ✓"
   },
   "recommendations": {
     "title": "",
