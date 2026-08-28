@@ -61,18 +61,18 @@ export default function LntSection() {
                 }}
                 aria-hidden
               >
-                {t(`principles.${p.id}.order`) || '·'}
+                {t(`${p.id}.order`) || '·'}
               </div>
               <h4
                 className="font-display text-lg font-semibold mb-2"
                 style={{ color: 'var(--text-primary)' }}
               >
-                {t(`principles.${p.id}.name`)}
+                {t(`${p.id}.name`)}
               </h4>
               <div
                 className="text-sm sm:text-base leading-relaxed"
                 style={{ color: 'var(--text-secondary)' }}
-                dangerouslySetInnerHTML={{ __html: String(t(`principles.${p.id}.content`)) }}
+                dangerouslySetInnerHTML={{ __html: String(t(`${p.id}.content`)) }}
               />
             </article>
           ))}

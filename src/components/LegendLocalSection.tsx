@@ -39,20 +39,20 @@ export default function LegendLocalSection() {
                     background: 'color-mix(in srgb, var(--accent) 10%, transparent)',
                   }}
                 >
-                  {String.fromCharCode(65 + i)}. {t(`entries.${e.id}.tag`)}
+                  {String.fromCharCode(65 + i)}. {t(`${e.id}.tag`)}
                 </span>
                 <h3
                   className="font-display text-xl sm:text-2xl font-semibold"
                   style={{ color: 'var(--text-primary)' }}
                 >
-                  {t(`entries.${e.id}.name`)}
+                  {t(`${e.id}.name`)}
                 </h3>
               </div>
               <div
                 className="text-base leading-relaxed space-y-4"
                 style={{ color: 'var(--text-secondary)' }}
                 dangerouslySetInnerHTML={{
-                  __html: String(t(`entries.${e.id}.content`))
+                  __html: String(t(`${e.id}.content`))
                     .split('\n\n')
                     .map((p) => `<p class="mb-3 last:mb-0">${p}</p>`)
                     .join(''),
@@ -61,7 +61,7 @@ export default function LegendLocalSection() {
               <p
                 className="mt-4 text-xs italic"
                 style={{ color: 'var(--text-muted)' }}
-                dangerouslySetInnerHTML={{ __html: String(t(`entries.${e.id}.note`)) }}
+                dangerouslySetInnerHTML={{ __html: String(t(`${e.id}.note`)) }}
               />
             </article>
           ))}

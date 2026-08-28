@@ -41,19 +41,19 @@ export default function EcoSection() {
                   background: 'color-mix(in srgb, var(--accent) 10%, transparent)',
                 }}
               >
-                {String.fromCharCode(65 + i)}. {t(`topics.${topic.id}.tag`)}
+                {String.fromCharCode(65 + i)}. {t(`${topic.id}.tag`)}
               </div>
               <h3
                 className="font-display text-xl font-semibold mb-3"
                 style={{ color: 'var(--text-primary)' }}
               >
-                {t(`topics.${topic.id}.name`)}
+                {t(`${topic.id}.name`)}
               </h3>
               <div
                 className="text-base leading-relaxed space-y-3"
                 style={{ color: 'var(--text-secondary)' }}
                 dangerouslySetInnerHTML={{
-                  __html: String(t(`topics.${topic.id}.content`))
+                  __html: String(t(`${topic.id}.content`))
                     .split('\n\n')
                     .map((p) => `<p class="mb-2 last:mb-0">${p}</p>`)
                     .join(''),
