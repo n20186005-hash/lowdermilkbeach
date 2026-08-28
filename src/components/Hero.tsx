@@ -8,8 +8,9 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/lowdermilkpark (1).jpg"
-          alt="Lowdermilk Park"
+          src="/gallery/lowdermilk-park-beachfront-hero.jpg"
+          alt="Lowdermilk Park (Lowdermilk Beach) - Main beachfront and lawn overview in Naples, United States"
+          loading="eager"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />

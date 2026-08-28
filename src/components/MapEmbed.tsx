@@ -25,13 +25,13 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Lowdermilk+Park+Naples+Florida&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6369.444074655983!2d-81.809978!3d26.162054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dae1ea251be6a5%3A0x8f48e0f9b0b85ca5!2sLowdermilk%20Park!5e1!3m2!1szh-CN!2s!4v1787899378340!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Lowdermilk Park"
           />
         </div>

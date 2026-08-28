@@ -4,24 +4,78 @@ import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/lowdermilkpark (1).jpg', alt: 'Lowdermilk Park 照片 1' },
-  { src: '/gallery/lowdermilkpark (2).jpg', alt: 'Lowdermilk Park 照片 2' },
-  { src: '/gallery/lowdermilkpark (3).jpg', alt: 'Lowdermilk Park 照片 3' },
-  { src: '/gallery/lowdermilkpark (4).jpg', alt: 'Lowdermilk Park 照片 4' },
-  { src: '/gallery/lowdermilkpark (5).jpg', alt: 'Lowdermilk Park 照片 5' },
-  { src: '/gallery/lowdermilkpark (6).jpg', alt: 'Lowdermilk Park 照片 6' },
-  { src: '/gallery/lowdermilkpark (7).jpg', alt: 'Lowdermilk Park 照片 7' },
-  { src: '/gallery/lowdermilkpark (8).jpg', alt: 'Lowdermilk Park 照片 8' },
-  { src: '/gallery/lowdermilkpark (9).jpg', alt: 'Lowdermilk Park 照片 9' },
-  { src: '/gallery/lowdermilkpark (10).jpg', alt: 'Lowdermilk Park 照片 10' },
-  { src: '/gallery/lowdermilkpark (11).jpg', alt: 'Lowdermilk Park 照片 11' },
-  { src: '/gallery/lowdermilkpark (12).jpg', alt: 'Lowdermilk Park 照片 12' },
-  { src: '/gallery/lowdermilkpark (13).jpg', alt: 'Lowdermilk Park 照片 13' },
-  { src: '/gallery/lowdermilkpark (14).jpg', alt: 'Lowdermilk Park 照片 14' },
-  { src: '/gallery/lowdermilkpark (15).jpg', alt: 'Lowdermilk Park 照片 15' },
-  { src: '/gallery/lowdermilkpark (16).jpg', alt: 'Lowdermilk Park 照片 16' },
-  { src: '/gallery/lowdermilkpark (17).jpg', alt: 'Lowdermilk Park 照片 17' },
-  { src: '/gallery/lowdermilkpark (18).jpg', alt: 'Lowdermilk Park 照片 18' },
+  {
+    src: '/gallery/lowdermilk-park-beachfront-hero.jpg',
+    alt: 'Lowdermilk Park (Lowdermilk Beach) - Main beachfront and lawn overview in Naples, United States',
+  },
+  {
+    src: '/gallery/lowdermilk-park-gulf-sunset.jpg',
+    alt: 'Lowdermilk Beach - Gulf of Mexico sunset with golden water near Naples Pier',
+  },
+  {
+    src: '/gallery/lowdermilk-park-sandy-beach.jpg',
+    alt: 'Lowdermilk Park - Pristine sandy beach looking toward the Gulf of Mexico',
+  },
+  {
+    src: '/gallery/lowdermilk-park-picnic-lawn.jpg',
+    alt: 'Lowdermilk Park - Picnic lawn area with palm trees near Third Street South',
+  },
+  {
+    src: '/gallery/lowdermilk-park-playground.jpg',
+    alt: 'Lowdermilk Park - Childrens playground facility in Naples beachfront',
+  },
+  {
+    src: '/gallery/lowdermilk-park-volleyball-court.jpg',
+    alt: 'Lowdermilk Beach - Sand volleyball court activity area in Lowdermilk Park',
+  },
+  {
+    src: '/gallery/lowdermilk-park-pavilion.jpg',
+    alt: 'Lowdermilk Park - Picnic pavilion and BBQ facilities by the beach',
+  },
+  {
+    src: '/gallery/lowdermilk-park-naples-pier-distant.jpg',
+    alt: 'Naples Pier distant view from Lowdermilk Beach along Gulf Shore Blvd',
+  },
+  {
+    src: '/gallery/lowdermilk-park-gulf-sunrise.jpg',
+    alt: 'Lowdermilk Beach - Gulf of Mexico sunrise panorama from Lowdermilk Park',
+  },
+  {
+    src: '/gallery/lowdermilk-park-coastal-trail.jpg',
+    alt: 'Lowdermilk Park - Coastal Trail walking path along Gulf Shore Boulevard',
+  },
+  {
+    src: '/gallery/lowdermilk-park-seagull-wildlife.jpg',
+    alt: 'Lowdermilk Beach - Seagull and shorebird wildlife on the sand',
+  },
+  {
+    src: '/gallery/lowdermilk-park-dolphin-watch.jpg',
+    alt: 'Lowdermilk Park - Dolphin watching spot on Gulf of Mexico horizon',
+  },
+  {
+    src: '/gallery/lowdermilk-park-restroom-shower.jpg',
+    alt: 'Lowdermilk Park - Public restroom and shower facilities entrance',
+  },
+  {
+    src: '/gallery/lowdermilk-park-parking-area.jpg',
+    alt: 'Lowdermilk Park - Main parking area near 1301 Gulf Shore Blvd N Naples',
+  },
+  {
+    src: '/gallery/lowdermilk-park-third-street-south.jpg',
+    alt: 'Lowdermilk Park - Walkable access toward Third Street South district',
+  },
+  {
+    src: '/gallery/lowdermilk-park-family-picnic.jpg',
+    alt: 'Lowdermilk Park - Family picnic gathering on the waterfront lawn',
+  },
+  {
+    src: '/gallery/lowdermilk-park-beach-umbrellas.jpg',
+    alt: 'Lowdermilk Beach - Beach umbrellas and summer visitors on the sand',
+  },
+  {
+    src: '/gallery/lowdermilk-park-evening-breeze.jpg',
+    alt: 'Lowdermilk Park - Evening sea breeze and coastal scenery in Naples Florida',
+  },
 ];
 
 export default function Gallery() {
@@ -58,7 +112,7 @@ export default function Gallery() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
               {(showAll ? photos : photos.slice(0, 8)).map((photo, i) => (
                 <div
-                  key={i}
+                  key={photo.src}
                   className={`gallery-item relative group cursor-pointer ${i === 0 && !showAll ? 'col-span-2 row-span-2' : ''}`}
                   onClick={() => {
                     setCurrentIndex(i);

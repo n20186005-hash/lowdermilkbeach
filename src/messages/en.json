@@ -1,7 +1,10 @@
 {
   "meta": {
-    "title": "Lowdermilk Park Naples FL | Premier Beachfront Park - Must-Visit Attraction",
-    "description": "Complete guide to Lowdermilk Park in Naples, Florida. Learn about this beautiful beachfront park, its facilities, location, and visiting information. Enjoy stunning Gulf of Mexico sunrises and sunsets."
+    "title": "Lowdermilk Park (Naples) - Visitor Guide & Location",
+    "description": "Discover Lowdermilk Park, the iconic landmark in Naples, Florida, United States. View location map, opening details, nearby Naples Pier, and travel tips.",
+    "ogTitle": "Lowdermilk Park - Naples Travel Guide",
+    "ogDescription": "Official visitor guide to Lowdermilk Park in Naples, Florida, United States.",
+    "ogImageAlt": "Lowdermilk Park - Main view in Naples, United States"
   },
   "header": {
     "home": "Home",
@@ -11,16 +14,16 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Lowdermilk Park",
+    "title": "Lowdermilk Park (Naples)",
     "subtitle": "Naples Beachfront Park - Enjoy Spectacular Gulf Sunrises & Sunsets",
-    "rating": "4.7(6,073)",
-    "reviewCount": "6,073 reviews",
+    "rating": "4.7(6,254)",
+    "reviewCount": "6,254 reviews",
     "type": "Beach Park · Naples Must-Visit",
     "openMaps": "View Location"
   },
   "intro": {
-    "title": "Discover Lowdermilk Park",
-    "description": "Lowdermilk Park is a beautiful beachfront park located in Naples, Florida. This park is renowned for its pristine sandy beach, crystal-clear waters, and excellent facilities, making it one of the most beloved recreational destinations for both locals and tourists.\n\nSituated on Gulf Shore Boulevard North, the park features spacious lawns, picnic areas, sand volleyball courts, and a children's playground. It's a perfect spot to watch the sunrise and sunset over the Gulf of Mexico, and an ideal place to enjoy the Florida sunshine.\n\nWhether you're taking a morning stroll, having an afternoon picnic, or enjoying the evening sunset, Lowdermilk Park offers you the perfect beachfront experience. The park also provides restrooms, shower facilities, and ample parking to make your visit more comfortable and convenient.",
+    "title": "About Lowdermilk Park",
+    "description": "Welcome to <strong>Lowdermilk Park</strong>, widely recognized as the central <strong>Lowdermilk Beach</strong>. Located in the heart of <strong>Naples</strong>, <strong>Florida</strong>, <strong>United States</strong>, this destination serves as a primary hub for travelers visiting the region.\n\nLowdermilk Park is a beautiful beachfront park located in Naples, Florida. This park is renowned for its pristine sandy beach, crystal-clear waters, and excellent facilities, making it one of the most beloved recreational destinations for both locals and tourists.\n\nHierarchy: Lowdermilk Park → Naples → Florida → United States\n\nSituated on Gulf Shore Boulevard North, the park features spacious lawns, picnic areas, sand volleyball courts, and a children's playground. It's a perfect spot to watch the sunrise and sunset over the Gulf of Mexico, and an ideal place to enjoy the Florida sunshine.\n\nWhen visiting <strong>Lowdermilk Park</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Naples Pier</strong> and <strong>Third Street South</strong>.\n\nWhether you're taking a morning stroll, having an afternoon picnic, or enjoying the evening sunset, Lowdermilk Park offers you the perfect beachfront experience. The park also provides restrooms, shower facilities, and ample parking to make your visit more comfortable and convenient.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -45,7 +48,7 @@
     "sections": [
       {
         "id": "history",
-        "title": "Park History",
+        "title": "History & Significance of Lowdermilk Park",
         "content": "Lowdermilk Park is one of Naples' most beloved beachfront parks. The park is named after the Lowdermilk family, who made significant contributions to the development of Naples. The park has been carefully maintained over the years, providing a perfect beachfront recreational space for residents and visitors.\n\nLocated on Gulf Shore Boulevard North facing the Gulf of Mexico, the park features pristine sandy beach and complete facilities. Over the decades, it has remained an important gathering place for the Naples community."
       },
       {
@@ -55,8 +58,13 @@
       },
       {
         "id": "location",
-        "title": "Location",
+        "title": "Location & How to Visit Lowdermilk Beach in Naples",
         "content": "The park is located in a prime location in Naples at 1301 Gulf Shore Blvd N, Naples, FL 34102. This location offers unparalleled Gulf of Mexico views and is an excellent spot for watching both sunrises and sunsets.\n\nFrom the park, you can easily walk to other Naples attractions, including Naples Pier and the downtown shopping district. The park's location makes it an ideal starting point for visitors exploring Naples beaches."
+      },
+      {
+        "id": "nearby",
+        "title": "Landmarks & Attractions Around Lowdermilk Beach",
+        "content": "When visiting Lowdermilk Park, visitors can easily explore surrounding historical landmarks and points of interest, including Naples Pier and Third Street South.\n\n• <strong>Naples Pier</strong>: An iconic Naples landmark, about a 15-minute walk south along the beach. Perfect for fishing, sunset viewing, and watching dolphins.\n\n• <strong>Third Street South</strong>: Naples' historic downtown shopping and dining district, featuring upscale boutiques, art galleries, and waterfront restaurants.\n\n• <strong>Coastal Trail</strong>: A scenic paved path running along Gulf Shore Boulevard, ideal for walking or cycling between parks and beaches.\n\nThese nearby attractions make Lowdermilk Park the perfect base for exploring the best of Naples' Gulf Coast."
       },
       {
         "id": "wildlife",
@@ -323,6 +331,24 @@
     },
     "save": "Save Preferences",
     "saved": "Preferences saved!"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about Lowdermilk Park (Lowdermilk Beach)",
+    "items": [
+      {
+        "question": "Where is Lowdermilk Park located?",
+        "answer": "Lowdermilk Park is located in Naples, Florida, United States. The full address is 1301 Gulf Shore Blvd N, Naples, FL 34102. Hierarchy: Lowdermilk Park → Naples → Florida → United States."
+      },
+      {
+        "question": "Is Lowdermilk Beach free to visit?",
+        "answer": "Yes, Lowdermilk Park is a public space and is free to visit year-round. Park admission is free; however, non-residents may pay an hourly parking fee."
+      },
+      {
+        "question": "What are the opening hours of Lowdermilk Park?",
+        "answer": "Lowdermilk Park is open daily from 8:00 AM to 11:00 PM. For the latest schedule, please check the official Naples Parks & Recreation website."
+      }
+    ]
   },
   "officialManagement": {
     "title": "About Lowdermilk Park",

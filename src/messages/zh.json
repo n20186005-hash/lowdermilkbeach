@@ -1,7 +1,10 @@
 {
   "meta": {
-    "title": "Lowdermilk Park 劳德米尔克公园｜那不勒斯海滨公园 - 必游景点",
-    "description": "探索佛罗里达州那不勒斯市 Lowdermilk Park 的完整指南。了解这座美丽海滨公园的设施、位置和游览信息。享受墨西哥湾的日出和日落美景。"
+    "title": "Lowdermilk Park (Naples) - 访客指南与位置地图",
+    "description": "探索美国佛罗里达州那不勒斯市标志性地标 Lowdermilk Park（劳德米尔克公园）。查看位置地图、开放信息、附近 Naples Pier（那不勒斯码头）及旅行建议。",
+    "ogTitle": "Lowdermilk Park - 那不勒斯旅游指南",
+    "ogDescription": "Lowdermilk Park 位于美国佛罗里达州那不勒斯市的官方访客指南。",
+    "ogImageAlt": "Lowdermilk Park - 美国那不勒斯市主景观"
   },
   "header": {
     "home": "首页",
@@ -11,16 +14,16 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "Lowdermilk Park",
+    "title": "Lowdermilk Park (Naples)",
     "subtitle": "那不勒斯海滨公园 - 享受墨西哥湾的日出与日落美景",
-    "rating": "4.7(6,073)",
-    "reviewCount": "6,073 条评价",
+    "rating": "4.7(6,254)",
+    "reviewCount": "6,254 条评价",
     "type": "海滨公园 · 那不勒斯必游",
     "openMaps": "查看位置"
   },
   "intro": {
-    "title": "探索 Lowdermilk Park",
-    "description": "Lowdermilk Park 是位于佛罗里达州那不勒斯市的一座美丽海滨公园。这座公园以其 pristine 沙滩、清澈的海水和完善的设施而闻名，是当地居民和游客最喜爱的休闲目的地之一。\n\n公园位于 Gulf Shore Boulevard North，拥有宽敞的草坪、野餐区、沙滩排球场和儿童游乐场。这里是观赏墨西哥湾日出和日落的绝佳地点，也是享受佛罗里达阳光的理想场所。\n\n无论是清晨散步、下午野餐，还是傍晚欣赏日落，Lowdermilk Park 都能为您提供完美的海滨体验。公园还设有休息室、淋浴设施和充足的停车位，让您的访问更加舒适便捷。",
+    "title": "关于 Lowdermilk Park",
+    "description": "欢迎来到 <strong>Lowdermilk Park</strong>（劳德米尔克公园），此地被广泛公认为核心的 <strong>Lowdermilk Beach</strong>（劳德米尔克海滩）。坐落于 <strong>美国</strong> <strong>佛罗里达州</strong> <strong>那不勒斯市</strong> 的中心地带，这一目的地是到访该地区旅行者的核心枢纽。\n\nLowdermilk Park 是位于佛罗里达州那不勒斯市的一座美丽海滨公园。这座公园以其原始沙滩、清澈的海水和完善的设施而闻名，是当地居民和游客最喜爱的休闲目的地之一。\n\n地理层级：Lowdermilk Park → Naples（那不勒斯）→ Florida（佛罗里达州）→ United States（美国）\n\n公园位于 Gulf Shore Boulevard North，拥有宽敞的草坪、野餐区、沙滩排球场和儿童游乐场。这里是观赏墨西哥湾日出和日落的绝佳地点，也是享受佛罗里达阳光的理想场所。\n\n游览 <strong>Lowdermilk Park</strong> 时，游客可以轻松探索周边的历史地标与名胜景点，包括 <strong>Naples Pier（那不勒斯码头）</strong> 与 <strong>Third Street South（第三街南）</strong>。\n\n无论是清晨散步、下午野餐，还是傍晚欣赏日落，Lowdermilk Park 都能为您提供完美的海滨体验。公园还设有休息室、淋浴设施和充足的停车位，让您的访问更加舒适便捷。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -34,7 +37,7 @@
       "title": "公园特色",
       "items": [
         "那不勒斯市最受欢迎的海滨公园之一",
-        "拥有 pristine 沙滩和清澈的墨西哥湾海水",
+        "拥有原始（pristine）沙滩和清澈的墨西哥湾海水",
         "配备野餐区、游乐场、排球场和完善设施",
         "观赏日出的绝佳地点，日落景色同样迷人"
       ]
@@ -45,18 +48,23 @@
     "sections": [
       {
         "id": "history",
-        "title": "公园历史",
-        "content": "Lowdermilk Park 是那不勒斯市最受欢迎的海滨公园之一。这座公园以 Lowdermilk 家族命名，该家族对那不勒斯市的发展做出了重要贡献。公园经过精心维护，为居民和游客提供了完美的海滨休闲空间。\n\n公园位于 Gulf Shore Boulevard North，面向墨西哥湾，拥有 pristine 沙滩和完善的设施。多年来，这里一直是那不勒斯社区的重要聚集场所。"
+        "title": "Lowdermilk Park 的历史与意义",
+        "content": "Lowdermilk Park 是那不勒斯市最受欢迎的海滨公园之一。这座公园以 Lowdermilk 家族命名，该家族对那不勒斯市的发展做出了重要贡献。公园经过精心维护，为居民和游客提供了完美的海滨休闲空间。\n\n公园位于 Gulf Shore Boulevard North，面向墨西哥湾，拥有原始沙滩和完善的设施。多年来，这里一直是那不勒斯社区的重要聚集场所。"
       },
       {
         "id": "features",
         "title": "公园设施",
-        "content": "Lowdermilk Park 配备了完善的休闲设施，包括：\n\n• 宽敞的草坪区域，适合野餐和休闲活动\n• 儿童游乐场，设有安全的游乐设施\n• 沙滩排球场，可以尽情享受海滩运动\n• 野餐亭和烧烤设施\n• 干净的休息室和淋浴设施\n• 充足的停车位\n• 直接通往 pristine 沙滩\n\n这些设施使 Lowdermilk Park 成为家庭出游、朋友聚会和独自休闲的理想选择。"
+        "content": "Lowdermilk Park 配备了完善的休闲设施，包括：\n\n• 宽敞的草坪区域，适合野餐和休闲活动\n• 儿童游乐场，设有安全的游乐设施\n• 沙滩排球场，可以尽情享受海滩运动\n• 野餐亭和烧烤设施\n• 干净的休息室和淋浴设施\n• 充足的停车位\n• 直接通往原始沙滩\n\n这些设施使 Lowdermilk Park 成为家庭出游、朋友聚会和独自休闲的理想选择。"
       },
       {
         "id": "location",
-        "title": "地理位置",
-        "content": "公园位于那不勒斯市中心的黄金位置，地址是 1301 Gulf Shore Blvd N, Naples, FL 34102。这个位置提供了无与伦比的墨西哥湾景色，是观赏日出和日落的绝佳地点。\n\n从公园可以轻松步行到达那不勒斯市的其他景点，包括那不勒斯码头（Naples Pier）和市中心购物区。公园的地理位置使其成为游客探索那不勒斯海滩的理想起点。"
+        "title": "Lowdermilk Beach 在那不勒斯的位置与交通指南",
+        "content": "公园位于那不勒斯市中心的黄金位置，地址是 1301 Gulf Shore Blvd N, Naples, FL 34102。这个位置提供了无与伦比的墨西哥湾景色，是观赏日出和日落的绝佳地点。\n\n从公园可以轻松步行到达那不勒斯市的其他景点，包括 Naples Pier（那不勒斯码头）和市中心购物区。公园的地理位置使其成为游客探索那不勒斯海滩的理想起点。"
+      },
+      {
+        "id": "nearby",
+        "title": "Lowdermilk Beach 周边地标与景点",
+        "content": "游览 Lowdermilk Park 时，游客可以轻松探索周边的历史地标与名胜景点，包括 Naples Pier（那不勒斯码头）与 Third Street South（第三街南）。\n\n• <strong>Naples Pier（那不勒斯码头）</strong>：那不勒斯标志性地标，沿海滩向南步行约 15 分钟即可到达。是钓鱼、观赏日落和观看海豚的绝佳地点。\n\n• <strong>Third Street South（第三街南）</strong>：那不勒斯历史悠久的市中心购物餐饮区，设有高档精品店、艺术画廊和海滨餐厅。\n\n• <strong>Coastal Trail（滨海步道）</strong>：沿 Gulf Shore Boulevard 铺设的风景优美步道，适合步行或骑行往返公园与海滩之间。\n\n这些周边景点使 Lowdermilk Park 成为探索那不勒斯墨西哥湾沿岸精华地带的完美基地。"
       },
       {
         "id": "wildlife",
@@ -124,7 +132,7 @@
     "steps": [
       "早晨到达公园，在沙滩上散步，感受墨西哥湾的清新海风",
       "在草坪区找一处阴凉处，搭建遮阳伞或野餐垫",
-      "享受海滩活动——游泳、沙滩排球或 simply 放松",
+      "享受海滩活动——游泳、沙滩排球或自在（simply）放松",
       "中午在野餐区享用午餐，使用公园的烧烤设施",
       "下午带孩子去游乐场玩耍，或在沙滩上建造沙堡",
       "参观公园附近的 Naples Pier（那不勒斯码头），步行约15分钟",
@@ -237,7 +245,7 @@
         "name": "陈晓雯（Chen Xiaowen）",
         "date": "2026年2月",
         "rating": 5,
-        "text": "在那不勒斯众多海滩公园中，Lowdermilk Park 绝对是 top 3。位置便利，停车也相对容易。日出时分的景色特别美，推荐摄影爱好者来！"
+        "text": "在那不勒斯众多海滩公园中，Lowdermilk Park 绝对位列前三（top 3）。位置便利，停车也相对容易。日出时分的景色特别美，推荐摄影爱好者来！"
       }
     ]
   },
@@ -324,9 +332,27 @@
     "save": "保存设置",
     "saved": "设置已保存！"
   },
+  "faq": {
+    "title": "常见问题解答",
+    "subtitle": "关于 Lowdermilk Park（劳德米尔克公园 / Lowdermilk Beach）的常见问题",
+    "items": [
+      {
+        "question": "Lowdermilk Park 位于哪里？",
+        "answer": "Lowdermilk Park 位于美国佛罗里达州那不勒斯市，完整地址为 1301 Gulf Shore Blvd N, Naples, FL 34102。地理层级：Lowdermilk Park → Naples（那不勒斯）→ Florida（佛罗里达州）→ United States（美国）。"
+      },
+      {
+        "question": "Lowdermilk Beach 是否免费参观？",
+        "answer": "是的，Lowdermilk Park 是公共空间，全年免费开放。公园入园免费，但非本地居民停车可能需要按小时支付停车费。"
+      },
+      {
+        "question": "Lowdermilk Park 的开放时间是什么？",
+        "answer": "Lowdermilk Park 每日开放时间为上午 8:00 至晚上 23:00。最新开放时间请以那不勒斯市公园与娱乐部门官方网站为准。"
+      }
+    ]
+  },
   "officialManagement": {
     "title": "关于 Lowdermilk Park",
-    "text": "Lowdermilk Park 是位于佛罗里达州那不勒斯市的一座美丽的海滨公园，由那不勒斯市公园与娱乐部门管理。\n\n这座公园拥有 pristine 沙滩、完善的休闲设施和壮观的墨西哥湾景色，是当地居民和游客最喜爱的目的地之一。无论是日出漫步还是日落野餐，这里都能提供完美的海滨体验。"
+    "text": "Lowdermilk Park 是位于佛罗里达州那不勒斯市的一座美丽的海滨公园，由那不勒斯市公园与娱乐部门管理。\n\n这座公园拥有原始沙滩、完善的休闲设施和壮观的墨西哥湾景色，是当地居民和游客最喜爱的目的地之一。无论是日出漫步还是日落野餐，这里都能提供完美的海滨体验。"
   },
   "recommendations": {
     "title": "",

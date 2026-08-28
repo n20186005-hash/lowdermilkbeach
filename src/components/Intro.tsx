@@ -18,12 +18,13 @@ export default function Intro() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
-        <p
-          className="text-lg leading-relaxed mb-12"
+        <div
+          className="text-lg leading-relaxed mb-12 space-y-4"
           style={{ color: 'var(--text-secondary)' }}
-        >
-          {t('description')}
-        </p>
+          dangerouslySetInnerHTML={{
+            __html: String(t('description')).split('\n\n').map(p => `<p class="mb-4 last:mb-0">${p}</p>`).join('')
+          }}
+        />
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div
@@ -71,9 +72,13 @@ export default function Intro() {
           <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
             {tOff('title')}
           </h2>
-          <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
-            {tOff('text')}
-          </div>
+          <div
+            className="text-base leading-relaxed space-y-4"
+            style={{ color: 'var(--text-secondary)' }}
+            dangerouslySetInnerHTML={{
+              __html: String(tOff('text')).split('\n\n').map(p => `<p class="mb-4 last:mb-0">${p}</p>`).join('')
+            }}
+          />
         </div>
       </div>
     </section>
