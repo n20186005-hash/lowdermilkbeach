@@ -4,6 +4,7 @@ import { useTranslations } from 'next-intl';
 
 export default function RouteSection() {
   const t = useTranslations('route');
+  const steps = (t.raw('steps') as unknown as string[]) ?? [];
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -28,12 +29,8 @@ export default function RouteSection() {
           />
 
           <div className="space-y-6">
-            {Array.from({ length: 8 }, (_, i) => i + 1).map((step) => (
-              <RouteStep
-                key={step}
-                step={step}
-                description={t(`steps.${step - 1}` as any)}
-              />
+            {steps.map((description, i) => (
+              <RouteStep key={i + 1} step={i + 1} description={description} />
             ))}
           </div>
         </div>

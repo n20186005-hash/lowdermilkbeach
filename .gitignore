@@ -38,6 +38,11 @@ desktop.ini
 # Vercel
 .vercel/
 
+# OpenNext / Cloudflare
+.open-next/
+.wrangler/
+.dev.vars
+
 # Turbo
 .turbo/
 
