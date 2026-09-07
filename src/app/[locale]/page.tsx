@@ -9,6 +9,7 @@ import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
 import InfoSection from '@/components/InfoSection';
 import SeasonalSection from '@/components/SeasonalSection';
+import WeatherTideSection from '@/components/WeatherTideSection';
 import AudienceRouteSection from '@/components/AudienceRouteSection';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
@@ -23,6 +24,10 @@ import FaqSection from '@/components/FaqSection';
 import FurtherReadingSection from '@/components/FurtherReadingSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
+
+// The home page embeds live weather and tide data fetched by a Server
+// Component, so it must be rendered on demand instead of frozen at build time.
+export const dynamic = 'force-dynamic';
 
 export default async function HomePage({
   params,
@@ -45,6 +50,7 @@ export default async function HomePage({
         <TransportSection />
         <InfoSection />
         <SeasonalSection />
+        <WeatherTideSection />
         <AudienceRouteSection />
         <RouteSection />
         <PhotoSpotsSection />
