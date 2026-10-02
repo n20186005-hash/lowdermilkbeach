@@ -1,33 +1,41 @@
 {
   "meta": {
-    "title": "Lowdermilk Park (Naples) - 访客指南与位置地图",
-    "description": "探索美国佛罗里达州那不勒斯市地标性景点 Lowdermilk Park（劳德米尔克公园）。查看位置地图、开放信息、附近 Naples Pier（那不勒斯码头）、旅行建议、生态说明、海龟产卵季及访客设施。",
-    "ogTitle": "Lowdermilk Park - 那不勒斯（Naples）旅游指南",
-    "ogDescription": "Lowdermilk Park（劳德米尔克公园 / Lowdermilk Beach 劳德米尔克海滩）位于美国佛罗里达州那不勒斯（Naples, Florida）的独立访客指南。包含历史、生态、无障碍设施、访客服务、季度策略与无痕山林（LNT）原则。",
-    "ogImageAlt": "Lowdermilk Park（劳德米尔克公园 / Lowdermilk Beach 劳德米尔克海滩）— 美国那不勒斯（Naples）主海滨与草坪总览"
+    "title": "Lowdermilk Beach 海滩与公园（那不勒斯）｜开放时间、停车与攻略",
+    "description": "佛罗里达那不勒斯 Lowdermilk Park（Lowdermilk Beach 海滩）访客攻略：开放时间、停车收费、沙滩入口、洗手间、淋浴、游乐场、照片与交通路线。",
+    "ogTitle": "Lowdermilk Beach 海滩与 Lowdermilk Park 公园 — 那不勒斯旅游指南",
+    "ogDescription": "地址 1301 Gulf Shore Blvd N 的那不勒斯海滨公园：最新开放时间、停车、设施、沙滩入口与旅行建议。",
+    "ogImageAlt": "美国佛罗里达那不勒斯 Lowdermilk Park 的 Lowdermilk Beach 海滩、草坪与栈道全景"
   },
   "header": {
     "home": "首页",
-    "gallery": "图库",
-    "reviews": "评价",
+    "gallery": "照片",
+    "reviews": "访客评价",
     "map": "地图",
-    "facts": "速览卡",
-    "ecology": "生态科普",
-    "lnt": "LNT 准则",
-    "history": "历史沿革",
-    "photography": "摄影点位",
-    "amenities": "访客服务",
+    "facts": "快速概览",
+    "ecology": "生态",
+    "lnt": "无痕山林",
+    "history": "历史",
+    "photography": "拍照点",
+    "amenities": "设施",
     "legend": "地方传说",
-    "reading": "权威出处",
-    "backToHome": "返回首页"
+    "reading": "资料来源",
+    "backToHome": "返回访客指南",
+    "directory": "访客导航",
+    "openToday": "今日开放",
+    "hours": "开放时间",
+    "parking": "停车",
+    "gettingHere": "交通",
+    "weather": "天气潮汐",
+    "faq": "常见问题"
   },
   "hero": {
-    "title": "Lowdermilk Park (Naples)",
-    "subtitle": "那不勒斯（Naples）海滨公园 — 欣赏墨西哥湾壮丽日出与日落",
-    "rating": "4.7(6,254)",
-    "reviewCount": "6,254 条评价",
-    "type": "海滨公园 · 那不勒斯必游",
-    "openMaps": "查看位置"
+    "title": "Lowdermilk Park（Lowdermilk Beach 海滩）— 佛罗里达那不勒斯",
+    "subtitle": "免门票 · 计时停车 · 洗手间、淋浴与游乐场 · 墨西哥湾日落",
+    "rating": "4.7★",
+    "reviewCount": "6,304 条 Google 评价",
+    "type": "海滨公园 · 那不勒斯, 佛罗里达",
+    "openMaps": "查看位置",
+    "updated": "评价与信息更新于 2026 年 10 月"
   },
   "intro": {
     "title": "关于 Lowdermilk Park（劳德米尔克公园）",
@@ -56,23 +64,71 @@
   },
   "quickFacts": {
     "facts": [
-      { "id": "officialName", "icon": "name" },
-      { "id": "hours",       "icon": "hours" },
-      { "id": "admission",   "icon": "price" },
-      { "id": "parking",     "icon": "parking" },
-      { "id": "accessibility", "icon": "accessibility" },
-      { "id": "beach",       "icon": "beach" },
-      { "id": "season",      "icon": "season" },
-      { "id": "phone",       "icon": "phone" }
+      {
+        "id": "officialName",
+        "icon": "name"
+      },
+      {
+        "id": "hours",
+        "icon": "hours"
+      },
+      {
+        "id": "admission",
+        "icon": "price"
+      },
+      {
+        "id": "parking",
+        "icon": "parking"
+      },
+      {
+        "id": "accessibility",
+        "icon": "accessibility"
+      },
+      {
+        "id": "beach",
+        "icon": "beach"
+      },
+      {
+        "id": "season",
+        "icon": "season"
+      },
+      {
+        "id": "phone",
+        "icon": "phone"
+      }
     ],
-    "officialName": { "label": "官方名称", "value": "Lowdermilk Park（劳德米尔克公园）" },
-    "hours":        { "label": "开放时间",  "value": "每日 08:00 – 23:00" },
-    "admission":    { "label": "入园费用", "value": "免费 · 公共开放" },
-    "parking":      { "label": "停车政策",  "value": "居民免费 · 非居民按小时计费"},
-    "accessibility":{ "label": "无障碍设施", "value": "ADA 卫生间 + 海滨无障碍栈道" },
-    "beach":        { "label": "岸线长度", "value": "约 1,100 英尺墨西哥湾临海面" },
-    "season":       { "label": "最佳季节", "value": "3–5 月 / 11 月–12 月上旬" },
-    "phone":        { "label": "管理部门", "value": "+1 239-213-7120" }
+    "officialName": {
+      "label": "官方名称",
+      "value": "Lowdermilk Park"
+    },
+    "hours": {
+      "label": "开放时间",
+      "value": "每日 05:00 – 23:00"
+    },
+    "admission": {
+      "label": "门票",
+      "value": "免费 · 公共开放"
+    },
+    "parking": {
+      "label": "停车",
+      "value": "园内计时收费 · 居民许可免费"
+    },
+    "accessibility": {
+      "label": "无障碍",
+      "value": "无障碍洗手间 + 沙滩栈道"
+    },
+    "beach": {
+      "label": "岸线长度",
+      "value": "约 1,100 英尺墨西哥湾岸线"
+    },
+    "season": {
+      "label": "最佳季节",
+      "value": "3–5 月 / 11–12 月初"
+    },
+    "phone": {
+      "label": "管理单位",
+      "value": "+1 239-213-7120"
+    }
   },
   "knowledge": {
     "title": "关于 Lowdermilk Park（劳德米尔克公园）",
@@ -108,12 +164,30 @@
     "title": "访客服务与周边设施（类型中立概述）",
     "subtitle": "以下仅说明中性类型与分布走廊；不推荐任何具体商户名称",
     "categories": [
-      { "id": "wc",          "icon": "wc" },
-      { "id": "parking",       "icon": "parking" },
-      { "id": "food",          "icon": "food" },
-      { "id": "accommodation", "icon": "stay" },
-      { "id": "grocery",       "icon": "grocery" },
-      { "id": "fuel",          "icon": "fuel" }
+      {
+        "id": "wc",
+        "icon": "wc"
+      },
+      {
+        "id": "parking",
+        "icon": "parking"
+      },
+      {
+        "id": "food",
+        "icon": "food"
+      },
+      {
+        "id": "accommodation",
+        "icon": "stay"
+      },
+      {
+        "id": "grocery",
+        "icon": "grocery"
+      },
+      {
+        "id": "fuel",
+        "icon": "fuel"
+      }
     ],
     "wc": {
       "name": "卫生间、淋浴与无障碍设施",
@@ -141,40 +215,47 @@
     }
   },
   "basicInfo": {
-    "title": "基础信息",
-    "officialName": "正式名称",
-    "officialNameValue": "Lowdermilk Park（劳德米尔克公园）",
+    "title": "基本信息",
+    "officialName": "官方名称",
+    "officialNameValue": "Lowdermilk Park",
     "type": "景点类型",
-    "typeValue": "海滨公园 · 那不勒斯必游 · 佛罗里达州景点",
+    "typeValue": "海滨公园, 那不勒斯必访, 佛罗里达景点",
     "country": "国家",
-    "countryValue": "美国（United States）",
+    "countryValue": "United States（美国）",
     "city": "城市",
-    "cityValue": "Naples（那不勒斯），Florida（佛罗里达州）",
+    "cityValue": "Naples, Florida（佛罗里达州那不勒斯）",
     "googleRating": "Google 评分",
     "phone": "电话",
     "phoneValue": "+1 239-213-7120",
     "address": "地址",
-    "addressValue": "1301 Gulf Shore Blvd N, Naples, FL 34102"
+    "addressValue": "1301 Gulf Shore Blvd N, Naples, FL 34102",
+    "alsoKnownAs": "常用别名",
+    "alsoKnownAsValue": "Lowdermilk Beach 海滩",
+    "googleRatingValue": "4.7 / 5 · Google 地图 6,304 条评价"
   },
   "hours": {
-    "title": "开放时间",
-    "park": "公园通行",
-    "parkTime": "每日 上午 8:00 – 晚上 11:00",
-    "bestTime": "分季最佳时段",
+    "title": "公园开放时间",
+    "park": "公布时间",
+    "parkTime": "每日 05:00 – 23:00",
+    "bestTime": "各季节最佳时段",
     "bestTimeSpring": "早晨（07:00–09:00）：朝阳初升，大西洋迁徙线（Atlantic Flyway）北迁候鸟过境，空气清凉。\n\n傍晚（17:00–19:30）：黄金时段光线；紫外线指数回落；夕照宁静柔和。",
     "bestTimeSummer": "日出窗口（06:30–08:00）或冷锋后降温时段；14:30–16:30 常见午后雷暴单体。避开 12:30–15:30 的高温峰值。",
     "bestTimeAutumn": "全天温度舒适；9 月下旬偶发 Karenia brevis 赤潮（Sept–Oct）预警；10 月下旬夜间（17–22 时）为海龟出巢高峰。",
     "bestTimeWinter": "09:00 至 16:00 全日舒适；北美越冬候鸟过境；水温 20–25°C；紫外线偏弱；全年最佳。",
-    "tip": "最新开放时段与季节性公告请以那不勒斯市 Parks & Recreation（公园与娱乐部）官方网站为准；以天气与 2024–2028 总体规划公告为依据。"
+    "tip": "最新时间与季节性关闭请查阅那不勒斯市公园与娱乐部官网，或在办公时间致电 +1 239-213-7120。",
+    "altListing": "部分市政滨海文件则标注为「从天亮到天黑（dawn to dusk）」。",
+    "verified": "开放时间最后核对于 2026 年 10 月（依据那不勒斯市公园与娱乐部资料）。时间可能因季节、活动或风暴调整，出行前请向市政府确认。"
   },
   "tickets": {
-    "title": "入园与停车费用",
-    "park": "公园入园",
-    "parkPrice": "完全免费公共空间；通用访问无需付费。",
-    "parking": "停车费用",
-    "parkingPrice": "持有效科利尔县居民证的那不勒斯市居民免费；非居民按时段电子计费，支持支付亭 + 手机 App QR 车牌识别 + 信用卡读卡器；现金不接受。",
+    "title": "门票与停车",
+    "park": "入园门票",
+    "parkPrice": "完全免费的公共空间——沙滩、草坪、游乐场与野餐区都不收门票。",
+    "parking": "停车",
+    "parkingPrice": "园内停车场向非居民按时段计时收费，可在太阳能电子咪表或自助缴费机付款（请按屏幕指示输入车牌）。持有有效 Collier County 居民停车许可的那不勒斯市居民免费停车。费率由市政府制定，可能调整。",
     "guided": "导览服务",
-    "guidedPrice": "市政未提供结构化讲解导览。2018 年设立的 Historic Coastal Heritage Trail（海岸历史遗产径）在 1 号与 2 号信息亭配 8 块 QR 码自助讲解牌，完全免费。"
+    "guidedPrice": "市政府不提供固定班次的正式导览；公园内的 Historic Coastal Heritage Trail 自助解说牌可免费参观。",
+    "parkingLinkLabel": "查看完整停车攻略 →",
+    "hoursLinkLabel": "查看完整开放时间 →"
   },
   "transport": {
     "title": "如何抵达",
@@ -210,9 +291,15 @@
     "title": "按人群定制的游览方案",
     "subtitle": "三条针对性路线：亲子家庭 / 摄影自然 / 低体力无障碍。按出行构成与节奏选择。",
     "audiences": [
-      { "id": "family" },
-      { "id": "photography" },
-      { "id": "accessible" }
+      {
+        "id": "family"
+      },
+      {
+        "id": "photography"
+      },
+      {
+        "id": "accessible"
+      }
     ],
     "family": {
       "name": "亲子与家庭",
@@ -265,26 +352,84 @@
     "title": "最佳拍摄点位",
     "subtitle": "Lowdermilk Park 园内或紧邻的 10 个精选摄影视角；均附带推荐时段与近似坐标。",
     "spots": [
-      { "name": "墨西哥湾日落海景观",  "desc": "湿沙拍岸线上广角日落；前景用 Uniola paniculata（Sea Oats 滨草）剪影；建议 2 档 GND 控制动态范围。",  "time": "黄金时段日落窗口；官方日落前 20 分钟–后 25 分钟",   "location": "南 4 号海滨天桥（北纬 26.16138°）"  },
-      { "name": "橡树林野餐区",    "desc": "活橡树冠悬挂西班牙苔藓（Spanish moss）；野餐家庭抓拍；斑驳背光人像；正午阴凉无硬光。",  "time": "漫射光（阴天）或日出后 / 日落前 2 小时柔焦人像",  "location": "游乐场西南方中央团体积凉亭集群"   },
-      { "name": "Naples Pier 远摄长镜", "desc": "自海滩南望 Naples Pier（那不勒斯码头）70–200mm 长焦；前景波浪动势；平静海面 2 英尺浪高最佳。",     "time": "日出或日落黄金时段，码头桩柱暖反射光", "location": "Lowdermilk 南岸线，停车场南 0.2 英里" },
-      { "name": "游乐场黄金时段",    "desc": "儿童游乐 + 蓝天海湾远景背景的家庭欢乐抓拍；广角环境人像。", "time": "早晨 09:00–10:30；避开正午顶光",    "location": "南侧游乐场区"   },
-      { "name": "沙滩排球动态", "desc": "70–200mm 运动抓拍；逆光运动员轮廓；低机位背景运动定格。", "time": "17:00–18:30 轮廓光", "location": "1 号球场（南侧）" },
-      { "name": "Sea Oats 滨草剪影", "desc": "Uniola paniculata 近摄微距 + 日落焦外散景；浅景深约 f/2.8。",     "time": "日落前 20 分钟逆光",  "location": "主沙丘北 1 号天桥" },
-      { "name": "海滨步道棕榈小径", "desc": "椰树列植 Coastal Trail（海滨步道）透视构图；消失点 + 骑行者或行人慢门。", "time": "08:00–09:00 棕榈林侧光",  "location": "入口以北 300 英尺 Coastal Trail 人行道"  },
-      { "name": "凉亭木纹理", "desc": "风化木板材特写；木纹细节；大光圈海湾焦外虚化。",  "time": "漫射阴天或阴凉处随时可用",   "location": "中央 2 号团体亭。" },
-      { "name": "户外淋浴阳光水珠",  "desc": "海滨淋浴后场景；背光水珠晶莹；夕照细雾透光。",    "time": "16:00–17:30 下午低角侧光",  "location": "南 3 号天桥淋浴站"  },
-      { "name": "迁徙鸣禽林缘观鸟",   "desc": "活栎冠层 300–600mm 远摄；春秋季栖息过境鸣禽。",      "time": "春季 3 月 20 日 – 4 月 30 日；黎明 – 上午 10 时",    "location": "草坪东北缘活橡树林带"   }
+      {
+        "name": "墨西哥湾日落海景观",
+        "desc": "湿沙拍岸线上广角日落；前景用 Uniola paniculata（Sea Oats 滨草）剪影；建议 2 档 GND 控制动态范围。",
+        "time": "黄金时段日落窗口；官方日落前 20 分钟–后 25 分钟",
+        "location": "南 4 号海滨天桥（北纬 26.16138°）"
+      },
+      {
+        "name": "橡树林野餐区",
+        "desc": "活橡树冠悬挂西班牙苔藓（Spanish moss）；野餐家庭抓拍；斑驳背光人像；正午阴凉无硬光。",
+        "time": "漫射光（阴天）或日出后 / 日落前 2 小时柔焦人像",
+        "location": "游乐场西南方中央团体积凉亭集群"
+      },
+      {
+        "name": "Naples Pier 远摄长镜",
+        "desc": "自海滩南望 Naples Pier（那不勒斯码头）70–200mm 长焦；前景波浪动势；平静海面 2 英尺浪高最佳。",
+        "time": "日出或日落黄金时段，码头桩柱暖反射光",
+        "location": "Lowdermilk 南岸线，停车场南 0.2 英里"
+      },
+      {
+        "name": "游乐场黄金时段",
+        "desc": "儿童游乐 + 蓝天海湾远景背景的家庭欢乐抓拍；广角环境人像。",
+        "time": "早晨 09:00–10:30；避开正午顶光",
+        "location": "南侧游乐场区"
+      },
+      {
+        "name": "沙滩排球动态",
+        "desc": "70–200mm 运动抓拍；逆光运动员轮廓；低机位背景运动定格。",
+        "time": "17:00–18:30 轮廓光",
+        "location": "1 号球场（南侧）"
+      },
+      {
+        "name": "Sea Oats 滨草剪影",
+        "desc": "Uniola paniculata 近摄微距 + 日落焦外散景；浅景深约 f/2.8。",
+        "time": "日落前 20 分钟逆光",
+        "location": "主沙丘北 1 号天桥"
+      },
+      {
+        "name": "海滨步道棕榈小径",
+        "desc": "椰树列植 Coastal Trail（海滨步道）透视构图；消失点 + 骑行者或行人慢门。",
+        "time": "08:00–09:00 棕榈林侧光",
+        "location": "入口以北 300 英尺 Coastal Trail 人行道"
+      },
+      {
+        "name": "凉亭木纹理",
+        "desc": "风化木板材特写；木纹细节；大光圈海湾焦外虚化。",
+        "time": "漫射阴天或阴凉处随时可用",
+        "location": "中央 2 号团体亭。"
+      },
+      {
+        "name": "户外淋浴阳光水珠",
+        "desc": "海滨淋浴后场景；背光水珠晶莹；夕照细雾透光。",
+        "time": "16:00–17:30 下午低角侧光",
+        "location": "南 3 号天桥淋浴站"
+      },
+      {
+        "name": "迁徙鸣禽林缘观鸟",
+        "desc": "活栎冠层 300–600mm 远摄；春秋季栖息过境鸣禽。",
+        "time": "春季 3 月 20 日 – 4 月 30 日；黎明 – 上午 10 时",
+        "location": "草坪东北缘活橡树林带"
+      }
     ]
   },
   "ecoSection": {
     "title": "海岸生态科普与访客责任",
     "subtitle": "那不勒斯海岸四大生态主题 — 访问前请先知。资料来源：FWC（佛罗里达鱼类与野生动物委员会）、FL DEP（佛罗里达环保部）、科利尔县官方公开数据。",
     "topics": [
-      { "id": "turtles" },
-      { "id": "redtide" },
-      { "id": "mammals" },
-      { "id": "dunes" }
+      {
+        "id": "turtles"
+      },
+      {
+        "id": "redtide"
+      },
+      {
+        "id": "mammals"
+      },
+      {
+        "id": "dunes"
+      }
     ],
     "turtles": {
       "tag": "爬行纲 · 海龟科",
@@ -310,14 +455,28 @@
   "lntSection": {
     "title": "无痕山林（LNT）海岸七原则与社区旅游伦理",
     "subtitle": "7 条依 LNT 中心标准改编的海岸版原则；社区旅游（CBT, Community-Based Tourism）倡导内容。",
-    "principles":[
-      {"id": "p1"},
-      {"id": "p2"},
-      {"id": "p3"},
-      {"id": "p4"},
-      {"id": "p5"},
-      {"id": "p6"},
-      {"id": "p7"}
+    "principles": [
+      {
+        "id": "p1"
+      },
+      {
+        "id": "p2"
+      },
+      {
+        "id": "p3"
+      },
+      {
+        "id": "p4"
+      },
+      {
+        "id": "p5"
+      },
+      {
+        "id": "p6"
+      },
+      {
+        "id": "p7"
+      }
     ],
     "cbt": {
       "title": "关于社区型旅游（CBT）的倡导",
@@ -369,10 +528,22 @@
       "notes": "访客注意事项"
     },
     "seasons": [
-      { "id": "spring", "key": "spring" },
-      { "id": "summer", "key": "summer" },
-      { "id": "autumn", "key": "autumn" },
-      { "id": "winter", "key": "winter" }
+      {
+        "id": "spring",
+        "key": "spring"
+      },
+      {
+        "id": "summer",
+        "key": "summer"
+      },
+      {
+        "id": "autumn",
+        "key": "autumn"
+      },
+      {
+        "id": "winter",
+        "key": "winter"
+      }
     ],
     "spring": {
       "name": "春季 · 3 月 1 日 – 5 月 31 日",
@@ -474,7 +645,15 @@
       "swimActivity": "海水约 {temp}，水温适宜且风浪不大，适合下海游泳玩水",
       "swimGear": "泳衣、浴巾、防水手机袋"
     },
-    "weekdays": ["周日", "周一", "周二", "周三", "周四", "周五", "周六"],
+    "weekdays": [
+      "周日",
+      "周一",
+      "周二",
+      "周三",
+      "周四",
+      "周五",
+      "周六"
+    ],
     "codes": {
       "0": "晴",
       "1": "晴间多云",
@@ -511,9 +690,15 @@
     "title": "地方传说、口述传统与卡卢萨（Calusa）原住民文化",
     "subtitle": "社区口述传统与区域遗产 — 传说类材料已明确注明为 Folklore（民俗）；接触前原住民史料不替代有一手文献佐证的正史。",
     "entries": [
-      { "id": "calusa" },
-      { "id": "lifeguard" },
-      { "id": "shellindian" }
+      {
+        "id": "calusa"
+      },
+      {
+        "id": "lifeguard"
+      },
+      {
+        "id": "shellindian"
+      }
     ],
     "calusa": {
       "tag": "文化 · 前接触考古",
@@ -615,7 +800,8 @@
         "rating": 5,
         "text": "在那不勒斯所有海滩公园中，Lowdermilk 绝对位列前三（top 3）级别；日出黄金时段光质纯净，清晨的 Coastal Trail（海滨步道）骑行/步行异常安静。北天桥的 Sea Oats 茎秆 + 海湾轮廓剪影一张成片。"
       }
-    ]
+    ],
+    "ratingSummary": "Google 地图评分 4.7★ — 6,304 条评价（更新于 2026 年 10 月）"
   },
   "mapSection": {
     "title": "地图与位置",
@@ -623,48 +809,60 @@
     "openMaps": "在 Google Maps 打开"
   },
   "faq": {
-    "title": "常见问题解答",
-    "subtitle": "关于 Lowdermilk Park（劳德米尔克公园 / Lowdermilk Beach 劳德米尔克海滩）的 10 个高频问题，答案均来自那不勒斯市、FWC（佛罗里达鱼类与野生动物委员会）与科利尔县官方法令。",
+    "title": "Lowdermilk Park / Lowdermilk Beach 常见问题",
+    "subtitle": "访客最常搜索的问题：今天是否开放、是否免费、在哪里停车、园内有哪些设施，以及如何从那不勒斯市中心前往。",
     "items": [
       {
-        "question": "Lowdermilk Park 位于哪里？",
-        "answer": "Lowdermilk Park（劳德米尔克公园）位于美国（United States）佛罗里达州（Florida）那不勒斯市（Naples），完整地址：1301 Gulf Shore Blvd N, Naples, FL 34102。地理层级：Lowdermilk Park（劳德米尔克公园）→ Naples（那不勒斯）→ Florida（佛罗里达州）→ United States（美国）。"
+        "question": "Lowdermilk Beach 今天开放吗？",
+        "answer": "Lowdermilk Beach（即 Lowdermilk Park 园内临墨西哥湾的沙滩）在公布的公园开放时间内每天开放。那不勒斯市公园与娱乐部目前列出每日 05:00–23:00，部分市政滨海资料则标注「dawn to dusk（天亮到天黑）」。仅在命名热带风暴或飓风、赤潮等水质事件或市政施工时才会临时关闭。出行当天请查阅市政府官方页面或致电 +1 239-213-7120 确认。资料最后核对于 2026 年 10 月。"
+      },
+      {
+        "question": "Lowdermilk Park 和 Lowdermilk Beach 是同一个地方吗？",
+        "answer": "是，两者是同一目的地的两个名称。Lowdermilk Park 是那不勒斯市对 Gulf Shore Blvd N 1301 号这座海滨公园的官方名称，而游客、地图与点评网站习惯称之为 Lowdermilk Beach 海滩。园区包含临湾沙滩、草坪、两处游乐场、沙滩排球场、野餐亭、洗手间、淋浴间与停车场。"
       },
       {
         "question": "Lowdermilk Beach 是否免费？",
-        "answer": "是，Lowdermilk Park 是全年免费公共空间。公园、海滩、草坪、游乐场、野餐区、栈道全部免费；收费部分为非居民按小时停车与团体凉亭的预约许可证（若预约）。"
+        "answer": "是。Lowdermilk Park 全年免费开放：沙滩、草坪、游乐场、野餐区与栈道都不收取门票。需要付费的只有非居民的计时停车，以及团体凉亭的预约许可。"
       },
       {
         "question": "Lowdermilk Park 的开放时间是什么？",
-        "answer": "Lowdermilk Park 每日开放 08:00–23:00。命名热带风暴 / 飓风登陆时，城市应急中心（EOC）会临时关闭；请以那不勒斯公园与娱乐部官网为准。FWC 赤潮临时关闭以水质监测为依据。"
+        "answer": "依那不勒斯市公园与娱乐部资料为每日 05:00–23:00；另一份市政滨海文件标注为「dawn to dusk」。停车场设有闸杆管制，跟随相同时间。资料最后核对于 2026 年 10 月，时间可能因季节或活动调整，出发前请向市政府确认。"
       },
       {
-        "question": "可以带狗去 Lowdermilk Beach 沙滩吗？",
-        "answer": "那不勒斯市法典 Sec. 10.04.030：5 月 1 日至 10 月 31 日全面禁止犬只进入实际沙质岸线；全年牵绳（6 英尺）可在铺装草坪、人行道、野餐区、停车场、栈道通行；必须清理宠物粪便。不牵绳首次罚款 250 美元。替代方案：北那不勒斯 Clam Pass Park 沙滩在科利尔县条例下允许牵绳犬只。"
+        "question": "Lowdermilk Beach 停车怎么收费？",
+        "answer": "非居民按车位以小时计费，可在太阳能咪表或园内自助缴费机付款（请按屏幕指示输入车牌号码）。持有有效 Collier County 居民停车许可的那不勒斯市居民免费停车。费率由市政府制定并可能调整，抵达时请以现场费率告示为准。"
       },
       {
-        "question": "可以在园内饮酒吗？",
-        "answer": "科利尔县公共海滩饮酒条例历次微调。当前执行：低度啤酒 / 葡萄酒可在非玻璃容器内于草坪区饮用；烈酒与玻璃容器禁止；公共场所醉酒依那不勒斯法典 Sec. 10.08 处理。请访问市法典 Ch.10 获取最新条款。科利尔县酒类管理（ABC）办公室官网更新法规。"
+        "question": "去 Lowdermilk Park 应该把车停在哪里？",
+        "answer": "请从 Gulf Shore Blvd N 上唯一一个设有指示牌的园区入口进入，地址为 1301 Gulf Shore Blvd N, Naples, FL 34102（Plus Code 556R+R2）。园内沥青停车场约 225 个车位，含 14 个无障碍面包车车位，步行几分钟即可到达通往沙滩的栈道、洗手间、淋浴间与游乐场。旺季周末、春假与节假日容易满位并可能临时管制入口，详见我们的停车专页。"
       },
       {
-        "question": "是否有值班救生员？",
-        "answer": "Lowdermilk Park 目前未配永久岗亭式救生员塔；高峰时段由签约救生辅助巡逻队移动巡护；救生圈配备齐全。紧急情况拨 911；科利尔县 EMS 海难救援机动组响应。始终注意旗帜：双红旗 = 严禁下水。"
+        "question": "Lowdermilk Beach 有洗手间吗？",
+        "answer": "有。园区设有两处无障碍洗手间——一处靠近北侧沙滩区，一处靠近主草坪——内有无障碍厕位、家庭／照护者厕间与成人换尿布台，旁边还有符合 ADA 高度的饮水机、瓶装水注水口与宠物饮水层。"
       },
       {
-        "question": "可以搭帐篷、沙滩遮阳棚或小屋吗？",
-        "answer": "7 英尺以下遮阳伞与 100 平方英尺内小型弹出式遮阳棚白天全年允许；注意不遮挡其他游客观景视线。大型充气、帐篷、100 平方英尺以上小屋或 30+ 平方码结构依 Sec. 10.10 禁止。当日全部带走。"
+        "question": "Lowdermilk Beach 有淋浴间吗？",
+        "answer": "有。通往沙滩的栈道旁设有户外淡水冲洗设施，四条栈道合计约 18 个冲洗头，包含低位洗脚水龙头与全身冲洗莲蓬头，方便在上车前冲掉沙粒与盐分。"
       },
       {
-        "question": "飓风季（6 月 1 日至 11 月 30 日）公园安全吗？",
-        "answer": "请核查 NOAA 国家飓风中心（NHC）5 天概率锥；科利尔县疏散分区：本公园位于 A 区（风暴潮区）。登陆期间发布强制疏散令时，科利尔应急中心 EOC 将关闭公园。低风暴活动日请同步查 NOAA 裂流预报日报与 FWC 赤潮状态。"
+        "question": "Lowdermilk Park 有游乐场吗？",
+        "answer": "有——两处按年龄分区的游乐场位于离沙滩稍远、有橡树遮荫的草坪上，紧邻野餐凉亭、洗手间与停车场。请自备饮水并避开正午烈日，5 月至 9 月的午间尤其炎热。"
       },
       {
-        "question": "园内有沙滩椅与遮阳伞出租服务吗？",
-        "answer": "Lowdermilk Park 园内不经营任何租赁服务，亦不向特许供应商发放园内许可；独立商业沙滩椅租赁不得在园内兜售或运营。可自带；折叠椅、遮阳棚合规；布置请勿阻挡无障碍通道。"
+        "question": "可以在 Lowdermilk Beach 看日落吗？",
+        "answer": "Lowdermilk 正对西面的墨西哥湾，所以主打的是日落而非日出：湿润沙线、海燕麦沙丘与南侧栈道都能看到毫无遮挡的西向海平面。日落时间从仲冬约 17:30 到盛夏约 20:00–20:20 不等，页面上的天气模块会显示当天确切时间。"
       },
       {
-        "question": "计划访问期间若赤潮预警生效怎么办？",
-        "answer": "请查询 FWRI FWC 赤潮状态地图与 DOH-Collier Healthy Beaches 水质地图。若 K. brevis > 10 万细胞 / 升：哮喘或慢性呼吸疾病访客建议避免直接靠近海滩；切勿自行捕捞野生海贝烹饪；仅从授权渠道采购。官方地图每日更新，情况可能快速变化。"
+        "question": "如何从那不勒斯市中心前往 Lowdermilk Beach？",
+        "answer": "从 5th Avenue South / Third Street South 一带出发约 1.6–1.8 英里：车程约 10 分钟，沿铺装好的滨海步道骑行也很轻松，步行约 30 分钟。路线是先向北再沿 Central Avenue 向西，接 Gulf Shore Boulevard North 靠海一侧行驶，标示入口位于 Gulf Shore Blvd N 1301 号。"
+      },
+      {
+        "question": "可以带狗去 Lowdermilk Beach 吗？",
+        "answer": "那不勒斯市法典 Sec. 10.04.030：5 月 1 日至 10 月 31 日禁止犬只进入实际沙滩，全年在草坪、人行道、野餐区、停车场与栈道须以 6 英尺牵绳同行，并随时清理宠物粪便；未牵绳将面临罚款。想带狗上沙滩的替代选择是 Collier County 允许牵绳犬只的 Clam Pass Park。"
+      },
+      {
+        "question": "Lowdermilk Park 位于哪里？",
+        "answer": "Lowdermilk Park 位于美国佛罗里达州那不勒斯市，地址 1301 Gulf Shore Blvd N, Naples, FL 34102（Plus Code 556R+R2，坐标约 26.1621, -81.8100）。它坐落在 Gulf Shore Boulevard North 靠墨西哥湾的一侧，距市中心约 1.6 英里，位于 Port Royal 海滨段以北。"
       }
     ]
   },
@@ -672,11 +870,21 @@
     "title": "一手权威来源与延伸阅读",
     "subtitle": "学术与政府一手资料；全部链接为 .gov / .edu / .mil 域名，无第三方商业站点。",
     "sources": [
-      { "id": "s1" },
-      { "id": "s2" },
-      { "id": "s3" },
-      { "id": "s4" },
-      { "id": "s5" }
+      {
+        "id": "s1"
+      },
+      {
+        "id": "s2"
+      },
+      {
+        "id": "s3"
+      },
+      {
+        "id": "s4"
+      },
+      {
+        "id": "s5"
+      }
     ],
     "s1": {
       "citation": "那不勒斯市市政档案处（1958）。Lowdermilk Park 土地契据转让文书与后续条件条款；科利尔县官方法务档案册 1958，第 451 页。",
@@ -735,7 +943,13 @@
     "terms": "服务条款",
     "cookies": "Cookie 偏好设置",
     "rights": "© 2026 Lowdermilk Park 访客指南 · lowdermilkbeach.com · 版权所有",
-    "disclaimer": "免责声明：本网站为独立的非官方访客指南，与那不勒斯市政府、科利尔县政府或佛罗里达州政府均无隶属关系。站内信息基于公开资料整理，仅供出行参考；开放时间、费用、法规与设施状态可能随时变化，出行前请以官方渠道实时信息为准。"
+    "disclaimer": "免责声明：本网站为独立的非官方访客指南，与那不勒斯市政府、科利尔县政府或佛罗里达州政府均无隶属关系。站内信息基于公开资料整理，仅供出行参考；开放时间、费用、法规与设施状态可能随时变化，出行前请以官方渠道实时信息为准。",
+    "explore": "行程规划",
+    "links": {
+      "parking": "停车攻略",
+      "hours": "开放时间与状态",
+      "home": "访客指南"
+    }
   },
   "privacy": {
     "title": "隐私政策",
@@ -831,5 +1045,342 @@
     "toursTitle": "",
     "attractions": [],
     "tours": []
+  },
+  "openToday": {
+    "title": "Lowdermilk Beach 今天开放吗？",
+    "intro": "Lowdermilk Park（游客更常称 Lowdermilk Beach）是那不勒斯市位于 Gulf Shore Blvd N 1301 号的公共海滨公园，全年每天开放；只有在命名风暴、赤潮等水质事件或市政施工时才会关闭。",
+    "todayLabel": "佛罗里达那不勒斯当地时间",
+    "openLabel": "现在开放中",
+    "closedLabel": "现在已关闭",
+    "checkingLabel": "正在查询当前状态…",
+    "hoursLabel": "公布开放时间",
+    "hoursValue": "每日 05:00 – 23:00",
+    "opensAt": "今天 05:00 开放",
+    "closesAt": "今天 23:00 关闭",
+    "altLabel": "市政府部分资料也标注为「dawn to dusk（天亮到天黑）」",
+    "verified": "时间最后核对于 2026 年 10 月，可能调整。出行前请向那不勒斯市政府确认。",
+    "officialLabel": "官方公园页面（那不勒斯市政府）",
+    "weatherLabel": "天气、潮汐与日落",
+    "parkingLabel": "停车与收费",
+    "openNote": "开放时间内，沙滩、草坪、洗手间与游乐场均可使用，栈道旁的冲洗设施也已开放。",
+    "closedNote": "非开放时间停车场关闭、沙滩不可进入，请于 05:00 后再来。",
+    "likely": "Lowdermilk Beach 今天基本上都会开放。"
+  },
+  "visitorDirectory": {
+    "title": "Lowdermilk Park 访客导航",
+    "subtitle": "直接跳到访客最常查询的信息区块。",
+    "items": [
+      {
+        "id": "hours",
+        "label": "开放时间",
+        "href": "#hours"
+      },
+      {
+        "id": "openToday",
+        "label": "今天是否开放",
+        "href": "#open-today"
+      },
+      {
+        "id": "parking",
+        "label": "停车与收费",
+        "href": "#parking"
+      },
+      {
+        "id": "parkingGuide",
+        "label": "停车专页",
+        "href": "/parking"
+      },
+      {
+        "id": "gettingHere",
+        "label": "交通路线",
+        "href": "#getting-here"
+      },
+      {
+        "id": "amenities",
+        "label": "洗手间与淋浴",
+        "href": "#amenities"
+      },
+      {
+        "id": "playground",
+        "label": "游乐场与排球场",
+        "href": "#amenities"
+      },
+      {
+        "id": "accessibility",
+        "label": "无障碍设施",
+        "href": "#amenities"
+      },
+      {
+        "id": "weather",
+        "label": "天气与潮汐",
+        "href": "#beach-weather"
+      },
+      {
+        "id": "photos",
+        "label": "照片",
+        "href": "#gallery"
+      },
+      {
+        "id": "photoSpots",
+        "label": "日落与拍照点",
+        "href": "#photography"
+      },
+      {
+        "id": "reviews",
+        "label": "访客评价",
+        "href": "#reviews"
+      },
+      {
+        "id": "map",
+        "label": "地图与位置",
+        "href": "#map"
+      },
+      {
+        "id": "faq",
+        "label": "常见问题",
+        "href": "#faq"
+      }
+    ],
+    "summaryTitle": "Lowdermilk Beach 海滩与 Lowdermilk Park 公园速览",
+    "summary": [
+      {
+        "label": "官方名称",
+        "value": "Lowdermilk Park"
+      },
+      {
+        "label": "常用别名",
+        "value": "Lowdermilk Beach 海滩"
+      },
+      {
+        "label": "所在地",
+        "value": "美国佛罗里达州那不勒斯市"
+      },
+      {
+        "label": "地址",
+        "value": "1301 Gulf Shore Blvd N, Naples, FL 34102"
+      },
+      {
+        "label": "门票",
+        "value": "免费——不收入园费"
+      },
+      {
+        "label": "停车",
+        "value": "访客停车场计时收费；居民许可免费"
+      },
+      {
+        "label": "洗手间",
+        "value": "有——两处无障碍洗手间"
+      },
+      {
+        "label": "淋浴",
+        "value": "有——栈道旁户外冲洗设施"
+      },
+      {
+        "label": "游乐场",
+        "value": "有——两处按年龄分区的游乐设施"
+      },
+      {
+        "label": "排球场",
+        "value": "有——两座沙排场"
+      },
+      {
+        "label": "野餐区",
+        "value": "有——草坪、野餐桌与可预约凉亭"
+      },
+      {
+        "label": "无障碍",
+        "value": "无障碍车位、洗手间与沙滩栈道"
+      },
+      {
+        "label": "适合对象",
+        "value": "沙滩戏水、墨西哥湾日落、亲子与野餐"
+      },
+      {
+        "label": "管理单位",
+        "value": "那不勒斯市公园与娱乐部 · +1 239-213-7120"
+      }
+    ]
+  },
+  "parkingPage": {
+    "metaTitle": "Lowdermilk Beach 停车攻略｜收费、居民许可与注意事项",
+    "metaDescription": "Lowdermilk Park（Lowdermilk Beach）停车指南：Gulf Shore Blvd N 上的园区入口、非居民计时收费、居民许可免费、无障碍车位、满位时段与替代方案。",
+    "title": "Lowdermilk Beach 与 Lowdermilk Park 停车攻略",
+    "intro": "Lowdermilk Park 只有一个公共停车场，入口直接设在 Gulf Shore Boulevard North 上，约 225 个车位（含无障碍车位）。公园本身免门票；非居民停车计时收费，持有有效居民许可的那不勒斯市居民免费。",
+    "lastUpdated": "停车信息最后核对于 2026 年 10 月。",
+    "factsTitle": "停车速览",
+    "facts": [
+      {
+        "label": "公园地址",
+        "value": "1301 Gulf Shore Blvd N, Naples, FL 34102"
+      },
+      {
+        "label": "Plus Code",
+        "value": "556R+R2 Naples, Florida"
+      },
+      {
+        "label": "入口",
+        "value": "Gulf Shore Blvd N 上设有指示牌的单一入口（靠海一侧）"
+      },
+      {
+        "label": "车位规模",
+        "value": "约 225 个沥青车位，含 14 个无障碍面包车车位"
+      },
+      {
+        "label": "付款方式",
+        "value": "非居民按时计时；持有居民许可者免费"
+      },
+      {
+        "label": "步行到沙滩",
+        "value": "从停车场经短栈道／木阶即可抵达"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "把车停在哪里",
+        "content": "前往 Lowdermilk Beach 的公共停车全部集中在公园自己的停车场，入口为 Gulf Shore Blvd N 1301 号唯一的指示牌入口，位于 Gulf Shore Boulevard North 靠海一侧，距那不勒斯市中心约 1.6 英里，并设有进出闸杆。下车后沿铺装步道与无障碍栈道越过沙丘即可到达沙滩，主要洗手间、淋浴设施与游乐场都在几分钟步行范围内。"
+      },
+      {
+        "heading": "非居民停车与付款方式",
+        "content": "非居民按车位以小时计时付费。付款可在车位旁的太阳能电子咪表或停车场内的自助缴费机完成：输入车牌号码、选择时长并按屏幕指示操作。若打算待上一整天，请留意到期时间。市政府会不定期调整费率与付款渠道，抵达时请以咪表或缴费机上的告示为准。"
+      },
+      {
+        "heading": "居民停车许可",
+        "content": "出示有效 Collier County 居民停车许可的那不勒斯市居民全年免费停车。许可证的资格、办理方式由市政府与 Collier County 管理，本站无法代为核实；即使持许可，现场标示的限制与活动期间的特别管制依然适用。"
+      },
+      {
+        "heading": "无障碍车位",
+        "content": "停车场设有 14 个靠近主要步行路线的无障碍面包车车位。由此经铺设好的无障碍通道可通往洗手间、饮水机与沙滩栈道，栈道铺有橡胶化过渡面，方便轮椅接近湿润沙线。请出示州政府核发的无障碍车牌或标识；除适用许可外，无障碍车位同样按照一般车位计费。"
+      },
+      {
+        "heading": "高峰时段与建议抵达时间",
+        "content": "最拥挤的时段是全年周末、春假（3 月初至 4 月中）、1 至 3 月的冬季旺季，以及公共假日，此时停车场常在上午稍晚前就满位。若在意停车，建议 09:00 前抵达，或改安排下午晚些时候前往——后者光线更柔、海风更凉。淡季的工作日上午几乎都能轻松找到车位。"
+      },
+      {
+        "heading": "节假日、活动与满位时怎么办",
+        "content": "由于闸杆停车场容量有限，市政府有时会在满位后暂时管制或关闭入口，最常见于重大节假日与旺季周末。如果遇到入口管制，请勿在 Gulf Shore Boulevard North 上排队或停车等待；可以当天晚些时候再来，或改用下方替代方案。闭园前离开时，闸杆处也可能短暂排队。"
+      },
+      {
+        "heading": "替代停车与步行距离",
+        "content": "园区停车场满位时，可考虑：Gulf Shore Boulevard North 上设有标示的路边车位（每个路段的限制不同，务必逐段阅读告示）、Third Street South / 5th Avenue South 一带的市中心公共停车场（步行约 30 分钟或短程网约车），或改往其他市属海滨入口，例如那不勒斯码头一带或北面的 Clam Pass Park。骑自行车者可沿滨海铺装步道抵达园内自行车架。"
+      },
+      {
+        "heading": "出发前再次确认",
+        "content": "费率、许可规则与满位管制措施都会变动。节假日出行前，请向那不勒斯市公园与娱乐部（+1 239-213-7120）或本站资料来源中列出的官方 Lowdermilk Park 页面核实最新细节。"
+      }
+    ],
+    "faqTitle": "停车常见问题",
+    "faq": [
+      {
+        "question": "Lowdermilk Beach 有免费停车吗？",
+        "answer": "Lowdermilk Park 免门票，出示有效 Collier County 居民停车许可的那不勒斯市居民也可免费停车。其余访客在园区停车场按市政府设定的小时费率计时付费。"
+      },
+      {
+        "question": "Lowdermilk Park 停车多少钱？",
+        "answer": "非居民按车位小时计费，费率由那不勒斯市政府制定并不定期调整。本站不刊登可能过时的金额，抵达时请以现场费率告示或咪表屏幕为准，或致电那不勒斯市公园与娱乐部（+1 239-213-7120）询问当前公布费率。"
+      },
+      {
+        "question": "Lowdermilk Park 停车场满位时会怎样？",
+        "answer": "重大节假日与旺季周末，闸杆停车场达到容量后，管理人员可能暂时管制入口直到有车离开。请不要在 Gulf Shore Boulevard North 上等待；可改停附近设有标示的路边车位、那不勒斯市中心公共停车场，或前往其他市属海滨入口，稍晚再回来。"
+      },
+      {
+        "question": "Lowdermilk Park 可以过夜停车吗？",
+        "answer": "停车场按公布开放时间运营，而非全天可用。请在公布的关闭时间前驶离；非开放时间停放车辆将按市政规定处理。若确实需要过夜停放，请先向市政府或住宿处确认。"
+      },
+      {
+        "question": "有房车、拖车或大型车停车位吗？",
+        "answer": "市政府公布的车位以一般车位与无障碍车位为主，没有专门的大型车区域。房车、拖车与大型车辆可能不符停放条件；驾驶标准车以外的车辆前来请先联系那不勒斯市公园与娱乐部。"
+      }
+    ],
+    "backLabel": "返回 Lowdermilk Park 访客指南",
+    "ctaLabel": "查看完整开放时间说明"
+  },
+  "hoursPage": {
+    "metaTitle": "Lowdermilk Beach 开放时间｜Lowdermilk Park 今天开放吗？",
+    "metaDescription": "佛罗里达那不勒斯 Lowdermilk Park（Lowdermilk Beach）的最新开放时间：每日开闭园时间、市政府资料为何有不同的时间标注、节假日与风暴关闭、园区设施使用时段，以及出发前如何确认。",
+    "title": "Lowdermilk Park 开放时间与当日状态",
+    "intro": "Lowdermilk Park（多称为 Lowdermilk Beach 海滩）是那不勒斯市位于 Gulf Shore Blvd N 1301 号的公共海滨公园，全年每天早开晚闭；只有在命名风暴、水质事件或市政施工时才会临时关闭。",
+    "lastUpdated": "时间最后核对于 2026 年 10 月。",
+    "factsTitle": "时间速览",
+    "facts": [
+      {
+        "label": "公布开放时间",
+        "value": "每日 05:00 – 23:00"
+      },
+      {
+        "label": "市政府其他标注",
+        "value": "Dawn to dusk（天亮到天黑）"
+      },
+      {
+        "label": "门票",
+        "value": "全天免费"
+      },
+      {
+        "label": "停车场",
+        "value": "设闸杆管制，跟随公园开放时间"
+      },
+      {
+        "label": "旺季人潮",
+        "value": "3–4 月的上午中段至下午中段"
+      },
+      {
+        "label": "确认方式",
+        "value": "那不勒斯市公园与娱乐部 · +1 239-213-7120"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Lowdermilk Beach 今天开放吗？",
+        "content": "除非市政府另行公告，否则是开放的。Lowdermilk Park 属于每天运营的市立公园：沙滩、草坪、游乐场、洗手间与停车场均依下方公布的开放时间每周七天运作，包含周末与多数假日。想查看当天日期与那不勒斯当地时间的即时状态，请使用本站首页的状态模块。"
+      },
+      {
+        "heading": "每日公布的开放时间",
+        "content": "那不勒斯市公园与娱乐部资料列出 Lowdermilk Park 每日 05:00–23:00；部分市政滨海文件则描述为「dawn to dusk（天亮到天黑）」。由于两份资料不一致，建议把上述时间视为参考，并在出发前针对具体日期向市政府确认——尤其计划清晨或日落后前往时。"
+      },
+      {
+        "heading": "如何确认当天状态",
+        "content": "两个快速可靠的确认方式：查阅那不勒斯市政府官网的 Lowdermilk Park 官方页面，以及在办公时间致电那不勒斯市公园与娱乐部 +1 239-213-7120。抵达现场时，停车场入口闸杆就是最直接的讯号：若闸杆放下并设有告示，代表正在实施进出管制。"
+      },
+      {
+        "heading": "一天中的最佳时段",
+        "content": "清晨（09:00 前）气温较凉、车位好找、海面平静，也最适合观察野生动物。10:00–15:00 是沙滩最拥挤、紫外线最强的时段。日落前约 90 分钟是光线、温度与墨西哥湾日落的黄金组合，通常也是停车压力最小的时候。"
+      },
+      {
+        "heading": "季节注意事项",
+        "content": "冬季（12 月至次年 3 月）条件最舒适，但天黑得早，日落约在 17:30。春季（3–5 月）访客最多、车位最满。夏季午后炎热，约 15:00 后常出现雷暴云系，同时 5 月至 10 月是海龟产卵季。秋季清静，但 9–10 月是 Collier County 最容易发布赤潮警戒的时期。"
+      },
+      {
+        "heading": "风暴、节假日与水质关闭",
+        "content": "遇到命名热带风暴或飓风时，市政府可能依紧急应变机制关闭园区；此地位于 Collier County 风暴潮疏散区，一旦发布强制疏散令即代表公园关闭。赤潮等水质警戒也会改变使用沙滩的方式。风暴季请查阅 NOAA 国家飓风中心预报与佛州 FWC 赤潮状态地图，并随时留意沙滩上插设的旗帜。"
+      },
+      {
+        "heading": "园区设施的使用时段",
+        "content": "洗手间、冲洗设施与饮水机以供白天使用为主，中午时段开放最有保障。游乐场与排球场实务上属于日间设施。团体野餐凉亭需向市政府申请许可才能使用，若要办聚会请提前预约。"
+      }
+    ],
+    "faqTitle": "开放时间常见问题",
+    "faq": [
+      {
+        "question": "Lowdermilk Beach 几点开门？",
+        "answer": "那不勒斯市公园与娱乐部资料为每日 05:00；部分市政滨海资料则写作 dawn to dusk（天亮到天黑）。两者都表示清晨即开放，但若计划日出前抵达，请先向市政府确认。"
+      },
+      {
+        "question": "Lowdermilk Beach 几点关闭？",
+        "answer": "较常公布的关闭时间为每日 23:00，另一份市政文件写作 dusk（天黑）。实务上建议以日光为活动时间范围、以日落作为海滩行程的收尾——确切日落时间随季节变化，可在本站天气模块查看当天数据。"
+      },
+      {
+        "question": "Lowdermilk Beach 是 24 小时开放吗？",
+        "answer": "不是。Lowdermilk Park 是有公布开放时间的市立公园，设有闸杆的停车场也依同一时间运作，夜间进入与过夜停车都不属于对外提供的服务。"
+      },
+      {
+        "question": "Lowdermilk Park 节假日开放吗？",
+        "answer": "原则上开放，但节假日正是停车场最容易满位、管理单位暂时管制入口的时候。请提早抵达、尽量共乘，并准备好替代方案，例如设有标示的路边车位或邻近的市属海滨入口。"
+      },
+      {
+        "question": "赤潮期间 Lowdermilk Beach 会关闭吗？",
+        "answer": "水质警戒不一定代表公园关闭，但会改变能否安全下水。下水前请查阅佛州 FWC 赤潮状态地图与 Collier County 卫生厅的 Healthy Beaches 计划；患有气喘或呼吸道疾病的访客在藻细胞浓度偏高时应避免靠近岸线。"
+      }
+    ],
+    "backLabel": "返回 Lowdermilk Park 访客指南",
+    "ctaLabel": "查看完整停车攻略"
   }
 }

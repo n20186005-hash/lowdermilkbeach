@@ -7,7 +7,7 @@ export default function HoursSection() {
   const t = useTranslations('hours');
 
   return (
-    <section className="section-padding">
+    <section id="hours" className="section-padding">
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -32,7 +32,11 @@ export default function HoursSection() {
             <line x1="12" y1="16" x2="12" y2="12"/>
             <line x1="12" y1="8" x2="12.01" y2="8"/>
           </svg>
-          <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('tip')}</p>
+          <div className="space-y-1.5">
+            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('tip')}</p>
+            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('altListing')}</p>
+            <p className="text-sm font-medium" style={{ color: 'var(--text-primary)' }}>{t('verified')}</p>
+          </div>
         </div>
       </div>
     </section>

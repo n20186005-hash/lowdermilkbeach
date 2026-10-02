@@ -15,6 +15,8 @@ import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
 import VisitorAmenitiesSection from '@/components/VisitorAmenitiesSection';
+import OpenToday from '@/components/OpenToday';
+import VisitorDirectory from '@/components/VisitorDirectory';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import LegendLocalSection from '@/components/LegendLocalSection';
@@ -41,29 +43,34 @@ export default async function HomePage({
     <>
       <Header />
       <main id="home">
+        {/* Visit-intent first: status, directory, hours, parking, getting here */}
         <Hero />
         <QuickFactsCard />
-        <Intro />
-        <BasicInfo />
+        <OpenToday />
+        <VisitorDirectory />
         <HoursSection />
         <TicketsSection />
         <TransportSection />
-        <InfoSection />
-        <SeasonalSection />
+        <VisitorAmenitiesSection />
         <WeatherTideSection />
+        <Reviews />
+        <Gallery />
+        <PhotoSpotsSection />
+        <MapEmbed />
+        <FaqSection />
+
+        {/* Background, ecology and long-form reference material below the fold */}
+        <BasicInfo />
         <AudienceRouteSection />
         <RouteSection />
-        <PhotoSpotsSection />
-        <HotelsSection />
-        <VisitorAmenitiesSection />
-        <Gallery />
-        <Reviews />
-        <LegendLocalSection />
+        <Intro />
+        <InfoSection />
         <EcoSection />
+        <SeasonalSection />
+        <LegendLocalSection />
         <LntSection />
-        <FaqSection />
+        <HotelsSection />
         <FurtherReadingSection />
-        <MapEmbed />
       </main>
       <Footer />
     </>

@@ -1,12 +1,14 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 
 export default function TicketsSection() {
   const t = useTranslations('tickets');
+  const locale = useLocale();
+  const prefix = locale === 'zh' ? '/zh' : '/en';
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="parking" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -35,7 +37,7 @@ export default function TicketsSection() {
                 <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
                   {t('park')}
                 </h3>
-                <p className="text-2xl font-bold" style={{ color: 'var(--accent)' }}>{t('parkPrice')}</p>
+                <p className="text-base leading-relaxed" style={{ color: 'var(--accent)' }}>{t('parkPrice')}</p>
               </div>
             </div>
           </div>
@@ -58,7 +60,7 @@ export default function TicketsSection() {
                 <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
                   {t('parking')}
                 </h3>
-                <p className="text-2xl font-bold" style={{ color: 'var(--accent)' }}>{t('parkingPrice')}</p>
+                <p className="text-base leading-relaxed" style={{ color: 'var(--accent)' }}>{t('parkingPrice')}</p>
               </div>
             </div>
           </div>
@@ -78,6 +80,24 @@ export default function TicketsSection() {
             <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('guided')}</p>
             <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('guidedPrice')}</p>
           </div>
+        </div>
+
+        {/* Deep links to dedicated guides */}
+        <div className="mt-6 flex flex-wrap gap-4">
+          <a
+            href={`${prefix}/parking`}
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all"
+            style={{ color: 'var(--accent)', border: '1px solid var(--accent)' }}
+          >
+            {t('parkingLinkLabel')}
+          </a>
+          <a
+            href={`${prefix}/hours`}
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all"
+            style={{ color: 'var(--accent)', border: '1px solid var(--accent)' }}
+          >
+            {t('hoursLinkLabel')}
+          </a>
         </div>
       </div>
     </section>

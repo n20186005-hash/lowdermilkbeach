@@ -36,6 +36,9 @@ export default function Hero() {
               <span className="text-white/60 text-xs">({t('reviewCount')})</span>
             </div>
             <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
+              <span className="text-white/70 text-xs">{t('updated')}</span>
+            </div>
+            <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
                 <path d="M12 2v20M2 12h20"/>
                 <circle cx="12" cy="12" r="10"/>

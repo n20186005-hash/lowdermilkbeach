@@ -16,22 +16,34 @@ export default function Header() {
   }, []);
 
   const locale = useLocale();
-  const basePath = locale === 'en' ? '/en' : '/';
+  const basePath = locale === 'zh' ? '/zh' : '/en';
   const logoHref = basePath;
 
   const navSections = [
-    'facts',
-    'history',
-    'ecology',
-    'lnt',
-    'photography',
+    'directory',
+    'openToday',
+    'hours',
+    'parking',
     'amenities',
-    'legend',
+    'gettingHere',
+    'weather',
     'gallery',
-    'reviews',
     'map',
-    'reading',
+    'faq',
   ] as const;
+
+  const anchors: Record<(typeof navSections)[number], string> = {
+    directory: 'directory',
+    openToday: 'open-today',
+    hours: 'hours',
+    parking: 'parking',
+    amenities: 'amenities',
+    gettingHere: 'getting-here',
+    weather: 'beach-weather',
+    gallery: 'gallery',
+    map: 'map',
+    faq: 'faq',
+  };
 
   return (
     <header
@@ -51,7 +63,7 @@ export default function Header() {
           {navSections.map((section) => (
             <a
               key={section}
-              href={`${basePath}#${section}`}
+              href={`${basePath}#${anchors[section]}`}
               className="text-sm font-medium transition-colors whitespace-nowrap"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >

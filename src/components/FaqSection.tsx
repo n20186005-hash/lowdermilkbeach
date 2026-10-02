@@ -15,7 +15,7 @@ export default function FaqSection() {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="faq" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-2 text-center"

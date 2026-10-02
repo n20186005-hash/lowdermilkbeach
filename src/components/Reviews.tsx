@@ -41,6 +41,13 @@ export default function Reviews() {
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p
+          className="text-sm font-medium mb-4"
+          style={{ color: 'var(--text-primary)' }}
+        >
+          {t('ratingSummary')}
+        </p>
+
+        <p
           className="text-sm leading-relaxed mb-10 max-w-2xl"
           style={{ color: 'var(--text-muted)' }}
         >

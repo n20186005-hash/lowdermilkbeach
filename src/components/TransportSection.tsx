@@ -71,7 +71,7 @@ export default function TransportSection() {
   ];
 
   return (
-    <section className="section-padding">
+    <section id="getting-here" className="section-padding">
       <div className="max-w-5xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"

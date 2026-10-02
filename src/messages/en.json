@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Lowdermilk Park (Naples) - Visitor Guide & Location",
-    "description": "Discover Lowdermilk Park, the iconic landmark in Naples, Florida, United States. View location map, opening details, nearby Naples Pier, travel tips, ecological notes, turtle nesting season, and visitor amenities.",
-    "ogTitle": "Lowdermilk Park - Naples Travel Guide",
-    "ogDescription": "Official independent visitor guide to Lowdermilk Park in Naples, Florida. Includes history, ecology, accessibility, amenities, seasonal strategies, and LNT principles.",
-    "ogImageAlt": "Lowdermilk Park (Lowdermilk Beach) - Main beachfront and lawn overview in Naples, United States"
+    "title": "Lowdermilk Beach & Park Naples FL | Hours, Parking & Guide",
+    "description": "Plan Lowdermilk Beach & Lowdermilk Park, Naples FL: hours, parking fees, beach access, restrooms, showers, playground, photos, directions.",
+    "ogTitle": "Lowdermilk Beach & Lowdermilk Park — Naples, Florida Visitor Guide",
+    "ogDescription": "Current hours, parking, facilities, beach access and travel tips for Lowdermilk Park (Lowdermilk Beach) at 1301 Gulf Shore Blvd N, Naples, Florida.",
+    "ogImageAlt": "Lowdermilk Beach at Lowdermilk Park, Naples Florida — Gulf-front strand, lawn and boardwalk"
   },
   "header": {
     "home": "Home",
-    "gallery": "Gallery",
+    "gallery": "Photos",
     "reviews": "Reviews",
     "map": "Map",
     "facts": "Quick Facts",
@@ -19,15 +19,23 @@
     "amenities": "Amenities",
     "legend": "Local Lore",
     "reading": "Sources",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to the visitor guide",
+    "directory": "Directory",
+    "openToday": "Open Today",
+    "hours": "Hours",
+    "parking": "Parking",
+    "gettingHere": "Getting Here",
+    "weather": "Weather",
+    "faq": "FAQ"
   },
   "hero": {
-    "title": "Lowdermilk Park (Naples)",
-    "subtitle": "Naples Beachfront Park - Enjoy Spectacular Gulf Sunrises & Sunsets",
-    "rating": "4.7(6,254)",
-    "reviewCount": "6,254 reviews",
-    "type": "Beach Park · Naples Must-Visit",
-    "openMaps": "View Location"
+    "title": "Lowdermilk Park (Lowdermilk Beach) – Naples, Florida",
+    "subtitle": "Free admission · hourly visitor parking · restrooms, showers & playground · Gulf of Mexico sunsets",
+    "rating": "4.7★",
+    "reviewCount": "6,304 Google reviews",
+    "type": "Beach Park · Naples, Florida",
+    "openMaps": "View location",
+    "updated": "Rating & information updated October 2026"
   },
   "intro": {
     "title": "About Lowdermilk Park",
@@ -56,23 +64,71 @@
   },
   "quickFacts": {
     "facts": [
-      { "id": "officialName", "icon": "name" },
-      { "id": "hours",       "icon": "hours" },
-      { "id": "admission",   "icon": "price" },
-      { "id": "parking",     "icon": "parking" },
-      { "id": "accessibility", "icon": "accessibility" },
-      { "id": "beach",       "icon": "beach" },
-      { "id": "season",      "icon": "season" },
-      { "id": "phone",       "icon": "phone" }
+      {
+        "id": "officialName",
+        "icon": "name"
+      },
+      {
+        "id": "hours",
+        "icon": "hours"
+      },
+      {
+        "id": "admission",
+        "icon": "price"
+      },
+      {
+        "id": "parking",
+        "icon": "parking"
+      },
+      {
+        "id": "accessibility",
+        "icon": "accessibility"
+      },
+      {
+        "id": "beach",
+        "icon": "beach"
+      },
+      {
+        "id": "season",
+        "icon": "season"
+      },
+      {
+        "id": "phone",
+        "icon": "phone"
+      }
     ],
-    "officialName": { "label": "Official Name", "value": "Lowdermilk Park" },
-    "hours":        { "label": "Park Hours",  "value": "Daily 08:00 – 23:00" },
-    "admission":    { "label": "Admission", "value": "Free · public access" },
-    "parking":      { "label": "Parking",  "value": "Residents free · Non-res hourly, metered"},
-    "accessibility":{ "label": "Accessibility", "value": "ADA restrooms + beach boardwalk" },
-    "beach":        { "label": "Shore Length", "value": "≈ 1,100 ft Gulf frontage" },
-    "season":       { "label": "Best Season", "value": "Mar – May / Nov – early Dec" },
-    "phone":        { "label": "Management", "value": "+1 239-213-7120" }
+    "officialName": {
+      "label": "Official Name",
+      "value": "Lowdermilk Park"
+    },
+    "hours": {
+      "label": "Park Hours",
+      "value": "Daily 5:00 AM – 11:00 PM"
+    },
+    "admission": {
+      "label": "Admission",
+      "value": "Free · public access"
+    },
+    "parking": {
+      "label": "Parking",
+      "value": "On-site paid lot · resident permits free"
+    },
+    "accessibility": {
+      "label": "Accessibility",
+      "value": "ADA restrooms + beach boardwalk"
+    },
+    "beach": {
+      "label": "Shore Length",
+      "value": "≈ 1,100 ft Gulf frontage"
+    },
+    "season": {
+      "label": "Best Season",
+      "value": "Mar – May / Nov – early Dec"
+    },
+    "phone": {
+      "label": "Management",
+      "value": "+1 239-213-7120"
+    }
   },
   "knowledge": {
     "title": "About Lowdermilk Park",
@@ -108,12 +164,30 @@
     "title": "Amenities & Visitor Services",
     "subtitle": "Neutral, type-based overview of visitor support facilities and surrounding area categories — no specific commercial establishments are recommended",
     "categories": [
-      { "id": "wc",          "icon": "wc" },
-      { "id": "parking",       "icon": "parking" },
-      { "id": "food",          "icon": "food" },
-      { "id": "accommodation", "icon": "stay" },
-      { "id": "grocery",       "icon": "grocery" },
-      { "id": "fuel",          "icon": "fuel" }
+      {
+        "id": "wc",
+        "icon": "wc"
+      },
+      {
+        "id": "parking",
+        "icon": "parking"
+      },
+      {
+        "id": "food",
+        "icon": "food"
+      },
+      {
+        "id": "accommodation",
+        "icon": "stay"
+      },
+      {
+        "id": "grocery",
+        "icon": "grocery"
+      },
+      {
+        "id": "fuel",
+        "icon": "fuel"
+      }
     ],
     "wc": {
       "name": "Restrooms, Showers & Accessibility",
@@ -154,27 +228,34 @@
     "phone": "Phone",
     "phoneValue": "+1 239-213-7120",
     "address": "Address",
-    "addressValue": "1301 Gulf Shore Blvd N, Naples, FL 34102"
+    "addressValue": "1301 Gulf Shore Blvd N, Naples, FL 34102",
+    "alsoKnownAs": "Also Known As",
+    "alsoKnownAsValue": "Lowdermilk Beach",
+    "googleRatingValue": "4.7 / 5 · 6,304 reviews on Google Maps"
   },
   "hours": {
     "title": "Park Hours",
-    "park": "Park Access",
-    "parkTime": "Daily 8:00 AM – 11:00 PM",
+    "park": "Published Hours",
+    "parkTime": "Daily 5:00 AM – 11:00 PM",
     "bestTime": "Best Time Windows by Season",
     "bestTimeSpring": "Morning (07:00–09:00): sunrise, northerly migrants on the Atlantic Flyway + cool thermal comfort.\n\nLate afternoon (17:00–19:30): golden-hour light; UV index falls; low re-radiant sunsets; calm.",
     "bestTimeSummer": "Sunrise window (06:30–08:00) or post-storm cool-down; post-cold-front. PM T-storm cells common after 14:30–16:30. Avoid the 12:30–15:30 window of peak heat.",
     "bestTimeAutumn": "All-day comfort; late Sept occasionally red-tide advisory (Sept–Oct); turtle hatchling emergence late October 5–10 PM evenings.",
     "bestTimeWinter": "9:00 AM through 16:00 PM entire day. North American migrant passage; water temps 20–25°C; UV mild; optimal conditions.",
-    "tip": "For official hours and seasonal openings, see the official Naples Parks & Recreation site; weather permitting (2024–2028 Master Plan Naples.gov)."
+    "tip": "For official hours and seasonal closures see the City of Naples Parks & Recreation page, or call +1 239-213-7120 during business hours.",
+    "altListing": "City waterfront listings occasionally state dawn to dusk.",
+    "verified": "Hours last verified October 2026 against City of Naples Parks & Recreation materials. Hours can change for season, events or storms — confirm with the City before you visit."
   },
   "tickets": {
-    "title": "Admission & Parking Fees",
+    "title": "Admission & Parking",
     "park": "Park Entry",
-    "parkPrice": "Completely free public space — general access never requires payment.",
-    "parking": "Parking Fee",
-    "parkingPrice": "Free for Collier Naples residents with valid permit; Non-residents hourly metered per space, pay by kiosk + phone App QR code plate reader + credit card reader; cash not accepted.",
+    "parkPrice": "Completely free public space — general access, the beach, lawns, playgrounds and picnic areas never require payment.",
+    "parking": "Parking",
+    "parkingPrice": "The on-site lot is metered per space for non-residents, paid at solar-powered meters or automated pay stations (follow the posted instructions and enter your plate). City of Naples residents displaying a valid Collier County Resident Parking Permit park free. Rates are set by the City and can change.",
     "guided": "Guided Tours",
-    "guidedPrice": "The City does not provide formal structured interpretive tours. Self-guided interpretive signage on the Historic Coastal Heritage Trail (8 QR plaques installed 2018) is available at kiosk #1 and kiosk #2 free of charge."
+    "guidedPrice": "The City does not provide formal structured interpretive tours. Self-guided interpretive signage on the Historic Coastal Heritage Trail is available free of charge at the park kiosks.",
+    "parkingLinkLabel": "Full parking guide →",
+    "hoursLinkLabel": "Full hours guide →"
   },
   "transport": {
     "title": "How to Get Here",
@@ -210,9 +291,15 @@
     "title": "Audience-Based Visit Plans",
     "subtitle": "Three tailored itineraries — family / photography / low-mobility. Pick the route that best matches your party composition and travel pace",
     "audiences": [
-      { "id": "family" },
-      { "id": "photography" },
-      { "id": "accessible" }
+      {
+        "id": "family"
+      },
+      {
+        "id": "photography"
+      },
+      {
+        "id": "accessible"
+      }
     ],
     "family": {
       "name": "Family & Children",
@@ -265,26 +352,84 @@
     "title": "Best Photo Locations",
     "subtitle": "10 curated photographic vantage points within or immediately contiguous to Lowdermilk Park — each tagged with shooting hour and approximate spot within the property",
     "spots": [
-      { "name": "Gulf Sunset Beachscape",  "desc": "Wide-angle Gulf of Mexico sunset from the wet swash line; foreground: Uniola paniculata dune stalks in silhouette; 2-stop GND for dynamic range.",  "time": "Golden hour, sunset window, 20 min pre – 25 min post official sunset",   "location": "South #4 beach walkover (Lat 26.16138° N)"  },
-      { "name": "Oak Lawn Picnic",    "desc": "Live oak canopy draped Spanish moss; picnic-table candids; dappled backlit portraits; midday shade.",  "time": "Diffused midday or overcast; portrait 2 hours after sunrise / before sunset",  "location": "Central picnic group-shelter cluster southwest of playground"   },
-      { "name": "Naples Pier Telephoto", "desc": "Naples Pier distant 70–200 mm telephoto from the beach looking south; with foreground wave action; calm conditions with 2-foot waves best.",     "time": "Sunrise or sunset golden hour for warm reflected light on pier pilings", "location": "Lowdermilk southern shoreline, 0.2 mi south of lot" },
-      { "name": "Playground Golden",    "desc": "Joyful children's play candids with blue-sky + Gulf horizon background; wide-angle environmental portrait lens.", "time": "Morning 09:00–10:30; harsh overhead sun avoided",    "location": "South playground zone"   },
-      { "name": "Sand Volleyball Action", "desc": "Sport-action 70–200 mm; backlit athlete silhouette; low-angle background; stop action.", "time": "17:00 – 18:30 for rim lighting.", "location": "Court 1 (south)" },
-      { "name": "Sea Oats Dune Silhouette", "desc": "Uniola paniculata close-up macro with bokeh sunset; shallow DoF ~f/2.8.",     "time": "20 minutes before sunset, backlit",  "location": "Primary dune north walkover #1" },
-      { "name": "Coastal Trail Palms", "desc": "Palm-lined Coastal Trail path; leading-line composition — vanishing point; cyclist or pedestrian blurred motion.", "time": "08:00–09:00 AM sidelight through palms",  "location": "Coastal Trail sidewalk north 300 ft from entry"  },
-      { "name": "Picnic Pavilion Wood Texture", "desc": "Weathered pavilion wood planks close-up; grain detail; wide aperture blurred Gulf background bokeh.",  "time": "Diffused overcast or open shade any time",   "location": "Group shelter #2 central." },
-      { "name": "Outdoor Shower Candid",  "desc": "Post-beach outdoor shower scene; water droplets backlit; fine spray sunlight through translucent.",    "time": "16:00–17:30 PM afternoon low-angle sidelight",  "location": "Shower station walkover #3 south"  },
-      { "name": "Migratory Songbird Refuge",   "desc": "Live oak canopy migrants; 300–600 mm telephoto; perched migrant songbirds in spring/fall.",      "time": "Spring Mar 20 – Apr 30; dawn to 10:00 AM",    "location": "Live oak hammock northeastern edge of lawn"   }
+      {
+        "name": "Gulf Sunset Beachscape",
+        "desc": "Wide-angle Gulf of Mexico sunset from the wet swash line; foreground: Uniola paniculata dune stalks in silhouette; 2-stop GND for dynamic range.",
+        "time": "Golden hour, sunset window, 20 min pre – 25 min post official sunset",
+        "location": "South #4 beach walkover (Lat 26.16138° N)"
+      },
+      {
+        "name": "Oak Lawn Picnic",
+        "desc": "Live oak canopy draped Spanish moss; picnic-table candids; dappled backlit portraits; midday shade.",
+        "time": "Diffused midday or overcast; portrait 2 hours after sunrise / before sunset",
+        "location": "Central picnic group-shelter cluster southwest of playground"
+      },
+      {
+        "name": "Naples Pier Telephoto",
+        "desc": "Naples Pier distant 70–200 mm telephoto from the beach looking south; with foreground wave action; calm conditions with 2-foot waves best.",
+        "time": "Sunrise or sunset golden hour for warm reflected light on pier pilings",
+        "location": "Lowdermilk southern shoreline, 0.2 mi south of lot"
+      },
+      {
+        "name": "Playground Golden",
+        "desc": "Joyful children's play candids with blue-sky + Gulf horizon background; wide-angle environmental portrait lens.",
+        "time": "Morning 09:00–10:30; harsh overhead sun avoided",
+        "location": "South playground zone"
+      },
+      {
+        "name": "Sand Volleyball Action",
+        "desc": "Sport-action 70–200 mm; backlit athlete silhouette; low-angle background; stop action.",
+        "time": "17:00 – 18:30 for rim lighting.",
+        "location": "Court 1 (south)"
+      },
+      {
+        "name": "Sea Oats Dune Silhouette",
+        "desc": "Uniola paniculata close-up macro with bokeh sunset; shallow DoF ~f/2.8.",
+        "time": "20 minutes before sunset, backlit",
+        "location": "Primary dune north walkover #1"
+      },
+      {
+        "name": "Coastal Trail Palms",
+        "desc": "Palm-lined Coastal Trail path; leading-line composition — vanishing point; cyclist or pedestrian blurred motion.",
+        "time": "08:00–09:00 AM sidelight through palms",
+        "location": "Coastal Trail sidewalk north 300 ft from entry"
+      },
+      {
+        "name": "Picnic Pavilion Wood Texture",
+        "desc": "Weathered pavilion wood planks close-up; grain detail; wide aperture blurred Gulf background bokeh.",
+        "time": "Diffused overcast or open shade any time",
+        "location": "Group shelter #2 central."
+      },
+      {
+        "name": "Outdoor Shower Candid",
+        "desc": "Post-beach outdoor shower scene; water droplets backlit; fine spray sunlight through translucent.",
+        "time": "16:00–17:30 PM afternoon low-angle sidelight",
+        "location": "Shower station walkover #3 south"
+      },
+      {
+        "name": "Migratory Songbird Refuge",
+        "desc": "Live oak canopy migrants; 300–600 mm telephoto; perched migrant songbirds in spring/fall.",
+        "time": "Spring Mar 20 – Apr 30; dawn to 10:00 AM",
+        "location": "Live oak hammock northeastern edge of lawn"
+      }
     ]
   },
   "ecoSection": {
     "title": "Coastal Ecology & Visitor Responsibilities",
     "subtitle": "Four signature ecological topics of the Naples coast — Learn before you visit. Based on FWC, FL DEP, and Collier County official public data",
     "topics": [
-      { "id": "turtles" },
-      { "id": "redtide" },
-      { "id": "mammals" },
-      { "id": "dunes" }
+      {
+        "id": "turtles"
+      },
+      {
+        "id": "redtide"
+      },
+      {
+        "id": "mammals"
+      },
+      {
+        "id": "dunes"
+      }
     ],
     "turtles": {
       "tag": "Reptilia · Cheloniidae",
@@ -310,14 +455,28 @@
   "lntSection": {
     "title": "Leave No Trace Coastal Principles (LNT) & Community Tourism Ethics",
     "subtitle": "7 adapted coastal LNT principles based on LNT Center standards; community-based tourism (CBT) responsibility",
-    "principles":[
-      {"id": "p1"},
-      {"id": "p2"},
-      {"id": "p3"},
-      {"id": "p4"},
-      {"id": "p5"},
-      {"id": "p6"},
-      {"id": "p7"}
+    "principles": [
+      {
+        "id": "p1"
+      },
+      {
+        "id": "p2"
+      },
+      {
+        "id": "p3"
+      },
+      {
+        "id": "p4"
+      },
+      {
+        "id": "p5"
+      },
+      {
+        "id": "p6"
+      },
+      {
+        "id": "p7"
+      }
     ],
     "cbt": {
       "title": "A Note on Community-Based Tourism (CBT)",
@@ -369,10 +528,22 @@
       "notes": "Visitor Considerations"
     },
     "seasons": [
-      { "id": "spring", "key": "spring" },
-      { "id": "summer", "key": "summer" },
-      { "id": "autumn", "key": "autumn" },
-      { "id": "winter", "key": "winter" }
+      {
+        "id": "spring",
+        "key": "spring"
+      },
+      {
+        "id": "summer",
+        "key": "summer"
+      },
+      {
+        "id": "autumn",
+        "key": "autumn"
+      },
+      {
+        "id": "winter",
+        "key": "winter"
+      }
     ],
     "spring": {
       "name": "Spring · Mar 1 – May 31",
@@ -474,7 +645,15 @@
       "swimActivity": "The sea is about {temp} - calm and warm enough for a swim",
       "swimGear": "Swimwear, towel and a waterproof pouch for your phone"
     },
-    "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "weekdays": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
     "codes": {
       "0": "Clear sky",
       "1": "Mainly clear",
@@ -511,9 +690,15 @@
     "title": "Local Lore, Oral Tradition & Calusa Heritage",
     "subtitle": "Community oral tradition and regional heritage — folkloric material explicitly designated as such; Precontact Heritage — does NOT constitute verified historical documents without primary source citation.",
     "entries": [
-      { "id": "calusa" },
-      { "id": "lifeguard" },
-      { "id": "shellindian" }
+      {
+        "id": "calusa"
+      },
+      {
+        "id": "lifeguard"
+      },
+      {
+        "id": "shellindian"
+      }
     ],
     "calusa": {
       "tag": "Cultural · Precontact Archaeology",
@@ -615,7 +800,8 @@
         "rating": 5,
         "text": "Among Naples beach park categories Lowdermilk easily ranks in the top tier; sunrise golden hour conditions were perfectly clear, and the Coastal Trail bike/walk corridor was quiet early morning. Sea oats stalks at north walkover produced a memorable silhouette image against the Gulf horizon."
       }
-    ]
+    ],
+    "ratingSummary": "Rated 4.7★ on Google Maps — 6,304 reviews (updated October 2026)"
   },
   "mapSection": {
     "title": "Map & Location",
@@ -623,48 +809,60 @@
     "openMaps": "Open Google Maps"
   },
   "faq": {
-    "title": "Frequently Asked Questions",
-    "subtitle": "Ten commonly posed questions about Lowdermilk Park (Lowdermilk Beach). Answers drawn from official City of Naples, FWC, and Collier County ordinances and publications.",
+    "title": "Lowdermilk Park & Lowdermilk Beach FAQ",
+    "subtitle": "The questions visitors search for most: is Lowdermilk Beach open today, is it free, where do you park, what facilities are on site and how do you get there from downtown Naples.",
     "items": [
       {
-        "question": "Where is Lowdermilk Park located?",
-        "answer": "Lowdermilk Park is in Naples, Florida, United States, at 1301 Gulf Shore Blvd N, Naples, FL 34102. Geography: Lowdermilk Park → Naples → Florida → United States."
+        "question": "Is Lowdermilk Beach open today?",
+        "answer": "Lowdermilk Beach — the Gulf-front strand inside Lowdermilk Park — is open daily during published park hours (currently listed as 5:00 AM to 11:00 PM by City of Naples Parks & Recreation; some City waterfront materials list “dawn to dusk”). Temporary closures only occur for named tropical storms or hurricanes, water-quality advisories such as red tide, or City maintenance. Check the official City page or call +1 239-213-7120 on the day of your visit. Information last verified October 2026."
+      },
+      {
+        "question": "Is Lowdermilk Park the same as Lowdermilk Beach?",
+        "answer": "Yes — they are two names for the same destination. Lowdermilk Park is the official City of Naples name for the beach park at 1301 Gulf Shore Blvd N, while most visitors, maps and review sites call it Lowdermilk Beach. The park includes the Gulf beach strand together with lawns, two playgrounds, volleyball courts, picnic shelters, restrooms, showers and the on-site parking lot."
       },
       {
         "question": "Is Lowdermilk Beach free?",
-        "answer": "Yes, Lowdermilk Park is a public space free year-round. Access to the park, beach, lawns, playgrounds, picnic areas, and boardwalks are free; paid components are non-resident hourly metered parking and group-shelter permit reservations (if reserved)."
+        "answer": "Yes. Lowdermilk Park is a free public space year-round: the beach, lawns, playgrounds, picnic areas and boardwalks never require an admission fee. The only paid components are non-resident hourly metered parking and permits for reservable group shelters."
       },
       {
         "question": "What are Lowdermilk Park's hours?",
-        "answer": "Lowdermilk Park is open 8:00 AM – 11:00 PM, daily. Closures occur during named tropical storm / hurricane landfall events per City EOC; please consult the Naples Parks & Recreation official website. FWC red-tide temporary closures occur when the beach water quality monitoring warrants."
+        "answer": "Published hours are 5:00 AM – 11:00 PM daily, per City of Naples Parks & Recreation materials; a City waterfront document lists the park as “dawn to dusk”. The parking lot is gate-controlled and follows the same hours. Hours were last verified October 2026 and can change seasonally or for events — confirm with the City before travelling."
       },
       {
-        "question": "Can I bring my dog to Lowdermilk Beach?",
-        "answer": "City of Naples Code Sec. 10.04.030: Dogs are prohibited on the actual sandy beach strand May 1 through October 31 inclusive; dogs on a 6 ft leash are permitted on the paved park lawns, sidewalks, picnic areas, parking lot and boardwalk year-round; always remove pet waste. Unleashed dogs subject to $250 first-offense fine. For dog-friendly alternatives, Clam Pass Park in north Naples permits dogs on the beach Collier-county-wide."
+        "question": "How much is parking at Lowdermilk Beach?",
+        "answer": "Non-residents pay an hourly metered rate per space in the on-site lot, at the solar-powered meters or the automated pay stations (card payments plus the options shown on the machine, entering your plate number). City of Naples residents displaying a valid Collier County Resident Parking Permit park free. Rates are set by the City and may change, so read the posted rate board when you arrive."
       },
       {
-        "question": "Is alcohol consumption allowed?",
-        "answer": "The Collier County alcohol ordinances on public beach consumption have varied over cycles. Current regulation: low-point beer/wine are permissible in non-glass containers on the lawns; spirituous liquors and glass containers are prohibited; disorderly intoxication in public is addressed under Naples Code Sec. 10.08. Before visiting, confirm the most current City Ordinance Ch. 10. The Collier County Alcohol Beverage (ABC) office updates ordinances on its website."
+        "question": "Where do you park at Lowdermilk Park?",
+        "answer": "Use the single signed park entrance off Gulf Shore Blvd N at 1301 Gulf Shore Blvd N, Naples, FL 34102 (Plus Code 556R+R2). The asphalt lot has roughly 225 stalls, including 14 ADA van-accessible spaces, a short walk from the boardwalk to the sand, the restrooms, showers and playground. On peak weekends, spring break and holidays the lot fills and entry may be held — see our detailed parking guide for overflow options."
       },
       {
-        "question": "Are there lifeguards on duty?",
-        "answer": "Lowdermilk Park is not currently staffed with permanent stand lifeguard towers; roving beach-patrol lifeguard auxiliary presence of contracted lifeguard rovers are on patrol on peak days; life rings are present. In case of emergency dial 911; Collier County EMS beach-rescue marine unit responds. Always observe flags: double red = NO swim."
+        "question": "Does Lowdermilk Beach have restrooms?",
+        "answer": "Yes. Two fully accessible comfort stations serve the park — one by the northern beach cluster and one next to the main lawn — with ADA stalls, family / companion-care rooms and adult changing benches. Drinking fountains at ADA heights with bottle-filling stations and pet bowl tiers are located nearby."
       },
       {
-        "question": "Can I erect tents, beach canopies, or cabanas?",
-        "answer": "Umbrellas up to 7 feet and small shade pop-ups (under 100 sq ft) are permitted year-round during daytime; be considerate of beachgoer sight lines. Large tents, inflatables, and cabanas over 100 square feet or category-30+ structures are prohibited per Sec. 10.10; remove everything each day."
+        "question": "Does Lowdermilk Beach have showers?",
+        "answer": "Yes. Outdoor freshwater rinse stations sit at the beach walkovers so you can wash off sand and salt before returning to your car: approximately 18 shower heads distributed across four walkovers, combining low footwash spigots and full-height body rinses."
       },
       {
-        "question": "Is the park safe during hurricane season (Jun 1 – Nov 30)?",
-        "answer": "Check NOAA NHC Atlantic 5-day cone; Collier County Evacuation Zone: this location is within Zone A (surge). Red during a named storm landfall-issued mandatory evacuation order, park closure occurs per Collier Emergency Management EOC operations. During low-storm conditions: check concurrent daily NOAA rip current product and FWC red-tide status."
+        "question": "Is there a playground at Lowdermilk Park?",
+        "answer": "Yes — two age-separated playgrounds sit back from the beach on the shaded live-oak lawn, close to the picnic pavilion, restrooms and parking lot. Surfaces and apparatus are maintained for public use; bring water and plan around the midday sun, which is intense from May to September."
       },
       {
-        "question": "Are beach chair and umbrella rentals available on-site?",
-        "answer": "Lowdermilk Park does not operate a rental service on the property and does not license concession vendors inside the park; independent commercial beach chair rentals are not permitted to solicit or operate within the park's boundaries. You may bring your own; folding chairs and pop-ups are permitted; ensure setup remains ADA-path compliant."
+        "question": "Can you watch the sunset at Lowdermilk Beach?",
+        "answer": "Lowdermilk faces due west onto the Gulf of Mexico, so sunset is the headline show: the wet sand line, the sea-oat dunes and the south walkover all give an unobstructed western horizon. Sunset time swings from roughly 5:30 PM in midwinter to about 8:00–8:20 PM in high summer — see the daily weather panel for today's exact time."
       },
       {
-        "question": "What if a red tide advisory is active when I plan to visit?",
-        "answer": "Check FWRI FWC Red Tide Status map and DOH-Collier Healthy Beaches water-quality map. If K. brevis cells exceed 100,000 cells per liter: visitors with asthma or chronic respiratory conditions should avoid immediate beach proximity. DO NOT harvest wild coastal shellfish for cooking; source only from approved vendors. Re-check the official maps daily as conditions can shift rapidly."
+        "question": "How do I get to Lowdermilk Beach from downtown Naples?",
+        "answer": "From the 5th Avenue South / Third Street South district it is about 1.6–1.8 miles: roughly a 10-minute drive, a comfortable bike ride on the paved Coastal Trail sidewalk corridor, or a 30-minute walk. Head north toward Central Avenue then west to Gulf Shore Boulevard North, keeping to the Gulf side; the signed entrance is at 1301 Gulf Shore Blvd N."
+      },
+      {
+        "question": "Are dogs allowed at Lowdermilk Beach?",
+        "answer": "City of Naples Code Sec. 10.04.030: dogs are prohibited on the actual sandy beach strand from May 1 through October 31, and must be on a 6 ft leash elsewhere in the park (lawns, sidewalks, picnic areas, parking lot and boardwalk) year-round; always remove pet waste. Unleashed dogs carry a fine; Collier County's Clam Pass Park is a leashed-dog-friendly alternative."
+      },
+      {
+        "question": "Where is Lowdermilk Park located?",
+        "answer": "Lowdermilk Park is in Naples, Florida, United States, at 1301 Gulf Shore Blvd N, Naples, FL 34102 (Plus Code 556R+R2, approximately 26.1621, -81.8100). It sits on the Gulf of Mexico side of Gulf Shore Boulevard North, about 1.6 miles from downtown Naples and just north of the Port Royal stretch."
       }
     ]
   },
@@ -672,11 +870,21 @@
     "title": "Primary Sources & Further Reading",
     "subtitle": "Scholarly and governmental primary-source references — all .gov or .edu domains; no third-party commercial sites.",
     "sources": [
-      { "id": "s1" },
-      { "id": "s2" },
-      { "id": "s3" },
-      { "id": "s4" },
-      { "id": "s5" }
+      {
+        "id": "s1"
+      },
+      {
+        "id": "s2"
+      },
+      {
+        "id": "s3"
+      },
+      {
+        "id": "s4"
+      },
+      {
+        "id": "s5"
+      }
     ],
     "s1": {
       "citation": "City of Naples Municipal Archives (1958). Lowdermilk Park deed conveyance instrument & subsequent condition covenants; recorded Collier County Official Records Book 1958, Page 451.",
@@ -735,7 +943,13 @@
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "rights": "© 2026 Lowdermilk Park Visitor Guide · lowdermilkbeach.com · All rights reserved",
-    "disclaimer": "Disclaimer: This site is an independent, unofficial visitor guide and is not affiliated with or endorsed by the City of Naples, Collier County, the State of Florida, or any other official body. Information is compiled from public sources for reference only; hours, fees, regulations and facility status may change at any time. Always verify current details through official channels before your visit."
+    "disclaimer": "Disclaimer: This site is an independent, unofficial visitor guide and is not affiliated with or endorsed by the City of Naples, Collier County, the State of Florida, or any other official body. Information is compiled from public sources for reference only; hours, fees, regulations and facility status may change at any time. Always verify current details through official channels before your visit.",
+    "explore": "Plan your visit",
+    "links": {
+      "parking": "Parking guide",
+      "hours": "Hours & opening status",
+      "home": "Visitor guide"
+    }
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -831,5 +1045,342 @@
     "toursTitle": "",
     "attractions": [],
     "tours": []
+  },
+  "openToday": {
+    "title": "Is Lowdermilk Beach Open Today?",
+    "intro": "Lowdermilk Park — best known to visitors as Lowdermilk Beach — is a City of Naples public beach park at 1301 Gulf Shore Blvd N. It is open every day of the year unless the City closes it for a named storm, a water-quality event such as red tide, or maintenance work.",
+    "todayLabel": "Today in Naples, Florida",
+    "openLabel": "Open now",
+    "closedLabel": "Closed now",
+    "checkingLabel": "Checking current status…",
+    "hoursLabel": "Published hours",
+    "hoursValue": "Daily 5:00 AM – 11:00 PM",
+    "opensAt": "Opens today at 5:00 AM",
+    "closesAt": "Closes today at 11:00 PM",
+    "altLabel": "Also listed by the City as“dawn to dusk”",
+    "verified": "Hours last verified October 2026 — they can change. Check the City of Naples before visiting.",
+    "officialLabel": "Official park page (City of Naples)",
+    "weatherLabel": "Weather, tides & sunset",
+    "parkingLabel": "Parking & fees",
+    "openNote": "Within published hours the beach, lawns, restrooms and playground are open; showers and rinse stations are available at the walkovers.",
+    "closedNote": "Outside published hours the parking lot is closed and beach access is shut. Return at 5:00 AM.",
+    "likely": "Lowdermilk Beach is very likely open today."
+  },
+  "visitorDirectory": {
+    "title": "Lowdermilk Park Visitor Directory",
+    "subtitle": "Jump straight to the information most visitors search for.",
+    "items": [
+      {
+        "id": "hours",
+        "label": "Park hours",
+        "href": "#hours"
+      },
+      {
+        "id": "openToday",
+        "label": "Open today?",
+        "href": "#open-today"
+      },
+      {
+        "id": "parking",
+        "label": "Parking & fees",
+        "href": "#parking"
+      },
+      {
+        "id": "parkingGuide",
+        "label": "Parking guide",
+        "href": "/parking"
+      },
+      {
+        "id": "gettingHere",
+        "label": "Directions",
+        "href": "#getting-here"
+      },
+      {
+        "id": "amenities",
+        "label": "Restrooms & showers",
+        "href": "#amenities"
+      },
+      {
+        "id": "playground",
+        "label": "Playground & volleyball",
+        "href": "#amenities"
+      },
+      {
+        "id": "accessibility",
+        "label": "Accessibility",
+        "href": "#amenities"
+      },
+      {
+        "id": "weather",
+        "label": "Weather & tides",
+        "href": "#beach-weather"
+      },
+      {
+        "id": "photos",
+        "label": "Photos",
+        "href": "#gallery"
+      },
+      {
+        "id": "photoSpots",
+        "label": "Sunset & photo spots",
+        "href": "#photography"
+      },
+      {
+        "id": "reviews",
+        "label": "Visitor reviews",
+        "href": "#reviews"
+      },
+      {
+        "id": "map",
+        "label": "Map & location",
+        "href": "#map"
+      },
+      {
+        "id": "faq",
+        "label": "FAQ",
+        "href": "#faq"
+      }
+    ],
+    "summaryTitle": "Lowdermilk Beach & Lowdermilk Park at a glance",
+    "summary": [
+      {
+        "label": "Official name",
+        "value": "Lowdermilk Park"
+      },
+      {
+        "label": "Also known as",
+        "value": "Lowdermilk Beach"
+      },
+      {
+        "label": "Location",
+        "value": "Naples, Florida, United States"
+      },
+      {
+        "label": "Address",
+        "value": "1301 Gulf Shore Blvd N, Naples, FL 34102"
+      },
+      {
+        "label": "Admission",
+        "value": "Free — no entry fee"
+      },
+      {
+        "label": "Parking",
+        "value": "Paid visitor lot; free with resident permit"
+      },
+      {
+        "label": "Restrooms",
+        "value": "Yes — two ADA comfort stations"
+      },
+      {
+        "label": "Showers",
+        "value": "Yes — outdoor rinse stations at the walkovers"
+      },
+      {
+        "label": "Playground",
+        "value": "Yes — two age-separated play areas"
+      },
+      {
+        "label": "Volleyball",
+        "value": "Yes — two sand courts"
+      },
+      {
+        "label": "Picnic areas",
+        "value": "Yes — lawns, picnic tables and reservable shelters"
+      },
+      {
+        "label": "Accessibility",
+        "value": "ADA parking, restrooms and beach boardwalk"
+      },
+      {
+        "label": "Best for",
+        "value": "Beach days, Gulf sunsets, families and picnics"
+      },
+      {
+        "label": "Managed by",
+        "value": "City of Naples Parks & Recreation · +1 239-213-7120"
+      }
+    ]
+  },
+  "parkingPage": {
+    "metaTitle": "Lowdermilk Beach Parking | Fees, Permits & Tips",
+    "metaDescription": "Where to park at Lowdermilk Park (Lowdermilk Beach), Naples FL: on-site lot entrance on Gulf Shore Blvd N, hourly visitor rates, resident permits, ADA stalls, peak times and what to do when the lot is full.",
+    "title": "Lowdermilk Beach & Lowdermilk Park Parking Guide",
+    "intro": "Lowdermilk Park has one public lot, entered directly from Gulf Shore Boulevard North, serving roughly 225 stalls including accessible spaces. Admission to the park itself is free; parking is metered for non-residents and free for City of Naples residents displaying a valid resident permit.",
+    "lastUpdated": "Parking information last verified October 2026.",
+    "factsTitle": "Parking at a glance",
+    "facts": [
+      {
+        "label": "Park address",
+        "value": "1301 Gulf Shore Blvd N, Naples, FL 34102"
+      },
+      {
+        "label": "Plus Code",
+        "value": "556R+R2 Naples, Florida"
+      },
+      {
+        "label": "Entrance",
+        "value": "Signed entry off Gulf Shore Blvd N (Gulf side)"
+      },
+      {
+        "label": "Lot size",
+        "value": "≈ 225 asphalt stalls incl. 14 ADA van-accessible"
+      },
+      {
+        "label": "Payment",
+        "value": "Metered per space for non-residents; resident permit free"
+      },
+      {
+        "label": "Walk to sand",
+        "value": "Short boardwalk / walkover from the lot"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Where to park",
+        "content": "All public parking for Lowdermilk Beach is in the park's own lot, reached through the single signed entrance at 1301 Gulf Shore Blvd N. The entrance sits on the Gulf (water) side of Gulf Shore Boulevard North, roughly 1.6 miles from downtown Naples, and is controlled by entry and exit gate arms. From the lot, paved paths and the accessible boardwalk lead across the dune to the sand, with the main comfort station, showers and playground all within a couple of minutes' walk."
+      },
+      {
+        "heading": "Visitor parking & how to pay",
+        "content": "Non-residents pay an hourly metered rate per space. Payment is made at the solar-powered electronic meters beside the spaces or at the automated pay stations in the lot: enter your plate number, choose your time and follow the on-screen instructions. Keep an eye on your expiry time if you plan a long beach day. The City periodically adjusts rates and payment channels, so always read the posted instructions on the meter or pay station when you arrive."
+      },
+      {
+        "heading": "Resident permits",
+        "content": "City of Naples residents displaying a valid Collier County Resident Parking Permit park free of charge year-round. Permit rules, eligibility and how to obtain one are administered by the City and Collier County rather than by this site — check the official City parking pages before relying on permit-free parking, and remember that posted restrictions and any special-event rules still apply."
+      },
+      {
+        "heading": "ADA & accessible parking",
+        "content": "The lot includes 14 designated ADA van-accessible stalls close to the main pedestrian route. From there a paved accessible path runs to the comfort station, the drinking fountains and the beach boardwalk, which has a rubberized transition down toward the wet sand line. Display your state-issued placard or plate, and note that accessible spaces are metered on the same basis as other stalls unless a permit applies."
+      },
+      {
+        "heading": "Busy times & how early to arrive",
+        "content": "The busiest windows are weekends year-round, spring break (early March to mid-April), the winter high season from January to March, and public holidays, when the lot commonly fills before late morning. If parking matters to you, arrive before 9:00 AM or plan a late-afternoon visit, which also lines up with softer light and a cooler beach. Weekday mornings outside peak season are almost always straightforward."
+      },
+      {
+        "heading": "Holidays, events & when the lot is full",
+        "content": "Because the gated lot has finite capacity, the City sometimes holds or temporarily closes the entrance once it is full — most often on major holidays and peak-season weekends. If you arrive while entry is being held, do not queue or stop along Gulf Shore Boulevard North; either return later in the day or use one of the alternatives below. The gate arms also mean that leaving close to closing time can queue briefly."
+      },
+      {
+        "heading": "Alternative parking & walking distance",
+        "content": "When the park lot is full, options include signed on-street spaces along Gulf Shore Boulevard North (read every sign — restrictions change block by block), public parking in the downtown Third Street South / 5th Avenue South area about a 30-minute walk or short ride-share away, or another City beach access such as the Naples Pier area or Clam Pass Park to the north. Cyclists can use the bicycle racks inside the park, reached by the paved Coastal Trail corridor along the waterfront."
+      },
+      {
+        "heading": "Confirm before you drive",
+        "content": "Rates, permit rules and capacity procedures change. Before a holiday visit, verify details with City of Naples Parks & Recreation (+1 239-213-7120) or the official Lowdermilk Park page listed in the sources section of our visitor guide."
+      }
+    ],
+    "faqTitle": "Parking FAQ",
+    "faq": [
+      {
+        "question": "Is there free parking at Lowdermilk Beach?",
+        "answer": "Admission to Lowdermilk Park is free, and City of Naples residents displaying a valid Collier County Resident Parking Permit park free as well. Everyone else pays the hourly metered rate set by the City for the non-resident spaces in the park's own lot."
+      },
+      {
+        "question": "How much is parking at Lowdermilk Park?",
+        "answer": "Non-residents pay an hourly metered rate per space, set and periodically revised by the City of Naples. Rather than quoting a figure that may change, check the posted rate board or meter screen when you arrive, or call City of Naples Parks & Recreation (+1 239-213-7120) for the current published rate."
+      },
+      {
+        "question": "What happens when the Lowdermilk Park lot is full?",
+        "answer": "During major holidays and peak-season weekends the gated lot reaches capacity and attendants may temporarily hold the entrance until vehicles leave. Don't wait on Gulf Shore Boulevard North; try signed on-street parking nearby, downtown Naples public parking, or another City beach access, then return later in the day."
+      },
+      {
+        "question": "Is overnight parking allowed at Lowdermilk Park?",
+        "answer": "The lot operates within published park hours rather than around the clock. Plan to move your vehicle before the posted closing time; vehicles left outside posted hours follow normal City enforcement. If you need overnight parking, check with the City or your accommodation."
+      },
+      {
+        "question": "Is there RV, trailer or oversized vehicle parking?",
+        "answer": "The park publishes standard stalls plus accessible stalls, with no dedicated oversized-vehicle area. RVs, trailers and oversized vehicles may not fit or be permitted; contact City of Naples Parks & Recreation before arriving with anything larger than a standard vehicle."
+      }
+    ],
+    "backLabel": "Back to the Lowdermilk Park visitor guide",
+    "ctaLabel": "Read full hours & opening details"
+  },
+  "hoursPage": {
+    "metaTitle": "Lowdermilk Beach Hours | Is Lowdermilk Park Open Today?",
+    "metaDescription": "Current Lowdermilk Park (Lowdermilk Beach) hours in Naples, Florida: daily opening and closing times, why City sources list different hours, holiday and storm closures, facility hours and how to confirm before you go.",
+    "title": "Lowdermilk Park Hours & Daily Opening Status",
+    "intro": "Lowdermilk Park — widely called Lowdermilk Beach — is a public City of Naples beach park at 1301 Gulf Shore Blvd N. It opens early and closes late every day of the year, with temporary closures only for named storms, water-quality advisories or City maintenance.",
+    "lastUpdated": "Hours last verified October 2026.",
+    "factsTitle": "Hours at a glance",
+    "facts": [
+      {
+        "label": "Published hours",
+        "value": "Daily 5:00 AM – 11:00 PM"
+      },
+      {
+        "label": "Also listed by City as",
+        "value": "Dawn to dusk"
+      },
+      {
+        "label": "Admission",
+        "value": "Free all day, every day"
+      },
+      {
+        "label": "Parking lot",
+        "value": "Gate-controlled, follows park hours"
+      },
+      {
+        "label": "Peak-season crowds",
+        "value": "Mid-morning to mid-afternoon, Mar – Apr"
+      },
+      {
+        "label": "Verify with",
+        "value": "City of Naples Parks & Recreation · +1 239-213-7120"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Is Lowdermilk Beach open today?",
+        "content": "Yes, unless the City has announced otherwise. Lowdermilk Park is a daily-operation public park: the beach, lawn, playground, restrooms and parking lot follow the published hours below seven days a week, including weekends and most holidays. For the live status for today's date and current Naples local time, use the status panel on our visitor guide home page."
+      },
+      {
+        "heading": "Published daily hours",
+        "content": "City of Naples Parks & Recreation materials list Lowdermilk Park as open daily from 5:00 AM to 11:00 PM. Some City waterfront documents instead describe the park as “dawn to dusk”. Because the two listings disagree, treat the times as indicative and confirm with the City for the exact date of your visit — particularly for early-morning or after-sunset plans."
+      },
+      {
+        "heading": "How to confirm today's status",
+        "content": "Two reliable checks take a minute: review the official Lowdermilk Park page on the City of Naples website, and call City of Naples Parks & Recreation on +1 239-213-7120 during business hours. On the day itself, the gate arms at the lot entrance are the clearest signal — if they are down and signage is posted, access is being controlled."
+      },
+      {
+        "heading": "Best time of day",
+        "content": "Early morning (before 9:00 AM) brings cooler air, easier parking, calmer water and the best wildlife watching. From 10:00 AM to 3:00 PM the sand is busiest and UV is strongest. Late afternoon from roughly 90 minutes before sunset is the sweet spot for light, temperature and Gulf of Mexico sunsets, and is typically the least stressful time to park."
+      },
+      {
+        "heading": "Seasonal notes",
+        "content": "Winter (December–March) offers the gentlest conditions, though daylight ends early and sunset arrives around 5:30 PM. Spring (March–May) has the highest visitation and the fullest lot. Summer brings hot afternoons and frequent late-day thunderstorm cells after about 3:00 PM, plus sea turtle nesting season on the beaches from May to October. Autumn is quiet, but September–October is when red-tide advisories are most likely in Collier County."
+      },
+      {
+        "heading": "Storm, holiday & water-quality closures",
+        "content": "Named tropical storms and hurricanes can close the park under City emergency operations; the location sits in a Collier County storm-surge evacuation zone, so a mandatory evacuation order means the park is closed. Red-tide advisories and other water-quality events can also change how you should use the beach. Check NOAA's National Hurricane Center forecast during storm season, plus the Florida FWC red-tide status maps, and always follow flags posted on the beach."
+      },
+      {
+        "heading": "Facility hours inside the park",
+        "content": "Restrooms, rinse showers and drinking fountains are maintained for daytime public use and are most reliably open through the middle of the day. Playgrounds and volleyball courts are day-use facilities in practice. Group picnic shelters operate on reservable permits issued by the City, so reserve ahead if you are planning a gathering."
+      }
+    ],
+    "faqTitle": "Hours FAQ",
+    "faq": [
+      {
+        "question": "What time does Lowdermilk Beach open?",
+        "answer": "City of Naples Parks & Recreation materials list 5:00 AM daily; some City waterfront materials describe the park as dawn to dusk. Both mean an early-morning opening, but confirm with the City if you plan to arrive before sunrise."
+      },
+      {
+        "question": "What time does Lowdermilk Beach close?",
+        "answer": "The commonly published closing time is 11:00 PM daily; the alternative City listing is dusk. Plan your visit around daylight and use sunset as the practical end of a beach day — exact sunset time varies by season and is shown in the weather panel of our visitor guide."
+      },
+      {
+        "question": "Is Lowdermilk Beach open 24 hours?",
+        "answer": "No. Lowdermilk Park is a City park with published daily hours, and the gate-controlled parking lot follows those hours. Overnight access and overnight parking are not part of the public offering."
+      },
+      {
+        "question": "Is Lowdermilk Park open on holidays?",
+        "answer": "Generally yes, but holidays are exactly when the lot fills and attendants may temporarily hold the entrance. Arrive early, carpool where possible, and be ready with an alternative such as signed on-street parking or a nearby City beach access."
+      },
+      {
+        "question": "Does Lowdermilk Beach ever close for red tide?",
+        "answer": "Water-quality advisories don't always close a park, but they change how safely you can use the beach. Check the Florida FWC red-tide status map and the Florida Department of Health in Collier County Healthy Beaches program before swimming; visitors with asthma or respiratory conditions should avoid the shoreline during elevated cell counts."
+      }
+    ],
+    "backLabel": "Back to the Lowdermilk Park visitor guide",
+    "ctaLabel": "Read the full parking guide"
   }
 }

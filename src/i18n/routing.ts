@@ -2,13 +2,13 @@ import { defineRouting } from 'next-intl/routing';
 import { createNavigation } from 'next-intl/navigation';
 
 export const routing = defineRouting({
-  locales: ['zh', 'en'],
-  defaultLocale: 'zh',
-  localePrefix: {
-    mode: 'as-needed',
-  },
+  locales: ['en', 'zh'],
+  defaultLocale: 'en',
+  localePrefix: 'always',
   pathnames: {
     '/': '/',
+    '/parking': '/parking',
+    '/hours': '/hours',
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',
