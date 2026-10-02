@@ -21,7 +21,7 @@ export function buildSubpageMetadata({
   title,
   description,
 }: SubpageMetaInput): Metadata {
-  const zhUrl = `${BASE_URL}${path}`;
+  const zhUrl = `${BASE_URL}/zh${path}`;
   const enUrl = `${BASE_URL}/en${path}`;
   const selfUrl = locale === 'zh' ? zhUrl : enUrl;
 
@@ -60,8 +60,8 @@ export function buildSubpageMetadata({
 }
 
 export function buildBreadcrumbLd(locale: string, path: string, name: string) {
-  const selfUrl = locale === 'zh' ? `${BASE_URL}${path}` : `${BASE_URL}/en${path}`;
-  const homeUrl = locale === 'zh' ? `${BASE_URL}/` : `${BASE_URL}/en`;
+  const homeUrl = locale === 'zh' ? `${BASE_URL}/zh` : `${BASE_URL}/en`;
+  const selfUrl = locale === 'zh' ? `${BASE_URL}/zh${path}` : `${BASE_URL}/en${path}`;
 
   return {
     '@context': 'https://schema.org',
