@@ -17,6 +17,7 @@ import HotelsSection from '@/components/HotelsSection';
 import VisitorAmenitiesSection from '@/components/VisitorAmenitiesSection';
 import OpenToday from '@/components/OpenToday';
 import VisitorDirectory from '@/components/VisitorDirectory';
+import GuideIndex from '@/components/GuideIndex';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import LegendLocalSection from '@/components/LegendLocalSection';
@@ -48,6 +49,7 @@ export default async function HomePage({
         <QuickFactsCard />
         <OpenToday />
         <VisitorDirectory />
+        <GuideIndex locale={locale} />
         <HoursSection />
         <TicketsSection />
         <TransportSection />

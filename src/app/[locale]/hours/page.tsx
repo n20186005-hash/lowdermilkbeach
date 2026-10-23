@@ -5,7 +5,9 @@ import {
   buildBreadcrumbLd,
   buildFaqPageLd,
   buildSubpageMetadata,
+  buildWebPageLd,
 } from '@/lib/subpage-meta';
+import { relatedTopics } from '@/lib/topics';
 
 export async function generateMetadata({
   params,
@@ -36,6 +38,10 @@ export default async function HoursPage({
   setRequestLocale(locale);
   const messages = (await import(`@/messages/${locale}.json`)).default;
   const page = messages.hoursPage;
+  const related = relatedTopics('hours').map((t) => ({
+    path: `/${t.slug}`,
+    label: messages[t.namespace]?.title || t.slug,
+  }));
 
   return (
     <>
@@ -49,7 +55,19 @@ export default async function HoursPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(buildFaqPageLd(page.faq)) }}
       />
-      <GuideSubpage namespace="hoursPage" partner={{ ns: 'parkingPage', path: '/parking' }} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            buildWebPageLd(locale, '/hours', page.title, page.metaDescription)
+          ),
+        }}
+      />
+      <GuideSubpage
+        namespace="hoursPage"
+        partner={{ path: '/parking', label: page.ctaLabel }}
+        related={related}
+      />
     </>
   );
 }

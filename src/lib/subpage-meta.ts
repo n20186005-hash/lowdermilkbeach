@@ -97,3 +97,21 @@ export function buildFaqPageLd(items: Array<{ question: string; answer: string }
     })),
   };
 }
+
+/**
+ * A WebPage JSON-LD node that points `about` back to the canonical attraction
+ * entity, keeping every visitor-intent subpage part of the same entity graph.
+ */
+export function buildWebPageLd(locale: string, path: string, name: string, description: string) {
+  const homeUrl = locale === 'zh' ? `${BASE_URL}/zh` : `${BASE_URL}/en`;
+  const selfUrl = locale === 'zh' ? `${BASE_URL}/zh${path}` : `${BASE_URL}/en${path}`;
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name,
+    description,
+    url: selfUrl,
+    isPartOf: { '@type': 'WebSite', name: 'Lowdermilk Park Visitor Guide', url: homeUrl },
+    about: { '@type': 'TouristAttraction', '@id': `${BASE_URL}/#attraction` },
+  };
+}

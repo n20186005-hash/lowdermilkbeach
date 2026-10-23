@@ -5,7 +5,9 @@ import {
   buildBreadcrumbLd,
   buildFaqPageLd,
   buildSubpageMetadata,
+  buildWebPageLd,
 } from '@/lib/subpage-meta';
+import { relatedTopics } from '@/lib/topics';
 
 export async function generateMetadata({
   params,
@@ -36,6 +38,11 @@ export default async function ParkingPage({
   setRequestLocale(locale);
   const messages = (await import(`@/messages/${locale}.json`)).default;
   const page = messages.parkingPage;
+  const prefix = locale === 'zh' ? '/zh' : '/en';
+  const related = relatedTopics('parking').map((t) => ({
+    path: `/${t.slug}`,
+    label: messages[t.namespace]?.title || t.slug,
+  }));
 
   return (
     <>
@@ -51,7 +58,19 @@ export default async function ParkingPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(buildFaqPageLd(page.faq)) }}
       />
-      <GuideSubpage namespace="parkingPage" partner={{ ns: 'hoursPage', path: '/hours' }} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            buildWebPageLd(locale, '/parking', page.title, page.metaDescription)
+          ),
+        }}
+      />
+      <GuideSubpage
+        namespace="parkingPage"
+        partner={{ path: '/hours', label: page.ctaLabel }}
+        related={related.map((r) => ({ ...r, label: r.label }))}
+      />
     </>
   );
 }
